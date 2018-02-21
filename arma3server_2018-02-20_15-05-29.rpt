@@ -1,0 +1,2091 @@
+=====================================================================
+== D:\A3_Server_Exile\arma3server.exe
+
+
+
+Allocator: D:\A3_Server_Exile\Dll\tbb4malloc_bi.dll [2017.0.0.0] [2017.0.0.0]
+PhysMem: 7.2 GiB, VirtMem : 4.0 GiB, AvailPhys : 5.0 GiB, AvailVirt : 3.8 GiB, AvailPage : 13 GiB
+=====================================================================
+
+15:05:29 Detected number of DLCs: 20
+15:05:29 DLC index:3 - unable to get DLC data
+15:05:29 DLC index:19 - unable to get DLC data
+15:05:29 ----------------------------------------- Dlcs -----------------------------------------
+15:05:29                                 name      appId   owned  installed  available   isDlc
+15:05:29                               Arma 3     107410     yes        yes        yes      no
+15:05:29                              Unknown         -1      no         no         no     yes
+15:05:29                          Arma 3 Zeus     275700     yes        yes        yes     yes
+15:05:29                   Arma 3 Helicopters     304380     yes        yes        yes     yes
+15:05:29                   Arma 3 Laws of War     571710     yes        yes        yes     yes
+15:05:29                  Arma 3 DLC Bundle 2     612480     yes        yes        yes     yes
+15:05:29                        Arma 3 Malden     639600     yes        yes        yes     yes
+15:05:29      Arma 3 Alpha Lite - expires now     228800      no         no         no     yes
+15:05:29                        Arma 3 Server     233780     yes        yes         no     yes
+15:05:29                    Arma 3 Soundtrack     249860     yes        yes         no     yes
+15:05:29                  Arma 3 DLC Bundle 1     304400     yes        yes        yes     yes
+15:05:29                       Arma 3 Samples     390500     yes        yes         no     yes
+15:05:29                          Arma 3 Apex     395180     yes        yes        yes     yes
+15:05:29                          Arma 3 Jets     601670     yes        yes        yes     yes
+15:05:29          Arma 3 Tac-Ops Mission Pack     744950     yes        yes        yes     yes
+15:05:29                          Arma 3 Maps     249861     yes        yes         no     yes
+15:05:29                Arma 3 Tactical Guide     249862     yes        yes         no     yes
+15:05:29                         Arma 3 Tools     233800     yes        yes         no     yes
+15:05:29                         Arma 3 Karts     288520     yes        yes        yes     yes
+15:05:29                      Arma 3 Marksmen     332350     yes        yes        yes     yes
+15:05:29 ----------------------------------------------------------------------------------------
+15:05:29 Cannot register unknown string STR_3DEN_CAMERA_NAME
+15:05:29 Cannot register unknown string STR_DIFF_SCENE_ONLY
+15:05:29 Cannot register unknown string STR_DIFF_SCENE_AND_MAP
+15:05:30 Initializing stats manager.
+15:05:30 Stats config disabled.
+15:05:30 sessionID: 3cc4a3b6eb6f52b7862dae894009eac08b050afa
+15:05:47 Item str_a3_to_c01_m02_036_ta_mechanized_briefing_SOLDIERC_0 listed twice
+15:05:49 Updating base class ->Wreck, by a3\data_f\config.bin/CfgVehicles/PlaneWreck/ (original a3\data_f\config.bin)
+15:05:49 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayEditObject/Controls/B_OK/ (original bin\config.bin)
+15:05:49 Updating base class RscSliderH->RscXSliderH, by a3\editor_f\config.bin/RscDisplayEditObject/Slider/ (original bin\config.bin)
+15:05:49 Updating base class RscText->RscPicture, by a3\editor_f\config.bin/RscDisplayEditObject/Preview/ (original bin\config.bin)
+15:05:49 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionLoad/Controls/B_OK/ (original bin\config.bin)
+15:05:49 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionSave/Controls/B_OK/ (original bin\config.bin)
+15:05:49 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoScrollbars/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoHScrollbars/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoVScrollbars/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscText, by a3\ui_f\config.bin/RscLine/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscActiveText, by a3\ui_f\config.bin/RscActivePicture/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscButton, by a3\ui_f\config.bin/RscButtonTextOnly/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscShortcutButtonMain/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonEditor/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscIGUIShortcutButton/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscGearShortcutButton/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonMenu/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuOK/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuCancel/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuSteam/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscText, by a3\ui_f\config.bin/RscLoadingText/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscListBox, by a3\ui_f\config.bin/RscIGUIListBox/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscListNBox, by a3\ui_f\config.bin/RscIGUIListNBox/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackground/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUI/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUILeft/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIRight/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIBottom/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUITop/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUIDark/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/RscBackgroundLogo/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscMapControl, by a3\ui_f\config.bin/RscMapControlEmpty/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscPicture, by a3\ui_f\config.bin/CA_Mainback/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Back/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Title_Back/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Black_Back/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscTitle, by a3\ui_f\config.bin/CA_Title/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/CA_Logo/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->CA_Logo, by a3\ui_f\config.bin/CA_Logo_Small/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscButton, by a3\ui_f\config.bin/CA_RscButton/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->CA_RscButton, by a3\ui_f\config.bin/CA_RscButton_dialog/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscActiveText, by a3\ui_f\config.bin/CA_Ok/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image2/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_text/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscVignette/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class ->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscMapControlTooltip/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class RscUnitInfo->RscUnitInfoAirNoWeapon, by a3\ui_f\config.bin/RscInGameUI/RscUnitInfoAir/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class RscControlsGroup->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscInGameUI/RscTaskOverview/controls/TaskOverviewAssigned/ (original bin\config.bin)
+15:05:49 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_OK/ (original bin\config.bin)
+15:05:49 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Cancel/ (original bin\config.bin)
+15:05:49 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Clear/ (original bin\config.bin)
+15:05:49 Updating base class ->RscText, by a3\ui_f\config.bin/RscDisplayCapture/controls/TimeLines/ (original bin\config.bin)
+15:05:49 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonAverages/ (original bin\config.bin)
+15:05:49 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonSavePreviousData/ (original bin\config.bin)
+15:05:49 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonPreviousData/ (original bin\config.bin)
+15:05:49 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/IconPicture/ (original bin\config.bin)
+15:05:49 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcOwnedIconPicture/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcIconPicture/ (original a3\ui_f\config.bin)
+15:05:49 Updating base class RscControlsGroup->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/OverviewGroup/ (original bin\config.bin)
+15:05:49 Updating base class RscButton->RscButtonSearch, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/SearchButton/ (original bin\config.bin)
+15:05:49 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonCancel/ (original bin\config.bin)
+15:05:49 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonGameOptions/ (original bin\config.bin)
+15:05:49 Updating base class RscShortcutButton->RscButtonMenuSteam, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonBuyDLC/ (original bin\config.bin)
+15:05:49 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonRevert/ (original bin\config.bin)
+15:05:49 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonOK/ (original bin\config.bin)
+15:05:49 Updating base class RscListBox->RscCombo, by a3\ui_f\config.bin/RscDisplayCustomizeController/Steepness/ (original bin\config.bin)
+15:05:49 Updating base class ->RscStandardDisplay, by a3\ui_f\config.bin/RscDisplayControlSchemes/ (original bin\config.bin)
+15:05:49 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonCancel/ (original bin\config.bin)
+15:05:49 Updating base class RscButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonOK/ (original bin\config.bin)
+15:05:49 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayFileSelectImage/controls/OverviewPicture/ (original bin\config.bin)
+15:05:50 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayFieldManual/Controls/ButtonCancel/ (original bin\config.bin)
+15:05:50 Cannot delete class B_KickOff, it is referenced somewhere (used as a base class probably).
+15:05:50 Updating base class RscButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMission/controls/ButtonCancel/ (original bin\config.bin)
+15:05:50 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonOK/ (original bin\config.bin)
+15:05:50 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonCancel/ (original bin\config.bin)
+15:05:50 Updating base class ->RscSubmenu, by a3\ui_f\config.bin/RscMainMenu/ (original bin\config.bin)
+15:05:50 Updating base class None->ActiveSensorsOn, by a3\ui_f\config.bin/CfgActions/ActiveSensorsOff/ (original bin\config.bin)
+15:05:50 Updating base class None->ListRightVehicleDisplay, by a3\ui_f\config.bin/CfgActions/ListLeftVehicleDisplay/ (original bin\config.bin)
+15:05:50 Updating base class None->ListPrevRightVehicleDisplay, by a3\ui_f\config.bin/CfgActions/ListPrevLeftVehicleDisplay/ (original bin\config.bin)
+15:05:50 Updating base class None->CloseRightVehicleDisplay, by a3\ui_f\config.bin/CfgActions/CloseLeftVehicleDisplay/ (original bin\config.bin)
+15:05:50 Updating base class None->NextModeRightVehicleDisplay, by a3\ui_f\config.bin/CfgActions/NextModeLeftVehicleDisplay/ (original bin\config.bin)
+15:05:50 Updating base class ->DistanceClose, by a3\ui_f\config.bin/CfgSimpleTasks/Icon3D/DistanceMid/ (original bin\config.bin)
+15:05:50 Updating base class ->DistanceClose, by a3\ui_f\config.bin/CfgSimpleTasks/Icon3D/DistanceLong/ (original bin\config.bin)
+15:05:50 Updating base class ->VehicleMagazine, by a3\weapons_f\config.bin/CfgMagazines/24Rnd_missiles/ (original a3\weapons_f\config.bin)
+15:05:50 Updating base class ->RocketPods, by a3\weapons_f\config.bin/CfgWeapons/missiles_DAR/ (original a3\weapons_f\config.bin)
+15:05:50 Updating base class player->close, by a3\sounds_f\config.bin/CfgWeapons/autocannon_30mm_CTWS/HE/close/ (original a3\weapons_f\config.bin)
+15:05:50 Updating base class close->short, by a3\sounds_f\config.bin/CfgWeapons/autocannon_30mm_CTWS/HE/short/ (original a3\weapons_f\config.bin)
+15:05:50 Updating base class close->medium, by a3\sounds_f\config.bin/CfgWeapons/autocannon_30mm_CTWS/HE/medium/ (original a3\weapons_f\config.bin)
+15:05:50 Updating base class close->far, by a3\sounds_f\config.bin/CfgWeapons/autocannon_30mm_CTWS/HE/far/ (original a3\weapons_f\config.bin)
+15:05:50 Updating base class player->close, by a3\sounds_f\config.bin/CfgWeapons/autocannon_30mm_CTWS/AP/close/ (original a3\weapons_f\config.bin)
+15:05:50 Updating base class close->short, by a3\sounds_f\config.bin/CfgWeapons/autocannon_30mm_CTWS/AP/short/ (original a3\weapons_f\config.bin)
+15:05:50 Updating base class close->medium, by a3\sounds_f\config.bin/CfgWeapons/autocannon_30mm_CTWS/AP/medium/ (original a3\weapons_f\config.bin)
+15:05:50 Updating base class close->far, by a3\sounds_f\config.bin/CfgWeapons/autocannon_30mm_CTWS/AP/far/ (original a3\weapons_f\config.bin)
+15:05:50 Updating base class ->Tank, by a3\armor_f_beta\config.bin/CfgVehicles/Tank_F/ (original a3\armor_f_beta\config.bin)
+15:05:50 Updating base class NewTurret->NewTurret, by a3\armor_f_beta\apc_wheeled_01\config.bin/CfgVehicles/Wheeled_APC_F/Turrets/MainTurret/ (original a3\armor_f_beta\config.bin)
+15:05:50 Updating base class ->ctrlDefaultText, by a3\3den\config.bin/ctrlStatic/ (original a3\3den\config.bin)
+15:05:50 Updating base class ->ctrlActiveText, by a3\3den\config.bin/ctrlActivePicture/ (original a3\3den\config.bin)
+15:05:50 Updating base class ->ctrlDefaultText, by a3\3den\config.bin/ctrlStructuredText/ (original a3\3den\config.bin)
+15:05:50 Updating base class ->ctrlControlsGroup, by a3\3den\config.bin/ctrlControlsGroupNoScrollbars/ (original a3\3den\config.bin)
+15:05:50 Updating base class ->ctrlDefault, by a3\3den\config.bin/ctrlCheckbox/ (original a3\3den\config.bin)
+15:05:50 Updating base class ->ctrlCheckbox, by a3\3den\config.bin/ctrlCheckboxBaseline/ (original a3\3den\config.bin)
+15:05:50 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayOptionsAudio/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+15:05:50 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayOptionsAudio/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+15:05:50 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigure/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+15:05:50 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigure/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+15:05:50 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigureAction/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+15:05:50 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigureAction/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+15:05:50 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigureControllers/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+15:05:50 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigureControllers/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+15:05:50 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayGameOptions/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+15:05:50 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayGameOptions/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+15:05:50 Updating base class controls->, by a3\3den\config.bin/RscDisplayArcadeMap_Layout_2/Controls/ (original a3\ui_f\config.bin)
+15:05:50 Updating base class controls->, by a3\3den\config.bin/RscDisplayArcadeMap_Layout_6/Controls/ (original a3\ui_f\config.bin)
+15:05:50 Updating base class ->ctrlControlsGroupNoScrollbars, by a3\3den\config.bin/Cfg3DEN/Attributes/Default/ (original a3\3den\config.bin)
+15:05:50 Updating base class ->ctrlStatic, by a3\3den\config.bin/Cfg3DEN/Attributes/Title/Controls/Title/ (original a3\3den\config.bin)
+15:05:50 Updating base class ->Controls, by a3\3den\config.bin/Cfg3DEN/Attributes/Toolbox/Controls/ (original a3\modules_f\config.bin)
+15:05:50 Updating base class ->Title, by a3\3den\config.bin/Cfg3DEN/Attributes/Toolbox/Controls/Title/ (original a3\3den\config.bin)
+15:05:50 Updating base class ->ctrlToolbox, by a3\3den\config.bin/Cfg3DEN/Attributes/Toolbox/Controls/Value/ (original a3\3den\config.bin)
+15:05:50 Updating base class ListRightVehicleDisplay->None, by exile_client\config.bin/CfgActions/ListLeftVehicleDisplay/ (original bin\config.bin)
+15:05:50 Updating base class ListPrevRightVehicleDisplay->None, by exile_client\config.bin/CfgActions/ListPrevLeftVehicleDisplay/ (original bin\config.bin)
+15:05:50 Updating base class CloseRightVehicleDisplay->None, by exile_client\config.bin/CfgActions/CloseLeftVehicleDisplay/ (original bin\config.bin)
+15:05:50 Updating base class NextModeRightVehicleDisplay->None, by exile_client\config.bin/CfgActions/NextModeLeftVehicleDisplay/ (original bin\config.bin)
+15:05:50 Updating base class B_Soldier_02_f->B_Soldier_base_F, by exile_client\config.bin/CfgVehicles/B_Story_SF_Captain_F/ (original a3\characters_f\config.bin)
+15:05:50 Cannot delete class BackgroundSlotPrimary, it is referenced somewhere (used as a base class probably).
+15:05:50 Updating base class RscStandardDisplay->, by exile_client\config.bin/RscDisplayMain/ (original bin\config.bin)
+15:05:50 Updating base class RscPicture->RscText, by exile_client\config.bin/RscDisplayVoiceChat/controls/Picture/ (original a3\ui_f\config.bin)
+15:05:50 Updating base class ->Plane, by exile_psycho_an2\config.bin/CfgVehicles/an2_base/ (original exile_psycho_an2\config.bin)
+15:05:50 Updating base class ->BRDM2_HQ_Base, by exile_psycho_brdm\config.bin/CfgVehicles/BRDM2_HQ_CHDKZ/ (original exile_psycho_brdm\config.bin)
+15:05:50 Updating base class ->Car_F, by exile_psycho_btr40\config.bin/CfgVehicles/BTR40_MG_base_EP1/ (original exile_psycho_btr40\config.bin)
+15:05:50 Updating base class ->BTR40_MG_base_EP1, by exile_psycho_btr40\config.bin/CfgVehicles/BTR40_base_EP1/ (original exile_psycho_btr40\config.bin)
+15:05:50 Updating base class ->Car_F, by exile_psycho_gaz_volha\config.bin/CfgVehicles/volha_Base/ (original exile_psycho_gaz_volha\config.bin)
+15:05:50 Updating base class close->LowROF, by exile_psycho_hmmw\config.bin/cfgWeapons/M134_minigun/medium/ (original a3\weapons_f\config.bin)
+15:05:50 Updating base class close->medium, by exile_psycho_hmmw\config.bin/cfgWeapons/M134_minigun/far/ (original a3\weapons_f\config.bin)
+15:05:50 Updating base class ->HMMWV_Base, by exile_psycho_hmmw\config.bin/CfgVehicles/HMMWV_M2/ (original exile_psycho_hmmw\config.bin)
+15:05:50 Updating base class ->HMMWV_Base, by exile_psycho_hmmw\config.bin/CfgVehicles/HMMWV_M134/ (original exile_psycho_hmmw\config.bin)
+15:05:50 Updating base class ->HMMWV_Base, by exile_psycho_hmmw\config.bin/CfgVehicles/HMMWV_UNA/ (original exile_psycho_hmmw\config.bin)
+15:05:50 Updating base class ->HMMWV_UNA, by exile_psycho_hmmw\config.bin/CfgVehicles/HMMWV_MEV/ (original exile_psycho_hmmw\config.bin)
+15:05:50 Updating base class ->Ikarus_Base, by exile_psycho_ikarus\config.bin/CfgVehicles/Ikarus_Civ_02/ (original exile_psycho_ikarus\config.bin)
+15:05:50 Updating base class ->Car_F, by exile_psycho_lada\config.bin/CfgVehicles/Lada_Base/ (original exile_psycho_lada\config.bin)
+15:05:50 Updating base class ->Landrover_civ, by exile_psycho_lrc\config.bin/CfgVehicles/Landrover_Civ_02/ (original exile_psycho_lrc\config.bin)
+15:05:50 Updating base class ->Landrover_civ, by exile_psycho_lrc\config.bin/CfgVehicles/LR_Ambulance_Base/ (original exile_psycho_lrc\config.bin)
+15:05:50 Updating base class ->Octavia_Base, by exile_psycho_octavia\config.bin/CfgVehicles/Octavia_Civ_01/ (original exile_psycho_octavia\config.bin)
+15:05:50 Updating base class ->Car_F, by exile_psycho_suv_a3\config.bin/CfgVehicles/SUV_Base/ (original exile_psycho_suv_a3\config.bin)
+15:05:50 Updating base class ->Car_F, by exile_psycho_suvarm_a3\config.bin/cfgVehicles/SUV_armored_Base/ (original exile_psycho_suvarm_a3\config.bin)
+15:05:50 Updating base class ->Car_F, by exile_psycho_tractor\config.bin/CfgVehicles/Tractor_Base/ (original exile_psycho_tractor\config.bin)
+15:05:50 Updating base class ->Tractor_Base, by exile_psycho_tractor\config.bin/CfgVehicles/tractorOld/ (original exile_psycho_tractor\config.bin)
+15:05:50 Updating base class ->Offroad_01_base_F, by exile_psycho_uaz\config.bin/CfgVehicles/UAZ_Base/ (original exile_psycho_uaz\config.bin)
+15:05:50 Updating base class ->UAZ_Base, by exile_psycho_uaz\config.bin/CfgVehicles/UAZ_Open_Base/ (original exile_psycho_uaz\config.bin)
+15:05:50 Updating base class ->UH1H_Closed, by exile_psycho_uh1h\config.bin/CfgVehicles/UH1H_Clo/ (original exile_psycho_uh1h\config.bin)
+15:05:50 Updating base class ->UH1HL_base, by exile_psycho_uh1h\config.bin/CfgVehicles/UH1H_M240/ (original exile_psycho_uh1h\config.bin)
+15:05:50 Updating base class ->Ural_Base, by exile_psycho_ural\config.bin/CfgVehicles/Ural_RU/ (original exile_psycho_ural\config.bin)
+15:05:50 Updating base class ->Ural_Open_Base, by exile_psycho_ural\config.bin/CfgVehicles/Ural_Open_RU/ (original exile_psycho_ural\config.bin)
+15:05:50 Updating base class ->Truck_F, by exile_psycho_v3s\config.bin/CfgVehicles/V3S_base/ (original exile_psycho_v3s\config.bin)
+15:05:50 Updating base class ->V3S_base, by exile_psycho_v3s\config.bin/CfgVehicles/V3S_Base_EP1/ (original exile_psycho_v3s\config.bin)
+15:05:50 Updating base class KIA_Golf_Driver->DefaultDie, by exile_psycho_vwgolf\config.bin/CfgMovesMaleSdr/States/KIA_Golf_Cargo01/ (original exile_psycho_lada\config.bin)
+15:05:50 Updating base class KIA_Golf_Driver->DefaultDie, by exile_psycho_vwgolf\config.bin/CfgMovesMaleSdr/States/KIA_Golf_Cargo02/ (original exile_psycho_lada\config.bin)
+15:05:50 Updating base class KIA_Golf_Driver->DefaultDie, by exile_psycho_vwgolf\config.bin/CfgMovesMaleSdr/States/KIA_Golf_Cargo03/ (original exile_psycho_lada\config.bin)
+15:05:50 Updating base class ->Golf_Base, by exile_psycho_vwgolf\config.bin/CfgVehicles/Golf_Civ_Base/ (original exile_psycho_vwgolf\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\arifle\ak\config.bin/cfgmagazines/75Rnd_Green_Tracer_545x39_RPK/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->75Rnd_Green_Tracer_545x39_RPK, by exile_psycho_weapons\arifle\ak\config.bin/cfgmagazines/45Rnd_Green_Tracer_545x39_RPK/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\arifle\ak\config.bin/cfgmagazines/30Rnd_545x39_AK/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->30Rnd_545x39_AK, by exile_psycho_weapons\arifle\ak\config.bin/cfgmagazines/30Rnd_Green_Tracer_545x39_AK/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->30Rnd_545x39_AK, by exile_psycho_weapons\arifle\ak\config.bin/cfgmagazines/30Rnd_Red_Tracer_545x39_AK/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->30Rnd_545x39_AK, by exile_psycho_weapons\arifle\ak\config.bin/cfgmagazines/30Rnd_White_Tracer_545x39_AK/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->30Rnd_545x39_AK, by exile_psycho_weapons\arifle\ak\config.bin/cfgmagazines/30Rnd_Yellow_Tracer_545x39_AK/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\arifle\ak\config.bin/cfgmagazines/30Rnd_762x39_AK47_M/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->arifle_AK_Base, by exile_psycho_weapons\arifle\ak\config.bin/CfgWeapons/arifle_AK47/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->arifle_AK_Base, by exile_psycho_weapons\arifle\ak\config.bin/CfgWeapons/arifle_AK74/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->arifle_AK107_Base, by exile_psycho_weapons\arifle\ak\config.bin/CfgWeapons/arifle_AK107/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->arifle_AK107_Base, by exile_psycho_weapons\arifle\ak\config.bin/CfgWeapons/arifle_AK107_GL/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->arifle_AK_Base, by exile_psycho_weapons\arifle\ak\config.bin/CfgWeapons/arifle_AK74_GL/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->arifle_AK_Base, by exile_psycho_weapons\arifle\ak\config.bin/CfgWeapons/arifle_AKM/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->arifle_AKM, by exile_psycho_weapons\arifle\ak\config.bin/CfgWeapons/arifle_AKS/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->arifle_AKS, by exile_psycho_weapons\arifle\ak\config.bin/CfgWeapons/arifle_AKS_Gold/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->arifle_AK74, by exile_psycho_weapons\arifle\ak\config.bin/CfgWeapons/arifle_RPK74/ (original exile_psycho_weapons\arifle\ak\config.bin)
+15:05:50 Updating base class ->exile_arifle_M16A4_base, by exile_psycho_weapons\arifle\m\m16a4\config.bin/CfgWeapons/exile_arifle_M16A4/ (original exile_psycho_weapons\arifle\m\m16a4\config.bin)
+15:05:50 Updating base class ->exile_arifle_M16A4_base, by exile_psycho_weapons\arifle\m\m16a4\config.bin/CfgWeapons/exile_arifle_M16A2/ (original exile_psycho_weapons\arifle\m\m16a4\config.bin)
+15:05:50 Updating base class ->Rifle_Base_F, by exile_psycho_weapons\arifle\m\m4\config.bin/CfgWeapons/exile_arifle_M4/ (original exile_psycho_weapons\arifle\m\m4\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\arifle\sa61\config.bin/CfgMagazines/10Rnd_765x17ball/ (original exile_psycho_weapons\arifle\sa61\config.bin)
+15:05:50 Updating base class ->10Rnd_765x17ball, by exile_psycho_weapons\arifle\sa61\config.bin/CfgMagazines/20Rnd_765x17ball/ (original exile_psycho_weapons\arifle\sa61\config.bin)
+15:05:50 Updating base class ->Pistol_Base_F, by exile_psycho_weapons\arifle\sa61\config.bin/CfgWeapons/exile_rifle_SA61/ (original exile_psycho_weapons\arifle\sa61\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\mgun\pk\config.bin/CfgMagazines/100Rnd_762x54_PK_Tracer_Green/ (original exile_psycho_weapons\mgun\pk\config.bin)
+15:05:50 Updating base class ->Rifle_Long_Base_F, by exile_psycho_weapons\mgun\pk\config.bin/CfgWeapons/PKP/ (original exile_psycho_weapons\mgun\pk\config.bin)
+15:05:50 Updating base class ->PKP, by exile_psycho_weapons\mgun\pk\config.bin/CfgWeapons/Pecheneg/ (original exile_psycho_weapons\mgun\pk\config.bin)
+15:05:50 Updating base class ShotgunBase->BulletBase, by exile_psycho_weapons\other\m1014\config.bin/CfgAmmo/B_12Gauge_Pellets/ (original a3\weapons_f\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\other\m1014\config.bin/CfgMagazines/8Rnd_B_Beneli_74Slug/ (original exile_psycho_weapons\other\m1014\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\other\m1014\config.bin/CfgMagazines/8Rnd_B_Beneli_74Pellets/ (original exile_psycho_weapons\other\m1014\config.bin)
+15:05:50 Updating base class ->Rifle_Base_F, by exile_psycho_weapons\other\m1014\config.bin/CfgWeapons/M1014/ (original exile_psycho_weapons\other\m1014\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\pistol\colt1911\config.bin/CfgMagazines/7Rnd_45ACP_1911/ (original exile_psycho_weapons\pistol\colt1911\config.bin)
+15:05:50 Updating base class ->Pistol_Base_F, by exile_psycho_weapons\pistol\colt1911\config.bin/CfgWeapons/Colt1911/ (original exile_psycho_weapons\pistol\colt1911\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\pistol\makarov\config.bin/CfgMagazines/8Rnd_9x18_Makarov/ (original exile_psycho_weapons\pistol\makarov\config.bin)
+15:05:50 Updating base class ->Pistol_Base_F, by exile_psycho_weapons\pistol\makarov\config.bin/CfgWeapons/Makarov/ (original exile_psycho_weapons\pistol\makarov\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\pistol\revolver\config.bin/CfgMagazines/6Rnd_45ACP/ (original exile_psycho_weapons\pistol\revolver\config.bin)
+15:05:50 Updating base class ->Pistol_Base_F, by exile_psycho_weapons\pistol\revolver\config.bin/CfgWeapons/TaurusTracker455/ (original exile_psycho_weapons\pistol\revolver\config.bin)
+15:05:50 Updating base class ->TaurusTracker455, by exile_psycho_weapons\pistol\revolver\config.bin/CfgWeapons/TaurusTracker455_gold/ (original exile_psycho_weapons\pistol\revolver\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\srifle\dmr\config.bin/CfgMagazines/20Rnd_762x51_DMR/ (original exile_psycho_weapons\srifle\dmr\config.bin)
+15:05:50 Updating base class ->20Rnd_762x51_DMR, by exile_psycho_weapons\srifle\dmr\config.bin/CfgMagazines/20Rnd_Yellow_Tracer_762x51_DMR/ (original exile_psycho_weapons\srifle\dmr\config.bin)
+15:05:50 Updating base class ->20Rnd_762x51_DMR, by exile_psycho_weapons\srifle\dmr\config.bin/CfgMagazines/20Rnd_Red_Tracer_762x51_DMR/ (original exile_psycho_weapons\srifle\dmr\config.bin)
+15:05:50 Updating base class ->20Rnd_762x51_DMR, by exile_psycho_weapons\srifle\dmr\config.bin/CfgMagazines/20Rnd_Green_Tracer_762x51_DMR/ (original exile_psycho_weapons\srifle\dmr\config.bin)
+15:05:50 Updating base class ->Rifle_Base_F, by exile_psycho_weapons\srifle\dmr\config.bin/CfgWeapons/srifle_DMR/ (original exile_psycho_weapons\srifle\dmr\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\srifle\huntingrifle\config.bin/CfgMagazines/5x_22_LR_17_HMR_M/ (original exile_psycho_weapons\srifle\huntingrifle\config.bin)
+15:05:50 Updating base class ->Rifle_Base_F, by exile_psycho_weapons\srifle\huntingrifle\config.bin/CfgWeapons/srifle_CZ550_base/ (original exile_psycho_weapons\srifle\huntingrifle\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\srifle\ksvk\config.bin/CfgMagazines/5Rnd_127x108_KSVK/ (original exile_psycho_weapons\srifle\ksvk\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\srifle\ksvk\config.bin/CfgMagazines/5Rnd_127x108_APDS_KSVK/ (original exile_psycho_weapons\srifle\ksvk\config.bin)
+15:05:50 Updating base class ->Rifle_Base_F, by exile_psycho_weapons\srifle\ksvk\config.bin/CfgWeapons/ksvk/ (original exile_psycho_weapons\srifle\ksvk\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\srifle\leeenfield\config.bin/CfgMagazines/10x_303_M/ (original exile_psycho_weapons\srifle\leeenfield\config.bin)
+15:05:50 Updating base class ->Rifle_Base_F, by exile_psycho_weapons\srifle\leeenfield\config.bin/CfgWeapons/srifle_LeeEnfield/ (original exile_psycho_weapons\srifle\leeenfield\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\srifle\m107\config.bin/CfgMagazines/10Rnd_127x99_m107/ (original exile_psycho_weapons\srifle\m107\config.bin)
+15:05:50 Updating base class ->Rifle_Long_Base_F, by exile_psycho_weapons\srifle\m107\config.bin/CfgWeapons/exile_weapons_m107/ (original exile_psycho_weapons\srifle\m107\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\srifle\svd\config.bin/CfgMagazines/10Rnd_762x54_SVD/ (original exile_psycho_weapons\srifle\svd\config.bin)
+15:05:50 Updating base class ->Rifle_Base_F, by exile_psycho_weapons\srifle\svd\config.bin/CfgWeapons/srifle_SVD/ (original exile_psycho_weapons\srifle\svd\config.bin)
+15:05:50 Updating base class ->srifle_SVD, by exile_psycho_weapons\srifle\svd\config.bin/CfgWeapons/srifle_SVD_des/ (original exile_psycho_weapons\srifle\svd\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\srifle\vss\config.bin/CfgMagazines/10Rnd_9x39_VSS/ (original exile_psycho_weapons\srifle\vss\config.bin)
+15:05:50 Updating base class ->CA_Magazine, by exile_psycho_weapons\srifle\vss\config.bin/CfgMagazines/20Rnd_9x39_VSS/ (original exile_psycho_weapons\srifle\vss\config.bin)
+15:05:50 Updating base class ->Rifle_Base_F, by exile_psycho_weapons\srifle\vss\config.bin/CfgWeapons/srifle_VSSVintorez/ (original exile_psycho_weapons\srifle\vss\config.bin)
+15:05:50 Updating base class ->Plane_Civil_01_base_F, by a3\air_f_exp\plane_civil_01\config.bin/CfgVehicles/C_Plane_Civil_01_F/ (original a3\air_f_exp\plane_civil_01\config.bin)
+15:05:50 Updating base class ->VTOL_01_infantry_base_F, by a3\air_f_exp\vtol_01\config.bin/CfgVehicles/B_T_VTOL_01_infantry_F/ (original a3\air_f_exp\vtol_01\config.bin)
+15:05:50 Updating base class ->VTOL_01_vehicle_base_F, by a3\air_f_exp\vtol_01\config.bin/CfgVehicles/B_T_VTOL_01_vehicle_F/ (original a3\air_f_exp\vtol_01\config.bin)
+15:05:50 Updating base class ->Boat_Transport_02_base_F, by a3\boat_f_exp\boat_transport_02\config.bin/CfgVehicles/B_G_Boat_Transport_02_F/ (original a3\boat_f_exp\boat_transport_02\config.bin)
+15:05:50 Updating base class ->Scooter_Transport_01_base_F, by a3\boat_f_exp\scooter_transport_01\config.bin/CfgVehicles/C_Scooter_Transport_01_F/ (original a3\boat_f_exp\scooter_transport_01\config.bin)
+15:05:50 Updating base class I_1stRegiment->BaseGuer, by a3\missions_f_orange\config.bin/CfgORBAT/BIS/I_3rdRegiment/ (original a3\missions_f_epa\config.bin)
+15:05:50 Updating base class CounterMeasureFlare->, by a3\weapons_f_orange\config.bin/FlareShell/ (original a3\weapons_f_orange\config.bin)
+15:05:51 Updating base class Controls->, by a3\modules_f_tacops\config.bin/Cfg3DEN/Attributes/Toolbox/Controls/ (original a3\3den\config.bin)
+15:05:51 Updating base class Controls->, by a3\modules_f_tacops\config.bin/Cfg3DEN/Attributes/Combo/Controls/ (original a3\3den\config.bin)
+15:05:51 Updating base class Controls->, by a3\modules_f_tacops\config.bin/Cfg3DEN/Attributes/Slider/Controls/ (original a3\3den\config.bin)
+15:05:52 Initializing Steam Manager
+15:05:52 Starting initial content check.
+15:05:52 Steam Manager initialized.
+15:05:52 
+15:05:52 ==== Loaded addons ====
+15:05:52 
+15:05:52 dta\bin.pbo - 143869
+15:05:52 dta\core.pbo - 109319
+15:05:52 dta\languagecore_f.pbo - 124255
+15:05:52 D:\A3_Server_Exile\@Exile\addons\dbo_old_bike.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_assets.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_client.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_danny_items.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_an2.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_brdm.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_btr40.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_gaz_volha.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_hmmw.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_ikarus.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_lada.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_lrc.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_octavia.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_suvarm_a3.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_suv_a3.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_towtractor.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_tractor.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_uaz.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_uh1h.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_ural.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_v3s.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_vwgolf.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\exile_psycho_weapons.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@Exile\addons\gnt_c185.pbo - unknown
+15:05:52 D:\A3_Server_Exile\tacops\addons\characters_f_tacops.ebo - 124006
+15:05:52 D:\A3_Server_Exile\tacops\addons\data_f_tacops.ebo - 124116
+15:05:52 D:\A3_Server_Exile\tacops\addons\dubbing_f_tacops.ebo - 123940
+15:05:52 D:\A3_Server_Exile\tacops\addons\functions_f_tacops.ebo - 124108
+15:05:52 D:\A3_Server_Exile\tacops\addons\languagemissions_f_tacops.ebo - 124112
+15:05:52 D:\A3_Server_Exile\tacops\addons\language_f_tacops.ebo - 124113
+15:05:52 D:\A3_Server_Exile\tacops\addons\missions_f_tacops.ebo - 124106
+15:05:52 D:\A3_Server_Exile\tacops\addons\modules_f_tacops.ebo - 123979
+15:05:52 D:\A3_Server_Exile\tacops\addons\music_f_tacops.ebo - 124064
+15:05:52 D:\A3_Server_Exile\tacops\addons\sounds_f_tacops.ebo - 123795
+15:05:52 D:\A3_Server_Exile\tacops\addons\ui_f_tacops.ebo - 124116
+15:05:52 D:\A3_Server_Exile\orange\addons\air_f_orange.ebo - 123266
+15:05:52 D:\A3_Server_Exile\orange\addons\cargoposes_f_orange.ebo - 121102
+15:05:52 D:\A3_Server_Exile\orange\addons\characters_f_orange.ebo - 123851
+15:05:52 D:\A3_Server_Exile\orange\addons\data_f_orange.ebo - 121095
+15:05:52 D:\A3_Server_Exile\orange\addons\dubbing_f_orange.ebo - 121689
+15:05:52 D:\A3_Server_Exile\orange\addons\editorpreviews_f_orange.ebo - 123173
+15:05:52 D:\A3_Server_Exile\orange\addons\functions_f_orange.ebo - 120507
+15:05:52 D:\A3_Server_Exile\orange\addons\languagemissions_f_orange.ebo - 124113
+15:05:52 D:\A3_Server_Exile\orange\addons\language_f_orange.ebo - 124113
+15:05:52 D:\A3_Server_Exile\orange\addons\missions_f_orange.ebo - 124054
+15:05:52 D:\A3_Server_Exile\orange\addons\modules_f_orange.ebo - 119459
+15:05:52 D:\A3_Server_Exile\orange\addons\music_f_orange.ebo - 120725
+15:05:52 D:\A3_Server_Exile\orange\addons\props_f_orange.ebo - 121424
+15:05:52 D:\A3_Server_Exile\orange\addons\soft_f_orange.ebo - 124032
+15:05:52 D:\A3_Server_Exile\orange\addons\sounds_f_orange.ebo - 122301
+15:05:52 D:\A3_Server_Exile\orange\addons\structures_f_orange.ebo - 121553
+15:05:52 D:\A3_Server_Exile\orange\addons\supplies_f_orange.ebo - 120744
+15:05:52 D:\A3_Server_Exile\orange\addons\ui_f_orange.ebo - 123398
+15:05:52 D:\A3_Server_Exile\orange\addons\weapons_f_orange.ebo - 123493
+15:05:52 D:\A3_Server_Exile\argo\addons\armor_f_argo.pbo - 119456
+15:05:52 D:\A3_Server_Exile\argo\addons\characters_f_patrol.pbo - 120167
+15:05:52 D:\A3_Server_Exile\argo\addons\data_f_argo.pbo - 123488
+15:05:52 D:\A3_Server_Exile\argo\addons\data_f_patrol.pbo - 121287
+15:05:52 D:\A3_Server_Exile\argo\addons\editorpreviews_f_argo.pbo - 121102
+15:05:52 D:\A3_Server_Exile\argo\addons\functions_f_patrol.pbo - 119457
+15:05:52 D:\A3_Server_Exile\argo\addons\languagemissions_f_patrol.pbo - 124115
+15:05:52 D:\A3_Server_Exile\argo\addons\language_f_argo.pbo - 124115
+15:05:52 D:\A3_Server_Exile\argo\addons\language_f_patrol.pbo - 124113
+15:05:52 D:\A3_Server_Exile\argo\addons\map_malden.pbo - 123497
+15:05:52 D:\A3_Server_Exile\argo\addons\map_malden_data.pbo - 123428
+15:05:52 D:\A3_Server_Exile\argo\addons\map_malden_data_layers.pbo - 123441
+15:05:52 D:\A3_Server_Exile\argo\addons\map_malden_scenes_f.pbo - 120026
+15:05:52 D:\A3_Server_Exile\argo\addons\missions_f_patrol.pbo - 123402
+15:05:52 D:\A3_Server_Exile\argo\addons\modules_f_patrol.pbo - 119459
+15:05:52 D:\A3_Server_Exile\argo\addons\music_f_argo.pbo - 119459
+15:05:52 D:\A3_Server_Exile\argo\addons\props_f_argo.pbo - 123488
+15:05:52 D:\A3_Server_Exile\argo\addons\rocks_f_argo.pbo - 123488
+15:05:52 D:\A3_Server_Exile\argo\addons\sounds_f_patrol.pbo - 119477
+15:05:52 D:\A3_Server_Exile\argo\addons\structures_f_argo.pbo - 123495
+15:05:52 D:\A3_Server_Exile\argo\addons\ui_f_patrol.pbo - 119478
+15:05:52 D:\A3_Server_Exile\argo\addons\vegetation_f_argo.pbo - 123488
+15:05:52 D:\A3_Server_Exile\argo\addons\weapons_f_patrol.pbo - 119478
+15:05:52 D:\A3_Server_Exile\jets\addons\air_f_jets.ebo - 122456
+15:05:52 D:\A3_Server_Exile\jets\addons\anims_f_jets.ebo - 123210
+15:05:52 D:\A3_Server_Exile\jets\addons\boat_f_jets.ebo - 121465
+15:05:52 D:\A3_Server_Exile\jets\addons\cargoposes_f_jets.ebo - 119457
+15:05:52 D:\A3_Server_Exile\jets\addons\characters_f_jets.ebo - 120162
+15:05:52 D:\A3_Server_Exile\jets\addons\data_f_jets.ebo - 119457
+15:05:52 D:\A3_Server_Exile\jets\addons\dubbing_f_jets.ebo - 119457
+15:05:52 D:\A3_Server_Exile\jets\addons\editorpreviews_f_jets.ebo - 119457
+15:05:52 D:\A3_Server_Exile\jets\addons\functions_f_jets.ebo - 119457
+15:05:52 D:\A3_Server_Exile\jets\addons\languagemissions_f_jets.ebo - 124113
+15:05:52 D:\A3_Server_Exile\jets\addons\language_f_jets.ebo - 124113
+15:05:52 D:\A3_Server_Exile\jets\addons\missions_f_jets.ebo - 119459
+15:05:52 D:\A3_Server_Exile\jets\addons\modules_f_jets.ebo - 119459
+15:05:52 D:\A3_Server_Exile\jets\addons\music_f_jets.ebo - 119459
+15:05:52 D:\A3_Server_Exile\jets\addons\props_f_jets.ebo - 119459
+15:05:52 D:\A3_Server_Exile\jets\addons\sounds_f_jets.ebo - 119477
+15:05:52 D:\A3_Server_Exile\jets\addons\static_f_jets.ebo - 119478
+15:05:52 D:\A3_Server_Exile\jets\addons\ui_f_jets.ebo - 123398
+15:05:52 D:\A3_Server_Exile\jets\addons\weapons_f_jets.ebo - 119478
+15:05:52 D:\A3_Server_Exile\expansion\addons\air_f_exp.pbo - 123077
+15:05:52 D:\A3_Server_Exile\expansion\addons\anims_f_exp.pbo - 123208
+15:05:52 D:\A3_Server_Exile\expansion\addons\armor_f_exp.pbo - 122301
+15:05:52 D:\A3_Server_Exile\expansion\addons\boat_f_exp.pbo - 123046
+15:05:52 D:\A3_Server_Exile\expansion\addons\cargoposes_f_exp.pbo - 119457
+15:05:52 D:\A3_Server_Exile\expansion\addons\characters_f_exp.pbo - 122887
+15:05:52 D:\A3_Server_Exile\expansion\addons\data_f_exp.pbo - 119457
+15:05:52 D:\A3_Server_Exile\expansion\addons\dubbing_f_exp.pbo - 119457
+15:05:52 D:\A3_Server_Exile\expansion\addons\dubbing_radio_f_exp.pbo - 119458
+15:05:52 D:\A3_Server_Exile\expansion\addons\dubbing_radio_f_exp_data_chi.pbo - 119458
+15:05:52 D:\A3_Server_Exile\expansion\addons\dubbing_radio_f_exp_data_engfre.pbo - 119457
+15:05:52 D:\A3_Server_Exile\expansion\addons\dubbing_radio_f_exp_data_fre.pbo - 119457
+15:05:52 D:\A3_Server_Exile\expansion\addons\editorpreviews_f_exp.pbo - 119457
+15:05:52 D:\A3_Server_Exile\expansion\addons\functions_f_exp.pbo - 119457
+15:05:52 D:\A3_Server_Exile\expansion\addons\languagemissions_f_exp.pbo - 124111
+15:05:52 D:\A3_Server_Exile\expansion\addons\language_f_exp.pbo - 124112
+15:05:52 D:\A3_Server_Exile\expansion\addons\map_data_exp.pbo - 123499
+15:05:52 D:\A3_Server_Exile\expansion\addons\map_tanoabuka.pbo - 123528
+15:05:52 D:\A3_Server_Exile\expansion\addons\map_tanoabuka_data.pbo - 123523
+15:05:52 D:\A3_Server_Exile\expansion\addons\map_tanoabuka_data_layers.pbo - 121192
+15:05:52 D:\A3_Server_Exile\expansion\addons\map_tanoabuka_data_layers_00_00.pbo - 121192
+15:05:52 D:\A3_Server_Exile\expansion\addons\map_tanoa_scenes_f.pbo - 123527
+15:05:52 D:\A3_Server_Exile\expansion\addons\missions_f_exp.pbo - 122734
+15:05:52 D:\A3_Server_Exile\expansion\addons\missions_f_exp_data.pbo - 119459
+15:05:52 D:\A3_Server_Exile\expansion\addons\missions_f_exp_video.pbo - 119459
+15:05:52 D:\A3_Server_Exile\expansion\addons\modules_f_exp.pbo - 119459
+15:05:52 D:\A3_Server_Exile\expansion\addons\music_f_exp.pbo - 119477
+15:05:52 D:\A3_Server_Exile\expansion\addons\music_f_exp_music.pbo - 119477
+15:05:52 D:\A3_Server_Exile\expansion\addons\props_f_exp.pbo - 123522
+15:05:52 D:\A3_Server_Exile\expansion\addons\rocks_f_exp.pbo - 119519
+15:05:52 D:\A3_Server_Exile\expansion\addons\soft_f_exp.pbo - 124032
+15:05:52 D:\A3_Server_Exile\expansion\addons\sounds_f_exp.pbo - 124103
+15:05:52 D:\A3_Server_Exile\expansion\addons\static_f_exp.pbo - 119478
+15:05:52 D:\A3_Server_Exile\expansion\addons\structures_f_exp.pbo - 123419
+15:05:52 D:\A3_Server_Exile\expansion\addons\structures_f_exp_civilian.pbo - 123425
+15:05:52 D:\A3_Server_Exile\expansion\addons\structures_f_exp_commercial.pbo - 123430
+15:05:52 D:\A3_Server_Exile\expansion\addons\structures_f_exp_cultural.pbo - 123423
+15:05:52 D:\A3_Server_Exile\expansion\addons\structures_f_exp_data.pbo - 123431
+15:05:52 D:\A3_Server_Exile\expansion\addons\structures_f_exp_industrial.pbo - 123429
+15:05:52 D:\A3_Server_Exile\expansion\addons\structures_f_exp_infrastructure.pbo - 123432
+15:05:52 D:\A3_Server_Exile\expansion\addons\supplies_f_exp.pbo - 119865
+15:05:52 D:\A3_Server_Exile\expansion\addons\ui_f_exp.pbo - 123398
+15:05:52 D:\A3_Server_Exile\expansion\addons\vegetation_f_exp.pbo - 121192
+15:05:52 D:\A3_Server_Exile\expansion\addons\weapons_f_exp.pbo - 123709
+15:05:52 D:\A3_Server_Exile\mark\addons\anims_f_mark.pbo - 119457
+15:05:52 D:\A3_Server_Exile\mark\addons\characters_f_mark.pbo - 120163
+15:05:52 D:\A3_Server_Exile\mark\addons\data_f_mark.pbo - 119457
+15:05:52 D:\A3_Server_Exile\mark\addons\dubbing_f_mark.pbo - 119457
+15:05:52 D:\A3_Server_Exile\mark\addons\dubbing_f_mp_mark.pbo - 119457
+15:05:52 D:\A3_Server_Exile\mark\addons\functions_f_mark.pbo - 122467
+15:05:52 D:\A3_Server_Exile\mark\addons\functions_f_mp_mark.pbo - 119457
+15:05:52 D:\A3_Server_Exile\mark\addons\languagemissions_f_mark.pbo - 124113
+15:05:52 D:\A3_Server_Exile\mark\addons\languagemissions_f_mp_mark.pbo - 124113
+15:05:52 D:\A3_Server_Exile\mark\addons\language_f_mark.pbo - 124113
+15:05:52 D:\A3_Server_Exile\mark\addons\language_f_mp_mark.pbo - 124115
+15:05:52 D:\A3_Server_Exile\mark\addons\missions_f_mark.pbo - 122301
+15:05:52 D:\A3_Server_Exile\mark\addons\missions_f_mark_data.pbo - 119459
+15:05:52 D:\A3_Server_Exile\mark\addons\missions_f_mark_video.pbo - 119459
+15:05:52 D:\A3_Server_Exile\mark\addons\missions_f_mp_mark.pbo - 119459
+15:05:52 D:\A3_Server_Exile\mark\addons\missions_f_mp_mark_data.pbo - 119459
+15:05:52 D:\A3_Server_Exile\mark\addons\modules_f_mark.pbo - 119459
+15:05:52 D:\A3_Server_Exile\mark\addons\modules_f_mp_mark.pbo - 119459
+15:05:52 D:\A3_Server_Exile\mark\addons\music_f_mark.pbo - 119477
+15:05:52 D:\A3_Server_Exile\mark\addons\music_f_mark_music.pbo - 119477
+15:05:52 D:\A3_Server_Exile\mark\addons\sounds_f_mark.pbo - 119478
+15:05:52 D:\A3_Server_Exile\mark\addons\static_f_mark.pbo - 122307
+15:05:52 D:\A3_Server_Exile\mark\addons\structures_f_mark.pbo - 123419
+15:05:52 D:\A3_Server_Exile\mark\addons\supplies_f_mark.pbo - 120112
+15:05:52 D:\A3_Server_Exile\mark\addons\ui_f_mark.pbo - 119478
+15:05:52 D:\A3_Server_Exile\mark\addons\ui_f_mp_mark.pbo - 119478
+15:05:52 D:\A3_Server_Exile\mark\addons\weapons_f_mark.pbo - 122681
+15:05:52 D:\A3_Server_Exile\heli\addons\air_f_heli.pbo - 123312
+15:05:52 D:\A3_Server_Exile\heli\addons\anims_f_heli.pbo - 123210
+15:05:52 D:\A3_Server_Exile\heli\addons\boat_f_heli.pbo - 119457
+15:05:52 D:\A3_Server_Exile\heli\addons\cargoposes_f_heli.pbo - 123912
+15:05:52 D:\A3_Server_Exile\heli\addons\data_f_heli.pbo - 119457
+15:05:52 D:\A3_Server_Exile\heli\addons\dubbing_f_heli.pbo - 119457
+15:05:52 D:\A3_Server_Exile\heli\addons\functions_f_heli.pbo - 123022
+15:05:52 D:\A3_Server_Exile\heli\addons\languagemissions_f_heli.pbo - 124112
+15:05:52 D:\A3_Server_Exile\heli\addons\language_f_heli.pbo - 124113
+15:05:52 D:\A3_Server_Exile\heli\addons\missions_f_heli.pbo - 119459
+15:05:52 D:\A3_Server_Exile\heli\addons\missions_f_heli_data.pbo - 119459
+15:05:52 D:\A3_Server_Exile\heli\addons\missions_f_heli_video.pbo - 119459
+15:05:52 D:\A3_Server_Exile\heli\addons\modules_f_heli.pbo - 119459
+15:05:52 D:\A3_Server_Exile\heli\addons\music_f_heli.pbo - 119477
+15:05:52 D:\A3_Server_Exile\heli\addons\music_f_heli_music.pbo - 119477
+15:05:52 D:\A3_Server_Exile\heli\addons\soft_f_heli.pbo - 121447
+15:05:52 D:\A3_Server_Exile\heli\addons\sounds_f_heli.pbo - 119478
+15:05:52 D:\A3_Server_Exile\heli\addons\structures_f_heli.pbo - 121553
+15:05:52 D:\A3_Server_Exile\heli\addons\supplies_f_heli.pbo - 121339
+15:05:52 D:\A3_Server_Exile\heli\addons\ui_f_heli.pbo - 119478
+15:05:52 D:\A3_Server_Exile\kart\addons\anims_f_kart.pbo - 123210
+15:05:52 D:\A3_Server_Exile\kart\addons\characters_f_kart.pbo - 120162
+15:05:52 D:\A3_Server_Exile\kart\addons\data_f_kart.pbo - 119457
+15:05:52 D:\A3_Server_Exile\kart\addons\languagemissions_f_kart.pbo - 124112
+15:05:52 D:\A3_Server_Exile\kart\addons\language_f_kart.pbo - 124113
+15:05:52 D:\A3_Server_Exile\kart\addons\missions_f_kart.pbo - 119459
+15:05:52 D:\A3_Server_Exile\kart\addons\missions_f_kart_data.pbo - 119459
+15:05:52 D:\A3_Server_Exile\kart\addons\modules_f_kart.pbo - 119510
+15:05:52 D:\A3_Server_Exile\kart\addons\modules_f_kart_data.pbo - 119459
+15:05:52 D:\A3_Server_Exile\kart\addons\soft_f_kart.pbo - 124032
+15:05:52 D:\A3_Server_Exile\kart\addons\sounds_f_kart.pbo - 119478
+15:05:52 D:\A3_Server_Exile\kart\addons\structures_f_kart.pbo - 123419
+15:05:52 D:\A3_Server_Exile\kart\addons\ui_f_kart.pbo - 119478
+15:05:52 D:\A3_Server_Exile\kart\addons\weapons_f_kart.pbo - 120217
+15:05:52 D:\A3_Server_Exile\curator\addons\data_f_curator.pbo - 119457
+15:05:52 D:\A3_Server_Exile\curator\addons\data_f_curator_music.pbo - 119457
+15:05:52 D:\A3_Server_Exile\curator\addons\functions_f_curator.pbo - 123333
+15:05:52 D:\A3_Server_Exile\curator\addons\language_f_curator.pbo - 124116
+15:05:52 D:\A3_Server_Exile\curator\addons\missions_f_curator.pbo - 121570
+15:05:52 D:\A3_Server_Exile\curator\addons\modules_f_curator.pbo - 124043
+15:05:52 D:\A3_Server_Exile\curator\addons\ui_f_curator.pbo - 123831
+15:05:52 D:\A3_Server_Exile\@A3XAI\addons\a3xai.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@A3XAI\addons\a3xai_config.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@AdvancedTowing\addons\sa_advancedtowing.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@ExileServer\addons\a3_dms.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@ExileServer\addons\a3_infistar_exile.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@ExileServer\addons\exad_core.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@ExileServer\addons\exad_dv.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@ExileServer\addons\exad_grinding.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@ExileServer\addons\exad_hacking.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@ExileServer\addons\exad_vg.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@ExileServer\addons\exile_server.pbo - unknown
+15:05:52 D:\A3_Server_Exile\@ExileServer\addons\exile_server_config.pbo - unknown
+15:05:52 addons\3den.pbo - 123729
+15:05:52 addons\3den_language.pbo - 124115
+15:05:52 addons\a3.pbo - unknown
+15:05:52 addons\air_f.pbo - 124040
+15:05:52 addons\air_f_beta.pbo - 124040
+15:05:52 addons\air_f_epb.pbo - 122783
+15:05:52 addons\air_f_epc.pbo - 122779
+15:05:52 addons\air_f_gamma.pbo - 122454
+15:05:52 addons\animals_f.pbo - 123417
+15:05:52 addons\animals_f_beta.pbo - 123208
+15:05:52 addons\anims_f.pbo - 123109
+15:05:52 addons\anims_f_bootcamp.pbo - 123209
+15:05:52 addons\anims_f_data.pbo - 123109
+15:05:52 addons\anims_f_epa.pbo - 123209
+15:05:52 addons\anims_f_epc.pbo - 121358
+15:05:52 addons\anims_f_exp_a.pbo - 123209
+15:05:52 addons\armor_f.pbo - 119457
+15:05:52 addons\armor_f_beta.pbo - 124054
+15:05:52 addons\armor_f_epb.pbo - 124054
+15:05:52 addons\armor_f_epc.pbo - 122765
+15:05:52 addons\armor_f_gamma.pbo - 124055
+15:05:52 addons\baseconfig_f.pbo - 119457
+15:05:52 addons\boat_f.pbo - 123357
+15:05:52 addons\boat_f_beta.pbo - 123357
+15:05:52 addons\boat_f_epc.pbo - 119457
+15:05:52 addons\boat_f_gamma.pbo - 123329
+15:05:52 addons\cargoposes_f.pbo - 119457
+15:05:52 addons\characters_f.pbo - 123944
+15:05:52 addons\characters_f_beta.pbo - 123759
+15:05:52 addons\characters_f_bootcamp.pbo - 123475
+15:05:52 addons\characters_f_epa.pbo - 120161
+15:05:52 addons\characters_f_epb.pbo - 120161
+15:05:52 addons\characters_f_epc.pbo - 123851
+15:05:52 addons\characters_f_gamma.pbo - 120293
+15:05:52 addons\data_f.pbo - 124040
+15:05:52 addons\data_f_bootcamp.pbo - 119457
+15:05:52 addons\data_f_exp_a.pbo - 119457
+15:05:52 addons\data_f_exp_b.pbo - 119457
+15:05:52 addons\drones_f.pbo - 124040
+15:05:52 addons\dubbing_f.pbo - 119457
+15:05:52 addons\dubbing_f_beta.pbo - 119457
+15:05:52 addons\dubbing_f_bootcamp.pbo - 119457
+15:05:52 addons\dubbing_f_epa.pbo - 119457
+15:05:52 addons\dubbing_f_epb.pbo - 119457
+15:05:52 addons\dubbing_f_epc.pbo - 119457
+15:05:52 addons\dubbing_f_gamma.pbo - 122449
+15:05:52 addons\dubbing_radio_f.pbo - 119457
+15:05:52 addons\dubbing_radio_f_data_eng.pbo - 119457
+15:05:52 addons\dubbing_radio_f_data_engb.pbo - 119458
+15:05:52 addons\dubbing_radio_f_data_gre.pbo - 119458
+15:05:52 addons\dubbing_radio_f_data_per.pbo - 119458
+15:05:52 addons\dubbing_radio_f_data_vr.pbo - 119458
+15:05:52 addons\editorpreviews_f.pbo - 124116
+15:05:52 addons\editor_f.pbo - 121103
+15:05:52 addons\functions_f.pbo - 124042
+15:05:52 addons\functions_f_bootcamp.pbo - 124071
+15:05:52 addons\functions_f_epa.pbo - 119458
+15:05:52 addons\functions_f_epc.pbo - 119458
+15:05:52 addons\functions_f_exp_a.pbo - 122619
+15:05:52 addons\languagemissions_f.pbo - 124112
+15:05:52 addons\languagemissions_f_beta.pbo - 124112
+15:05:52 addons\languagemissions_f_bootcamp.pbo - 124113
+15:05:52 addons\languagemissions_f_epa.pbo - 124112
+15:05:52 addons\languagemissions_f_epb.pbo - 124112
+15:05:52 addons\languagemissions_f_epc.pbo - 124112
+15:05:52 addons\languagemissions_f_exp_a.pbo - 124116
+15:05:52 addons\languagemissions_f_gamma.pbo - 124112
+15:05:52 addons\language_f.pbo - 124114
+15:05:52 addons\language_f_beta.pbo - 124115
+15:05:52 addons\language_f_bootcamp.pbo - 124113
+15:05:52 addons\language_f_epa.pbo - 124111
+15:05:52 addons\language_f_epb.pbo - 124114
+15:05:52 addons\language_f_epc.pbo - 124111
+15:05:52 addons\language_f_exp_a.pbo - 124110
+15:05:52 addons\language_f_exp_b.pbo - 124111
+15:05:52 addons\language_f_gamma.pbo - 124113
+15:05:52 addons\map_altis.pbo - 123457
+15:05:52 addons\map_altis_data.pbo - 123439
+15:05:52 addons\map_altis_data_layers.pbo - 123456
+15:05:52 addons\map_altis_data_layers_00_00.pbo - 0000
+15:05:52 addons\map_altis_data_layers_00_01.pbo - 0000
+15:05:52 addons\map_altis_data_layers_01_00.pbo - 0000
+15:05:52 addons\map_altis_data_layers_01_01.pbo - 0000
+15:05:52 addons\map_altis_scenes_f.pbo - 119459
+15:05:52 addons\map_data.pbo - 123422
+15:05:52 addons\map_stratis.pbo - 123655
+15:05:52 addons\map_stratis_data.pbo - 122905
+15:05:52 addons\map_stratis_data_layers.pbo - 122917
+15:05:52 addons\map_stratis_scenes_f.pbo - 119459
+15:05:52 addons\map_vr.pbo - 105264
+15:05:52 addons\map_vr_scenes_f.pbo - 119459
+15:05:52 addons\misc_f.pbo - 119459
+15:05:52 addons\missions_f.pbo - 123018
+15:05:52 addons\missions_f_beta.pbo - 122470
+15:05:52 addons\missions_f_beta_data.pbo - 119459
+15:05:52 addons\missions_f_beta_video.pbo - 119459
+15:05:52 addons\missions_f_bootcamp.pbo - 119459
+15:05:52 addons\missions_f_bootcamp_data.pbo - 119459
+15:05:52 addons\missions_f_bootcamp_video.pbo - 119459
+15:05:52 addons\missions_f_data.pbo - 119459
+15:05:52 addons\missions_f_epa.pbo - 123774
+15:05:52 addons\missions_f_epa_data.pbo - 119459
+15:05:52 addons\missions_f_epa_video.pbo - 119459
+15:05:52 addons\missions_f_epb.pbo - 119459
+15:05:52 addons\missions_f_epc.pbo - 119459
+15:05:52 addons\missions_f_exp_a.pbo - 121496
+15:05:52 addons\missions_f_exp_a_data.pbo - 119459
+15:05:52 addons\missions_f_gamma.pbo - 122934
+15:05:52 addons\missions_f_gamma_data.pbo - 119459
+15:05:52 addons\missions_f_gamma_video.pbo - 119459
+15:05:52 addons\missions_f_video.pbo - 119459
+15:05:52 addons\modules_f.pbo - 123979
+15:05:52 addons\modules_f_beta.pbo - 119459
+15:05:52 addons\modules_f_beta_data.pbo - 119459
+15:05:52 addons\modules_f_bootcamp.pbo - 119459
+15:05:52 addons\modules_f_data.pbo - 122470
+15:05:52 addons\modules_f_epb.pbo - 119459
+15:05:52 addons\modules_f_exp_a.pbo - 119459
+15:05:52 addons\music_f.pbo - 119459
+15:05:52 addons\music_f_bootcamp.pbo - 119459
+15:05:52 addons\music_f_bootcamp_music.pbo - 119459
+15:05:52 addons\music_f_epa.pbo - 119459
+15:05:52 addons\music_f_epa_music.pbo - 119459
+15:05:52 addons\music_f_epb.pbo - 119459
+15:05:52 addons\music_f_epb_music.pbo - 119459
+15:05:52 addons\music_f_epc.pbo - 119459
+15:05:52 addons\music_f_epc_music.pbo - 119477
+15:05:52 addons\music_f_music.pbo - 119477
+15:05:52 addons\plants_f.pbo - 122470
+15:05:52 addons\props_f_exp_a.pbo - 119459
+15:05:52 addons\roads_f.pbo - 119459
+15:05:52 addons\rocks_f.pbo - 122712
+15:05:52 addons\signs_f.pbo - 123419
+15:05:52 addons\soft_f.pbo - 124040
+15:05:52 addons\soft_f_beta.pbo - 124034
+15:05:52 addons\soft_f_bootcamp.pbo - 123582
+15:05:52 addons\soft_f_epc.pbo - 124034
+15:05:52 addons\soft_f_gamma.pbo - 124032
+15:05:52 addons\sounds_f.pbo - 123459
+15:05:52 addons\sounds_f_arsenal.pbo - 119477
+15:05:52 addons\sounds_f_bootcamp.pbo - 119477
+15:05:52 addons\sounds_f_characters.pbo - 121082
+15:05:52 addons\sounds_f_environment.pbo - 120046
+15:05:52 addons\sounds_f_epb.pbo - 119864
+15:05:52 addons\sounds_f_epc.pbo - 119477
+15:05:52 addons\sounds_f_exp_a.pbo - 119477
+15:05:52 addons\sounds_f_sfx.pbo - 119477
+15:05:52 addons\sounds_f_vehicles.pbo - 123211
+15:05:52 addons\static_f.pbo - 122642
+15:05:52 addons\static_f_beta.pbo - 122642
+15:05:52 addons\static_f_gamma.pbo - 122615
+15:05:52 addons\structures_f.pbo - 124041
+15:05:52 addons\structures_f_bootcamp.pbo - 123488
+15:05:52 addons\structures_f_data.pbo - 121694
+15:05:52 addons\structures_f_epa.pbo - 123407
+15:05:52 addons\structures_f_epb.pbo - 123407
+15:05:52 addons\structures_f_epc.pbo - 123407
+15:05:52 addons\structures_f_exp_a.pbo - 123423
+15:05:52 addons\structures_f_households.pbo - 122287
+15:05:52 addons\structures_f_ind.pbo - 123419
+15:05:52 addons\structures_f_mil.pbo - 123655
+15:05:52 addons\structures_f_wrecks.pbo - 123419
+15:05:52 addons\uifonts_f.pbo - 119478
+15:05:52 addons\uifonts_f_data.pbo - 119478
+15:05:52 addons\ui_f.pbo - 124053
+15:05:52 addons\ui_f_bootcamp.pbo - 119478
+15:05:52 addons\ui_f_data.pbo - 124053
+15:05:52 addons\ui_f_exp_a.pbo - 119478
+15:05:52 addons\weapons_f.pbo - 123870
+15:05:52 addons\weapons_f_beta.pbo - 123870
+15:05:52 addons\weapons_f_bootcamp.pbo - 119478
+15:05:52 addons\weapons_f_epa.pbo - 123022
+15:05:52 addons\weapons_f_epb.pbo - 122682
+15:05:52 addons\weapons_f_epc.pbo - 123212
+15:05:52 addons\weapons_f_gamma.pbo - 120217
+15:05:52 
+15:05:52 =======================
+15:05:52 
+15:05:52 ============================================================================================= List of mods ===============================================================================================
+15:05:52 modsReadOnly = true
+15:05:52 safeModsActivated = false
+15:05:52 customMods = true
+15:05:52 hash = 'B4B6603E812C21461EBEC62F6432AB1116DAC884'
+15:05:52 hashShort = '5ae678c4'
+15:05:52                                               name |               modDir |    default |               origin |                                     hash | hashShort | fullPath
+15:05:52 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15:05:52                                          Exile Mod |               @Exile |      false |             GAME DIR | 4889db0a63d731985e5387b33e6e245812442446 |   16019b2 | D:\A3_Server_Exile\@Exile
+15:05:52                                Arma 3 DLC Bundle 2 |           dlcbundle2 |       true |            NOT FOUND |                                          |           | 
+15:05:52                                Arma 3 DLC Bundle 1 |            dlcbundle |       true |            NOT FOUND |                                          |           | 
+15:05:52                                     Arma 3 Tac-Ops |               tacops |       true |             GAME DIR | f1dc09577c3e9808b7aa2c87d830a2b26a6b5fee |  fa26d009 | D:\A3_Server_Exile\tacops
+15:05:52                                 Arma 3 Laws of War |               orange |       true |             GAME DIR | 4218684688ce66df818f107e2f95c59a26323121 |  b3b9582b | D:\A3_Server_Exile\orange
+15:05:52                                      Arma 3 Malden |                 argo |       true |             GAME DIR | 05003900123009df799f674dab222647cc0cc676 |  36610ff1 | D:\A3_Server_Exile\argo
+15:05:52                                        Arma 3 Jets |                 jets |       true |             GAME DIR | 8d1003272f4550977c09f9c3de192339a29268ad |  5d2e6b70 | D:\A3_Server_Exile\jets
+15:05:52                                        Arma 3 Apex |            expansion |       true |             GAME DIR | ed1b8b914be28b134d041da7deebf7b5b68e6ed3 |  ed5a9be7 | D:\A3_Server_Exile\expansion
+15:05:52                                    Arma 3 Marksmen |                 mark |       true |             GAME DIR | e405dfd48cf0dc78bc48e630f5065676723be5df |  d0f859df | D:\A3_Server_Exile\mark
+15:05:52                                 Arma 3 Helicopters |                 heli |       true |             GAME DIR | abbb58afcd71da8d6f39462585ce554c2bde319e |  3b66e8c1 | D:\A3_Server_Exile\heli
+15:05:52                                       Arma 3 Karts |                 kart |       true |             GAME DIR | 0a38a8eedccec3bd371c52470ecfbc300bce7e26 |  5248a2ba | D:\A3_Server_Exile\kart
+15:05:52                                        Arma 3 Zeus |              curator |       true |             GAME DIR | e9e394b64efe10fcde232d90ae425eb377c62b16 |  42741b1b | D:\A3_Server_Exile\curator
+15:05:52                                             Arma 3 |                   A3 |       true |            NOT FOUND |                                          |           | 
+15:05:52                                             @A3XAI |               @A3XAI |      false |             GAME DIR | da39a3ee5e6b4b0d3255bfef95601890afd80709 |  11fdd19c | D:\A3_Server_Exile\@A3XAI
+15:05:52                                    @AdvancedTowing |      @AdvancedTowing |      false |             GAME DIR | da39a3ee5e6b4b0d3255bfef95601890afd80709 |  11fdd19c | D:\A3_Server_Exile\@AdvancedTowing
+15:05:52                                       @ExileServer |         @ExileServer |      false |             GAME DIR | da39a3ee5e6b4b0d3255bfef95601890afd80709 |  11fdd19c | D:\A3_Server_Exile\@ExileServer
+15:05:52 ==========================================================================================================================================================================================================
+15:05:52 InitSound ...
+15:05:52 InitSound - complete
+15:05:52 PhysX3 SDK Init started ...
+15:05:52 PhysX3 SDK Init ended.
+15:05:54 Warning Message: Script \A3XAI\init\client\fn_preStart.sqf not found
+15:05:56 Warning Message: You cannot play/edit this mission; it is dependent on downloadable content that has been deleted.
+a3_characters_f
+15:05:56 Loading movesType CfgGesturesMale
+15:05:56 Creating action map cache
+15:05:56 Error: Bone cheek_lf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone nose_tip doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_uplb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone jaw_ls doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_uplf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_lc doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_lwlb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_lwlf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone jaw_lm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone zig_lb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_lwm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_upm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone ear_l doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone corr doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone tongue_m doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone tongue_f doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eyebrow_lb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eyebrow_lf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eyebrow_lm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone zig_lm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eye_upl doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eye_lwl doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone cheek_l doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone cheek_lb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone zig_lt doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone nose_l doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone cheek_lm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone nose_r doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone forehead_r doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone forehead_m doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone forehead_l doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone cheek_rb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eye_lwr doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone cheek_r doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone zig_rt doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone zig_rm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone cheek_rf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone cheek_rm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eyebrow_rm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eyebrow_rf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eye_upr doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eyebrow_rb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone tongue_b doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone ear_r doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone neck_l doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_uprf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone neck_r doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_uprb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_rc doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_lwrb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_lwrf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone neck_b doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone zig_rb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone neck_t doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone jaw_rf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone jaw_lf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone chin doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone jaw_rm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone jaw_rs doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone jaw doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone headcutscene doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone cheek_lf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone nose_tip doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_uplb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone jaw_ls doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_uplf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_lc doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_lwlb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_lwlf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone jaw_lm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone zig_lb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_lwm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_upm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone ear_l doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone corr doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone tongue_m doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone tongue_f doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eyebrow_lb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eyebrow_lf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eyebrow_lm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone zig_lm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eye_upl doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eye_lwl doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone cheek_l doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone cheek_lb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone zig_lt doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone nose_l doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone cheek_lm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone nose_r doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone forehead_r doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone forehead_m doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone forehead_l doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone cheek_rb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eye_lwr doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone cheek_r doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone zig_rt doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone zig_rm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone cheek_rf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone cheek_rm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eyebrow_rm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eyebrow_rf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eye_upr doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone eyebrow_rb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone tongue_b doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone ear_r doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone neck_l doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_uprf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone neck_r doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_uprb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_rc doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_lwrb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone lip_lwrf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone neck_b doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone zig_rb doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone neck_t doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone jaw_rf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone jaw_lf doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone chin doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone jaw_rm doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone jaw_rs doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone jaw doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 Error: Bone headcutscene doesn't exist in skeleton OFP2_ManSkeleton
+15:05:56 MovesType CfgGesturesMale load time 232 ms
+15:05:56 Loading movesType CfgMovesMaleSdr
+15:05:56 Creating action map cache
+15:06:04 Warning: looped for animation: a3\anims_f_epa\data\anim\sdr\cts\hubcleaned\sittingchair\hubsittingchaira_idle1.rtm differs (looped now 1)! MoveName: exile_roulettesitting01
+15:06:05 MovesType CfgMovesMaleSdr load time 8348 ms
+15:06:05 VoteThreshold must be in 0..1 range. Defaulting to 0.5
+15:06:05 Initializing Steam server - Game Port: 2302, Steam Query Port: 2303
+15:06:05 Steam AppId in current environment: 107410
+15:06:05 Unsupported language English in stringtable
+15:06:05 Unsupported language English in stringtable
+15:06:06 Starting mission:
+15:06:06  Mission file: Exile (__cur_mp)
+15:06:06  Mission world: Altis
+15:06:06  Mission directory: mpmissions\__cur_mp.Altis\
+15:06:14 Strange convex component202 in a3\structures_f\households\house_small01\d_house_small_01_v1_f.p3d:geometryView
+15:06:14 Strange convex component203 in a3\structures_f\households\house_small01\d_house_small_01_v1_f.p3d:geometryView
+15:06:14 Strange convex component145 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
+15:06:14 Strange convex component149 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
+15:06:15 Strange convex component65 in a3\rocks_f\sharp\sharprock_wallh.p3d:geometryFire
+15:06:19 Strange convex component06 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component18 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component30 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component31 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component32 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component42 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component43 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component44 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component46 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component58 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component64 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component76 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component98 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component100 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component132 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component145 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component149 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component151 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component167 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component198 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component244 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component304 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component310 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component337 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component353 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component378 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+15:06:19 Strange convex component05 in a3\rocks_f\sharp\sharprock_spike.p3d:geometryFire
+15:06:19 Strange convex component74 in a3\rocks_f\sharp\sharprock_spike.p3d:geometryFire
+15:06:19 Strange convex component202 in a3\rocks_f\sharp\sharprock_spike.p3d:geometryFire
+15:06:19 Strange convex component391 in a3\rocks_f\sharp\sharprock_spike.p3d:geometryFire
+15:06:22 "Admin/BIS_fnc_log: [BIS_fnc_preload] ----- Initializing scripts in Exile -----"
+15:06:22 No speaker given for 
+15:06:22 "Admin/BIS_fnc_log: [recompile] recompile BIS_fnc_missionTasksLocal"
+15:06:22 "Admin/BIS_fnc_log: [recompile] recompile BIS_fnc_missionConversationsLocal"
+15:06:22 "Admin/BIS_fnc_log: [recompile] recompile BIS_fnc_missionFlow"
+15:06:22 "Admin/BIS_fnc_log: [preInit] BIS_fnc_feedbackMain (0 ms)"
+15:06:22 "Admin/BIS_fnc_log: [preInit] BIS_fnc_missionHandlers (0 ms)"
+15:06:22 "Admin/BIS_fnc_log: [preInit] BIS_fnc_storeParamsValues (0 ms)"
+15:06:22 "Admin/BIS_fnc_log: [preInit] ""DeltaTime computation started"""
+15:06:22 "Admin/BIS_fnc_log: [preInit] BIS_fnc_keyframeAnimation_deltaTime (0.999451 ms)"
+15:06:22 CallExtension loaded: updatearmalog (.\updatearmalog.dll) [Ð‚•6ˆME]
+
+15:06:23 Warning: 1016 ms spent in callExtension calling name: "updatearmalog", function: "update"
+15:06:23 "<infiSTAR.de> updatearmalog callExtension: [20.02.2018][15:06:23] Downloaded and installed new armalog.dll"
+15:06:23 CallExtension loaded: armalog (.\armalog.dll) [È‚•6TS0¸?ò¯/0Þˆ"]
+
+15:06:28 Warning: 4834 ms spent in callExtension calling name: "armalog", function: "13703c3cfc2c7&l=09a1a9ee77f3a7c2160fe108c4f2b486&sn=[84,97,105,108,111,114,100,115]"
+15:06:28 "<infiSTAR.de> infiSTAR dll loaded successfully"
+15:06:28 "<infiSTAR.de> Tailords"
+15:06:28 "<infiSTAR.de> License accepted!"
+15:06:28 "<infiSTAR.de> Loading infiSTAR code.."
+15:06:28 CallExtension 'extDB3' could not be found
+15:06:28 "<infiSTAR.de> 0 - checking for EXILE_SERVER.."
+15:06:28 "<infiSTAR.de> 0 - EXILE_SERVER has been found."
+15:06:28 "<infiSTAR.de> 0 - checking for Cfg_infiSTAR_settings.."
+15:06:28 "<infiSTAR.de> 0 - Cfg_infiSTAR_settings has been found."
+15:06:28 CallExtension loaded: extDB2 (D:\A3_Server_Exile\@ExileServer\extDB2.dll) [È‚•6TS0¸?ò¯/øÖˆ"]
+
+15:06:28 "<infiSTAR.de> 0 - TESTING IF serverCommandPassword IS SET PROPERLY"
+15:06:28 "<infiSTAR.de> 0 - serverCommandPassword IS FINE"
+15:06:28 "<infiSTAR.de> 0 - STARTUP - including AdminTools"
+15:06:28 "<infiSTAR.de> 0 - STARTUP - AdminTools included!"
+15:06:28 "<infiSTAR.de> 0 - STARTUP - including AntiHack"
+15:06:28 "<infiSTAR.de> 0 - VERSION: 28-01-2018 05-31-18 - v90"
+15:06:28 "<infiSTAR.de> 0 - adding valid admin uid 76561198123641053"
+15:06:28 "<infiSTAR.de> 0 - removing invalid admin uid UID2"
+15:06:28 "<infiSTAR.de> 0 - removing invalid admin uid UID3"
+15:06:28 "<infiSTAR.de> 0 - removing invalid admin uid ..."
+15:06:28 "<infiSTAR.de> 0 - removing invalid admin uid UID1"
+15:06:28 "<infiSTAR.de> 0 - removing invalid admin uid UID2"
+15:06:28 "<infiSTAR.de> 0 - removing invalid admin uid UID3"
+15:06:28 "<infiSTAR.de> 0 - removing invalid admin uid ..."
+15:06:28 "<infiSTAR.de> 0 - removing invalid admin uid UID1"
+15:06:28 "<infiSTAR.de> 0 - removing invalid admin uid UID2"
+15:06:28 "<infiSTAR.de> 0 - removing invalid admin uid UID3"
+15:06:28 "<infiSTAR.de> 0 - removing invalid admin uid ..."
+15:06:28 "<infiSTAR.de> _fnc_RandomGen: {
+private '_gen';
+_fnc_actualGen = {
+_start	= ['z','y','x','w','v','u','t','s','r','q','p','o','n','m','l','k','j','i','h','g','f','e','d','c','b','a'];
+_main	= ['a','0','9','a','1','a','9','e','e','7','7','f','3','a','7','c','2','1','6','0','f','e','1','0','8','c','4','f','2','b','4','8','6'];
+_filler	= ['1','2','3','4','5','6','7','8','9','0','_','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'];
+_gen = selectRandom _start;
+_randmax = {((round(random _randminval)) + (round(random _randmaxval))) max _randminval};
+for '_i' from 0 to (call _randmax)do
+{
+_gen = _gen + (selectRandom _filler) + (selectRandom _main);
+};
+_gen
+};
+for '_i' from 0 to 10000 do
+{
+_gen = call _fnc_actualGen;
+_index = _allRandomGenVars pushBackUnique _gen;
+if(_index > -1)exitWith{_gen};
+};
+_gen
+}"
+15:06:28 "<infiSTAR.de> 0 - loading AntiHack.."
+15:06:28 "<infiSTAR.de> 0 - Thread MAIN: none-threaded code compiled and/or sent!"
+15:06:28 "<infiSTAR.de> 0 - VoteTimeServer compiled"
+15:06:28 "<infiSTAR.de> 0 - Thread BEFORE MAIN: adding to main string.."
+15:06:28 "<infiSTAR.de> 0 - Thread BEFORE MAIN: added !"
+15:06:28 "<infiSTAR.de> 0 - infiSTAR_PlayerLog: adding to main string.."
+15:06:28 "<infiSTAR.de> 0 - infiSTAR_PlayerLog: added !"
+15:06:28 "<infiSTAR.de> 0 - fnc_server_handle_mpmessage: adding to main string.."
+15:06:28 "<infiSTAR.de> 0 - fnc_server_handle_mpmessage: added !"
+15:06:28 "<infiSTAR.de> 0 - fnc_AdminReqReal: adding to main string.."
+15:06:28 "<infiSTAR.de> 0 - fnc_AdminReqReal: added !"
+15:06:28 "<infiSTAR.de> 0 - fnc_server_handle_pre_mpmessage: adding to main string.."
+15:06:28 "<infiSTAR.de> 0 - fnc_server_handle_pre_mpmessage: added !"
+15:06:28 "<infiSTAR.de> 0 - adminStartupCode: adding to main string.."
+15:06:28 "<infiSTAR.de> 0 - adminStartupCode: added !"
+15:06:28 "<infiSTAR.de> 0 - Thread #1: Preparing Server Loop #1.."
+15:06:28 "<infiSTAR.de> 0 - Thread #1: added !"
+15:06:28 "<infiSTAR.de> 0 - compiling AntiHack"
+15:06:28 "<infiSTAR.de> 0 - Thread BEFORE MAIN: still compiling..."
+15:06:28 "<infiSTAR.de> 0 - infiSTAR_PlayerLog: still compiling..."
+15:06:28 "<infiSTAR.de> 0 - fnc_server_handle_mpmessage: still compiling..."
+15:06:28 "<infiSTAR.de> 0 - fnc_AdminReqReal: still compiling..."
+15:06:28 "<infiSTAR.de> 0 - fnc_server_handle_pre_mpmessage: still compiling..."
+15:06:28 "<infiSTAR.de> 0 - adminStartupCode: still compiling..."
+15:06:28 "<infiSTAR.de> 0 - Thread MAIN: compiling adminStartupCode"
+15:06:28 "<infiSTAR.de> 0 - AntiHack loaded!"
+15:06:28 "<infiSTAR.de> 0 - STARTUP - AntiHack included!"
+15:06:28 "Admin/BIS_fnc_log: [preInit] a3_infiSTAR_Exile_fnc_preInit (6158 ms)"
+15:06:28 "Admin/BIS_fnc_log: [preInit] BIS_fnc_getServerVariable (0 ms)"
+15:06:29 "Admin/BIS_fnc_log: [preInit] ExileClient_fnc_preInit (282.001 ms)"
+15:06:29 "ExileServer - Server is loading..."
+15:06:29 "ExileServer - ServerPassword MATCH! server locked for init"
+15:06:29 Wrong init state
+15:06:29 Client: Nonnetwork object 4b5e8a00.
+15:06:29 "ExileServer - Installed extDB2 version: 70"
+15:06:29 "ExileServer - Connected to database!"
+15:06:29 "ExileServer - Database protocol initialized!"
+15:06:29 "Admin/BIS_fnc_log: [preInit] ExileServer_fnc_preInit (155.998 ms)"
+15:06:29 "DMS :: Initializing Static Mission Variables"
+15:06:29 "DMS :: Initializing Dynamic Mission Variables"
+15:06:29 "Admin/BIS_fnc_log: [preInit] DMS_fnc_DMS_preInit (34.9998 ms)"
+15:06:29 "[A3XAI] Initializing A3XAI version 0.2.1 using base path A3XAI."
+15:06:29 "[A3XAI] Compiling A3XAI functions."
+15:06:29 "[A3XAI] A3XAI functions compiled."
+15:06:29 "[A3XAI] Loaded all A3XAI settings in 0.0149994 seconds."
+15:06:29 "[A3XAI] A3XAI settings: Debug Level: 2. WorldName: altis. VerifyClassnames: true. VerifySettings: true."
+15:06:29 "[A3XAI] AI spawn settings: Static: true. Dynamic: true. Random: true. Air: true. Land: true. UAV: true. UGV: false."
+15:06:29 "[A3XAI] A3XAI loading completed in 0.038002 seconds."
+15:06:29 "Admin/BIS_fnc_log: [preInit] A3XAI_fnc_A3XAI_init (203.003 ms)"
+15:06:29 Connected to Steam servers
+15:06:29 "A3XAI Debug: A3XAI Startup is running required script files..."
+15:06:29 "A3XAI Debug: A3XAI finished building weighted unitLevel tables in 0.00500107 seconds."
+15:06:29 "<infiSTAR.de> 0 - Thread #1: Server Loop #1 starting"
+15:06:29 "<infiSTAR.de> 0 - Thread #1: Server Loop #1 running now!"
+15:06:29 "Admin/BIS_fnc_log: [script] initServer.sqf"
+15:06:29 "Admin/BIS_fnc_log: [postInit] BIS_fnc_missionFlow (0 ms)"
+15:06:29 "Admin/BIS_fnc_log: [postInit] BIS_fnc_initParams (0 ms)"
+15:06:29 "Admin/BIS_fnc_log: [postInit] BIS_fnc_initRespawn (0 ms)"
+15:06:29 "Admin/BIS_fnc_log: [postInit] BIS_fnc_keyframeAnimation_init (18.0016 ms)"
+15:06:29 "Admin/BIS_fnc_log: [postInit] a3_infiSTAR_Exile_fnc_postInit (0 ms)"
+15:06:29 "Advanced Towing Loading..."
+15:06:29 "Advanced Towing Loaded"
+15:06:29 "Admin/BIS_fnc_log: [postInit] SA_fnc_advancedTowingInit (0 ms)"
+15:06:29 "Admin/BIS_fnc_log: [postInit] BIS_fnc_reviveInit (0 ms)"
+15:06:29 "Admin/BIS_fnc_log: [postInit] ExileClient_fnc_postInit (0.999451 ms)"
+15:06:29 "ExileServer - Job with handle 10000 added."
+15:06:29 "ExileServer - Job with handle 10001 added."
+15:06:29 "ExileServer - Job with handle 10002 added."
+15:06:29 "ExileServer - Job with handle 10003 added."
+15:06:29 Weather was forced to change
+15:06:29 "ExileServer - Job with handle 10004 added."
+15:06:29 "ExileServer - Job with handle 10005 added."
+15:06:29 "ExileServer - Initializing game world..."
+15:06:29 "ExileServer - Loading families from database..."
+15:06:29 "ExileServer - Done loading families!"
+15:06:29 "ExileServer - Loading territories from database..."
+15:06:29 "ExileServer - Done loading territories!"
+15:06:29 "ExileServer - Loading constructions from database..."
+15:06:29 Successfull attempt to execute serverCommand '#exec users' by server.
+15:06:29 Successfull attempt to execute serverCommand '#exec users' by server.
+15:06:29 Successfull attempt to execute serverCommand '#lock' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 0' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 1' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 2' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 3' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 4' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 5' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 6' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 7' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 8' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 9' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 10' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 11' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 12' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 13' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 14' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 15' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 16' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 17' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 18' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 19' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 20' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 21' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 22' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 23' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 24' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 25' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 26' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 27' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 28' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 29' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 30' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 31' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 32' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 33' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 34' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 35' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 36' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 37' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 38' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 39' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 40' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 41' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 42' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 43' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 44' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 45' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 46' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 47' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 48' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 49' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 50' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 51' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 52' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 53' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 54' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 55' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 56' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 57' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 58' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 59' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 60' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 61' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 62' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 63' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 64' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 65' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 66' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 67' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 68' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 69' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 70' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 71' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 72' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 73' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 74' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 75' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 76' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 77' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 78' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 79' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 80' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 81' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 82' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 83' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 84' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 85' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 86' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 87' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 88' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 89' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 90' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 91' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 92' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 93' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 94' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 95' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 96' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 97' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 98' by server.
+15:06:29 Successfull attempt to execute serverCommand '#kick 99' by server.
+15:06:29 c:\w\stable\futura\lib\network\networkserver.cpp NetworkServer::OnClientStateChanged:NOT IMPLEMENTED - briefing!
+15:06:29  Mission id: 2fdb62b9fb42bcc4435c26127991f4fdacdc87ca
+15:06:29 "[A3XAI] Removing invalid optics classname from A3XAI_weaponOpticsList array: Elcan_Exile."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes0 array: V_Press_F."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes0 array: V_BandollierB_blk."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes0 array: V_BandollierB_khk."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes0 array: V_BandollierB_rgr."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes0 array: V_Chestrig_khk."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes0 array: V_Chestrig_rgr."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes1 array: V_Chestrig_blk."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes1 array: V_Chestrig_oli."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes1 array: V_HarnessO_brn."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes1 array: V_HarnessOGL_brn."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes1 array: V_HarnessOSpec_brn."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes1 array: V_PlateCarrier1_blk."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes1 array: V_PlateCarrier2_rgr."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes1 array: V_PlateCarrierH_CTRG."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes1 array: V_PlateCarrierIA2_dgtl."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes2 array: V_TacVest_blk."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes2 array: V_TacVest_brn."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes2 array: V_TacVest_khk."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes2 array: V_TacVestCamo_khk."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes2 array: V_I_G_resistanceLeader_F."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes2 array: V_PlateCarrier3_rgr."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes2 array: V_PlateCarrierGL_mtp."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes2 array: V_PlateCarrierH_CTRG."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes2 array: V_PlateCarrierIA2_dgtl."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes2 array: V_PlateCarrierIAGL_oli."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes2 array: V_PlateCarrierSpec_blk."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes2 array: V_PlateCarrierSpec_rgr."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes3 array: V_TacVest_blk_POLICE."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes3 array: V_PlateCarrierGL_mtp."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes3 array: V_PlateCarrierIAGL_dgtl."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes3 array: V_PlateCarrierSpec_blk."
+15:06:29 "[A3XAI] Removing invalid vest classname from A3XAI_vestTypes3 array: V_PlateCarrierSpec_rgr."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes0 array: H_Cap_blk."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes0 array: H_Cap_blu."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes0 array: H_Cap_grn."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes0 array: H_Cap_khaki_specops_UK."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes0 array: H_Cap_press."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes0 array: H_Cap_tan."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes0 array: H_Watchcap_blk."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes1 array: H_Beret_02."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes1 array: H_Beret_blk_POLICE."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes1 array: H_Beret_grn."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes1 array: H_Beret_ocamo."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes1 array: H_Shemag_khk."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes1 array: H_Shemag_olive_hs."
+15:06:29 "[CfgWeapons] Removing invalid headgear classname from A3XAI_headgearTypes2 array: H_Beret_Colonel."
+15:06:29 "[CfgWeapons] Removing invalid headgear classname from A3XAI_headgearTypes2 array: H_HelmetB_black."
+15:06:29 "[CfgWeapons] Removing invalid headgear classname from A3XAI_headgearTypes2 array: H_HelmetB_desert."
+15:06:29 "[CfgWeapons] Removing invalid headgear classname from A3XAI_headgearTypes2 array: H_HelmetB_paint."
+15:06:29 "[CfgWeapons] Removing invalid headgear classname from A3XAI_headgearTypes2 array: H_HelmetB_sand."
+15:06:29 "[CfgWeapons] Removing invalid headgear classname from A3XAI_headgearTypes2 array: H_HelmetLeaderO_ocamo."
+15:06:29 "[CfgWeapons] Removing invalid headgear classname from A3XAI_headgearTypes2 array: H_HelmetO_ocamo."
+15:06:29 "[CfgWeapons] Removing invalid headgear classname from A3XAI_headgearTypes2 array: H_HelmetSpecB."
+15:06:29 "[CfgWeapons] Removing invalid headgear classname from A3XAI_headgearTypes2 array: H_HelmetSpecB_paint1."
+15:06:29 "[CfgWeapons] Removing invalid headgear classname from A3XAI_headgearTypes2 array: H_HelmetSpecO_blk."
+15:06:29 "[CfgWeapons] Removing invalid headgear classname from A3XAI_headgearTypes2 array: H_CrewHelmetHeli_B."
+15:06:29 "[CfgWeapons] Removing invalid headgear classname from A3XAI_headgearTypes2 array: H_CrewHelmetHeli_O."
+15:06:29 "[CfgWeapons] Removing invalid headgear classname from A3XAI_headgearTypes2 array: H_PilotHelmetHeli_I."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes3 array: H_Beret_Colonel."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes3 array: H_HelmetLeaderO_ocamo."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes3 array: H_HelmetO_ocamo."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes3 array: H_HelmetSpecO_blk."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes3 array: H_PilotHelmetHeli_B."
+15:06:29 "[A3XAI] Removing invalid headgear classname from A3XAI_headgearTypes3 array: H_PilotHelmetHeli_O."
+15:06:29 "[A3XAI] Verified 267 unique classnames in 0.0489998 seconds."
+15:06:29 Attempt to override final function - bis_fnc_storeparamsvalues_data
+15:06:29 "ExileServer - Done loading constructions!"
+15:06:29 "ExileServer - Loading vehicles from database..."
+15:06:29 Exile_Car_SUV_Armed_Black: Glass7_destruct - unknown animation source hitglass7
+15:06:29 Exile_Car_SUV_Armed_Black: Glass8_destruct - unknown animation source hitglass8
+15:06:29 Exile_Car_SUV_Armed_Black: IndicatorOil - unknown animation source oil
+15:06:30 "A3XAI Debug: Found trader marker MafiaTraderCity"
+15:06:30 "A3XAI Debug: Found trader marker TraderZoneSilderas"
+15:06:30 "A3XAI Debug: Found trader marker TraderZoneFolia"
+15:06:30 "A3XAI Debug: Created 900m radius no-aggro area at trader city position [14600,16797.2,0]."
+15:06:30 "A3XAI Debug: Created 750m radius blacklist area at trader city position [14600,16797.2,0]."
+15:06:30 "A3XAI Debug: Created 900m radius no-aggro area at trader city position [23334.6,24188.9,0]."
+15:06:30 "A3XAI Debug: Created 750m radius blacklist area at trader city position [23334.6,24188.9,0]."
+15:06:30 "A3XAI Debug: Created 900m radius no-aggro area at trader city position [2998.06,18175.5,0]."
+15:06:30 "A3XAI Debug: Created 750m radius blacklist area at trader city position [2998.06,18175.5,0]."
+15:06:30 "A3XAI Debug: Default trigger check result: [true,""A3XAI_EmptyDetector"",[10801.9,10589.6,14.5197]]"
+15:06:30 "A3XAI Server Monitor will start in 60 seconds."
+15:06:30 "Starting A3XAI Dynamic Spawn Manager in 1 minute."
+15:06:30 "A3XAI Debug: Added location Aggelochori (type: namevillage, pos: [3687.78,13776.1]) to location list."
+15:06:30 "A3XAI Debug: Added location Neri (type: namevillage, pos: [4116.11,11736.1]) to location list."
+15:06:30 "A3XAI Debug: Added location Panochori (type: namevillage, pos: [5033.31,11245.2]) to location list."
+15:06:30 "A3XAI Debug: Added location Zaros (type: namecity, pos: [9091.81,11961.9]) to location list."
+15:06:30 "A3XAI Debug: Added location Therisa (type: namevillage, pos: [10618.9,12237.3]) to location list."
+15:06:30 "A3XAI Debug: Added location Katalaki (type: namevillage, pos: [11701.1,13672.1]) to location list."
+15:06:30 "A3XAI Debug: Added location Neochori (type: namecity, pos: [12502,14337]) to location list."
+15:06:30 "A3XAI Debug: Added location Stavros (type: namevillage, pos: [12950.1,15041.6]) to location list."
+15:06:30 "A3XAI Debug: Added location Lakka (type: namecity, pos: [12282,15732.3]) to location list."
+15:06:30 "A3XAI Debug: Added location Alikampos (type: namevillage, pos: [11112.6,14573.7]) to location list."
+15:06:30 "A3XAI Debug: Added location Agios Dionysios (type: namecity, pos: [9187.95,15947.8]) to location list."
+15:06:30 "A3XAI Debug: Added location Kore (type: namecity, pos: [7062.42,16472.1]) to location list."
+15:06:30 "A3XAI Debug: Added location Negades (type: namevillage, pos: [4885.98,16171.3]) to location list."
+15:06:30 "A3XAI Debug: Added location Agios Konstantinos (type: namevillage, pos: [3948.77,17277.8]) to location list."
+15:06:30 "A3XAI Debug: Added location Topolia (type: namevillage, pos: [7375.81,15429.5]) to location list."
+15:06:30 "A3XAI Debug: Gravia not in allowed position. Blacklist (Air): true, Blacklist (Land): true. Trader: false."
+15:06:30 "A3XAI Debug: Added location Athira (type: namecitycapital, pos: [13993,18709.4]) to location list."
+15:06:30 "A3XAI Debug: Added location Frini (type: namecity, pos: [14612.5,20786.7]) to location list."
+15:06:30 "A3XAI Debug: Added location Ifestiona (type: namevillage, pos: [12787,19679.3]) to location list."
+15:06:30 "A3XAI Debug: Added location Syrta (type: namecity, pos: [8625.13,18301.6]) to location list."
+15:06:30 "A3XAI Debug: Added location Galati (type: namevillage, pos: [10270.3,19036]) to location list."
+15:06:30 "A3XAI Debug: Added location Koroni (type: namevillage, pos: [11786.7,18372.4]) to location list."
+15:06:30 "A3XAI Debug: Added location Abdera (type: namevillage, pos: [9425.42,20284]) to location list."
+15:06:30 "A3XAI Debug: Added location Telos (type: namecity, pos: [16207,17296.7]) to location list."
+15:06:30 "A3XAI Debug: Added location Anthrakia (type: namevillage, pos: [16584.3,16104]) to location list."
+15:06:30 "A3XAI Debug: Added location Kalithea (type: namevillage, pos: [17826.5,18129.4]) to location list."
+15:06:30 "A3XAI Debug: Added location Agios Petros (type: namevillage, pos: [19339.4,17641.6]) to location list."
+15:06:30 "A3XAI Debug: Added location Paros (type: namecity, pos: [20885.4,16958.8]) to location list."
+15:06:30 "A3XAI Debug: Added location Kalochori (type: namecity, pos: [21351.6,16361.9]) to location list."
+15:06:30 "A3XAI Debug: Added location Sofia (type: namecity, pos: [25680.5,21365.1]) to location list."
+15:06:31 "A3XAI Debug: Added location Molos (type: namecity, pos: [26943.9,23170.7]) to location list."
+15:06:31 "A3XAI Debug: Added location Ioannina (type: namevillage, pos: [23199.7,19986.6]) to location list."
+15:06:31 "A3XAI Debug: Added location Delfinaki (type: namevillage, pos: [23908.6,20144.7]) to location list."
+15:06:31 "A3XAI Debug: Added location Nifi (type: namevillage, pos: [19473.3,15453.7]) to location list."
+15:06:31 "A3XAI Debug: Added location Charkia (type: namecity, pos: [18049.1,15264.1]) to location list."
+15:06:31 "A3XAI Debug: Added location Dorida (type: namecity, pos: [19336.9,13252.3]) to location list."
+15:06:31 "A3XAI Debug: Added location Chalkeia (type: namecity, pos: [20194.6,11660.7]) to location list."
+15:06:31 "A3XAI Debug: Added location Panagia (type: namevillage, pos: [20490.2,8907.12]) to location list."
+15:06:31 "A3XAI Debug: Added location Feres (type: namevillage, pos: [21640.7,7583.93]) to location list."
+15:06:31 "A3XAI Debug: Added location Selakano (type: namevillage, pos: [20769.8,6736.46]) to location list."
+15:06:31 Error compiling '' in 'HitPelvis'
+15:06:31 Error compiling '' in 'HitAbdomen'
+15:06:31 Error compiling '' in 'HitDiaphragm'
+15:06:31 Error compiling '' in 'HitChest'
+15:06:31 Error compiling '' in 'HitArms'
+15:06:31 Error compiling '' in 'HitLegs'
+15:06:31 "A3XAI Debug: Added location Pyrgos (type: namecitycapital, pos: [16780.6,12604.5]) to location list."
+15:06:31 "A3XAI Debug: Added location Kavala (type: namecitycapital, pos: [3458.95,12966.4]) to location list."
+15:06:31 "A3XAI Debug: Added location Poliakko (type: namecity, pos: [10966.5,13435.3]) to location list."
+15:06:31 "A3XAI Debug: Added location Bomos (type: namelocal, pos: [2307.31,22165.2]) to location list."
+15:06:31 "A3XAI Debug: Added location Oreokastro (type: namevillage, pos: [4560.45,21460.6]) to location list."
+15:06:31 "A3XAI Debug: Added location castle (type: namelocal, pos: [4802.99,21855.5]) to location list."
+15:06:31 "ExileServer - Done loading vehicles!"
+15:06:31 "ExileServer - Loading containers from database..."
+15:06:31 "ExileServer - Done loading containers!"
+15:06:31 "ExileServer - Creating spawn zone vehicles..."
+15:06:31 Strange convex component116 in a3\rocks_f\sharp\sharprock_apart.p3d:geometryFire
+15:06:31 Strange convex component117 in a3\rocks_f\sharp\sharprock_apart.p3d:geometryFire
+15:06:31 Strange convex component118 in a3\rocks_f\sharp\sharprock_apart.p3d:geometryFire
+15:06:31 Strange convex component119 in a3\rocks_f\sharp\sharprock_apart.p3d:geometryFire
+15:06:31 Strange convex component01 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component02 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component13 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component32 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component33 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component35 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component37 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component40 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component45 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component53 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component61 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component71 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component91 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component92 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component93 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component103 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component111 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component129 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component131 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component135 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component141 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component160 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component204 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component217 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component254 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component260 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component295 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component309 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:31 Strange convex component315 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+15:06:32 "A3XAI Debug: Added location Faros (type: namelocal, pos: [6565.3,22639.1]) to location list."
+15:06:32 "A3XAI Debug: Added location dump (type: namelocal, pos: [5887.13,20236.5]) to location list."
+15:06:32 "A3XAI Debug: Added location Aristi (type: namelocal, pos: [7914.05,21305.2]) to location list."
+15:06:32 "A3XAI Debug: Fotia not in allowed position. Blacklist (Air): true, Blacklist (Land): true. Trader: false."
+15:06:32 "A3XAI Debug: Added location Gori (type: namelocal, pos: [5455.72,17553.7]) to location list."
+15:06:32 "A3XAI Debug: Added location Krya Nera (type: namelocal, pos: [9681.58,22294.5]) to location list."
+15:06:32 "A3XAI Debug: Added location Cap Agrios (type: namelocal, pos: [14688.2,23496.2]) to location list."
+15:06:32 "A3XAI Debug: Added location Nychi (type: namelocal, pos: [16837.4,21890]) to location list."
+15:06:32 "A3XAI Debug: Added location factory (type: namelocal, pos: [14294.6,18928.5]) to location list."
+15:06:32 "A3XAI Debug: Added location Agia Triada (type: namevillage, pos: [16668.5,20487]) to location list."
+15:06:32 "A3XAI Debug: Added location Orino (type: namevillage, pos: [10410.4,17243.1]) to location list."
+15:06:32 "A3XAI Debug: Added location military (type: namelocal, pos: [12771.6,16694.3]) to location list."
+15:06:32 "A3XAI Debug: Added location factory (type: namelocal, pos: [12577.4,16352.8]) to location list."
+15:06:32 Exile_Cosmetic_MG: mainturret - unknown animation source mainturret
+15:06:32 Exile_Cosmetic_MG: maingun - unknown animation source maingun
+15:06:32 Exile_Cosmetic_MG: ammo_belt_rotation - unknown animation source reloadanim
+15:06:32 Exile_Cosmetic_MG: barrel_recoil - unknown animation source reloadanim
+15:06:32 Exile_Cosmetic_MG: bolt_recoil - unknown animation source reloadanim
+15:06:32 Exile_Cosmetic_MG: turret_shake - unknown animation source reloadanim
+15:06:32 Exile_Cosmetic_MG: turret_shake_backside - unknown animation source reloadanim
+15:06:32 Exile_Cosmetic_MG: turret_shake_aside - unknown animation source reloadanim
+15:06:32 Exile_Cosmetic_MG: bolt_reload_begin - unknown animation source reloadmagazine
+15:06:32 Exile_Cosmetic_MG: bolt_reload_end - unknown animation source reloadmagazine
+15:06:32 Exile_Cosmetic_MG: charging_handle_reload_begin - unknown animation source reloadmagazine
+15:06:32 Exile_Cosmetic_MG: charging_handle_reload_end - unknown animation source reloadmagazine
+15:06:32 Exile_Cosmetic_MG: magazine_hide - unknown animation source reloadmagazine
+15:06:32 Exile_Cosmetic_MG: ammo_belt_hide - unknown animation source reloadmagazine
+15:06:32 Exile_Cosmetic_MG: muzzleflash - unknown animation source muzzle_source
+15:06:32 Exile_Cosmetic_MG: zaslehrot - unknown animation source muzzle_source_rot
+15:06:32 Exile_Cosmetic_MG: addautonomous_unhide - unknown animation source autonomous_unhide
+15:06:32 Exile_Cosmetic_MG: bullet001_reload_hide - unknown animation source revolving
+15:06:32 Exile_Cosmetic_MG: bullet002_reload_hide - unknown animation source revolving
+15:06:32 Exile_Cosmetic_MG: bullet003_reload_hide - unknown animation source revolving
+15:06:32 Exile_Cosmetic_MG: bullet004_reload_hide - unknown animation source revolving
+15:06:32 Exile_Cosmetic_MG: bullet005_reload_hide - unknown animation source revolving
+15:06:32 Exile_Cosmetic_MG: bullet006_reload_hide - unknown animation source revolving
+15:06:32 Exile_Cosmetic_MG: bullet007_reload_hide - unknown animation source revolving
+15:06:32 Exile_Cosmetic_MG: bullet008_reload_hide - unknown animation source revolving
+15:06:32 Exile_Cosmetic_UAV: rotorimpacthide - unknown animation source rotorhfullydestroyed
+15:06:32 Exile_Cosmetic_UAV: tailrotorimpacthide - unknown animation source tailrotorhfullydestroyed
+15:06:32 Exile_Cosmetic_UAV: propeller1_rotation - unknown animation source rotorh
+15:06:32 Exile_Cosmetic_UAV: propeller1_blur_rotation - unknown animation source rotorh
+15:06:32 Exile_Cosmetic_UAV: propeller2_rotation - unknown animation source rotorv
+15:06:32 Exile_Cosmetic_UAV: propeller2_blur_rotation - unknown animation source rotorv
+15:06:32 Exile_Cosmetic_UAV: propeller3_rotation - unknown animation source rotorh
+15:06:32 Exile_Cosmetic_UAV: propeller3_blur_rotation - unknown animation source rotorh
+15:06:32 Exile_Cosmetic_UAV: propeller4_rotation - unknown animation source rotorv
+15:06:32 Exile_Cosmetic_UAV: propeller4_blur_rotation - unknown animation source rotorv
+15:06:32 Exile_Cosmetic_UAV: propeller1_hide - unknown animation source rpm
+15:06:32 Exile_Cosmetic_UAV: propeller1_blur_hide - unknown animation source rpm
+15:06:32 Exile_Cosmetic_UAV: propeller2_hide - unknown animation source rpm
+15:06:32 Exile_Cosmetic_UAV: propeller2_blur_hide - unknown animation source rpm
+15:06:32 Exile_Cosmetic_UAV: propeller3_hide - unknown animation source rpm
+15:06:32 Exile_Cosmetic_UAV: propeller3_blur_hide - unknown animation source rpm
+15:06:32 Exile_Cosmetic_UAV: propeller4_hide - unknown animation source rpm
+15:06:32 Exile_Cosmetic_UAV: propeller4_blur_hide - unknown animation source rpm
+15:06:32 Exile_Cosmetic_UAV: mainturret - unknown animation source mainturret
+15:06:32 Exile_Cosmetic_UAV: maingun - unknown animation source maingun
+15:06:32 "A3XAI Debug: airbase not in allowed position. Blacklist (Air): true, Blacklist (Land): true. Trader: false."
+15:06:32 "A3XAI Debug: Terminal not in allowed position. Blacklist (Air): true, Blacklist (Land): true. Trader: false."
+15:06:32 "A3XAI Debug: military not in allowed position. Blacklist (Air): true, Blacklist (Land): true. Trader: false."
+15:06:32 "A3XAI Debug: Added location military (type: namelocal, pos: [16030.4,17004.8]) to location list."
+15:06:32 "A3XAI Debug: Added location power plant (type: namelocal, pos: [15420.8,16223.6]) to location list."
+15:06:32 "A3XAI Debug: Added location Amfissa (type: namelocal, pos: [8088.81,17257.7]) to location list."
+15:06:32 "A3XAI Debug: Added location factory (type: namelocal, pos: [6109.49,16246.2]) to location list."
+15:06:32 "A3XAI Debug: Added location Stadium (type: namelocal, pos: [5429.69,14996.7]) to location list."
+15:06:32 "A3XAI Debug: Added location factory (type: namelocal, pos: [5307.12,14500.1]) to location list."
+15:06:33 "A3XAI Debug: Added location Xirolimni Dam (type: namelocal, pos: [9115.22,13959.8]) to location list."
+15:06:33 "A3XAI Debug: Added location AAC airfield (type: namelocal, pos: [11461.2,11661.7]) to location list."
+15:06:33 "A3XAI Debug: Added location Drimea (type: namelocal, pos: [10781.9,10881.6]) to location list."
+15:06:33 "A3XAI Debug: Added location Kastro (type: namelocal, pos: [3041.4,13162.8]) to location list."
+15:06:33 "A3XAI Debug: Added location Kavala Pier (type: namelocal, pos: [3014.83,12587.3]) to location list."
+15:06:33 "A3XAI Debug: Added location power plant (type: namelocal, pos: [4163.6,15047.2]) to location list."
+15:06:33 "A3XAI Debug: Added location quarry (type: namelocal, pos: [4379.15,12594.4]) to location list."
+15:06:33 "A3XAI Debug: Added location Savri (type: namelocal, pos: [2370.95,11507]) to location list."
+15:06:33 "A3XAI Debug: Added location Cap Drakontas (type: namelocal, pos: [2657.32,11461.5]) to location list."
+15:06:33 "A3XAI Debug: Added location Fournos (type: namelocal, pos: [2313.67,9289.31]) to location list."
+15:06:33 "A3XAI Debug: Added location Athanos (type: namelocal, pos: [3571.22,10243.7]) to location list."
+15:06:33 "A3XAI Debug: Added location Edoris (type: namelocal, pos: [6002.75,10511.4]) to location list."
+15:06:33 "A3XAI Debug: Added location Agios Panagiotis (type: namelocal, pos: [6272.75,12173.9]) to location list."
+15:06:33 "A3XAI Debug: Added location dump (type: namelocal, pos: [5900.47,12454.4]) to location list."
+15:06:33 "A3XAI Debug: Added location Kavirida (type: namelocal, pos: [7324.24,12125.4]) to location list."
+15:06:33 "A3XAI Debug: Added location Edessa (type: namelocal, pos: [7194.23,11044]) to location list."
+15:06:33 "A3XAI Debug: Added location Atsalis (type: namelocal, pos: [8304.83,25081.2]) to location list."
+15:06:33 "A3XAI Debug: Added location Vikos (type: namelocal, pos: [11556.9,9417.06]) to location list."
+15:06:33 "A3XAI Debug: Added location Cap Makrinos (type: namelocal, pos: [14225.9,6237.99]) to location list."
+15:06:33 "ExileServer - Spawning Dynamic Vehicles. GridSize: 2200 Vehs/Grid: 2"
+15:06:34 "A3XAI Debug: Added location Pyrgi (type: namelocal, pos: [14489.9,5871.7]) to location list."
+15:06:34 "A3XAI Debug: Added location Eginio (type: namelocal, pos: [11549.2,7088.39]) to location list."
+15:06:34 "A3XAI Debug: Added location Sfaka (type: namelocal, pos: [9213.95,8079.03]) to location list."
+15:06:34 "A3XAI Debug: Added location Agios Kosmas (type: namelocal, pos: [8555.32,7335.51]) to location list."
+15:06:34 "A3XAI Debug: Added location Monisi (type: namelocal, pos: [7813.36,7641.19]) to location list."
+15:06:34 "A3XAI Debug: Added location Makrynisi (type: namelocal, pos: [13471.9,12018.5]) to location list."
+15:06:34 "A3XAI Debug: Added location Sagonisi (type: namelocal, pos: [14281.2,13469.3]) to location list."
+15:06:34 "A3XAI Debug: Added location Chelonisi (type: namelocal, pos: [16636.5,13582.2]) to location list."
+15:06:34 "A3XAI Debug: Added location Faronaki (type: namelocal, pos: [14934.4,11079.5]) to location list."
+15:06:34 "A3XAI Debug: Added location Ekali (type: namevillage, pos: [17059.7,9992.32]) to location list."
+15:06:34 "A3XAI Debug: Added location Aktinarki (type: namelocal, pos: [21449.9,10873.8]) to location list."
+15:06:34 "A3XAI Debug: Added location Trachia (type: namelocal, pos: [22128.1,8453.98]) to location list."
+15:06:34 "A3XAI Debug: Added location Agia Pelagia (type: namelocal, pos: [22707.6,6930.57]) to location list."
+15:06:34 "A3XAI Debug: Added location Mazi (type: namelocal, pos: [21772.4,6014.53]) to location list."
+15:06:34 "A3XAI Debug: Added location Livadi (type: namelocal, pos: [18410.5,8098.3]) to location list."
+15:06:34 "A3XAI Debug: Added location Cap Kategidis (type: namelocal, pos: [22792,13638.4]) to location list."
+15:06:34 "A3XAI Debug: Added location Surf Club (type: namelocal, pos: [21339.4,10434]) to location list."
+15:06:34 Land_Box_AmmoOld_F: ammo_hide - unknown animation source ammo_source
+15:06:34 Land_Box_AmmoOld_F: ammoord_hide - unknown animation source ammoord_source
+15:06:34 Land_Box_AmmoOld_F: grenades_hide - unknown animation source grenades_source
+15:06:34 Land_Box_AmmoOld_F: support_hide - unknown animation source support_source
+15:06:34 "A3XAI Debug: Added location Limni (type: namelocal, pos: [20920.8,14775.4]) to location list."
+15:06:34 "A3XAI Debug: Added location Ochrolimni (type: namelocal, pos: [23650.1,16227.3]) to location list."
+15:06:34 "A3XAI Debug: Added location Cap Thelos (type: namelocal, pos: [24067.6,15560.3]) to location list."
+15:06:34 "A3XAI Debug: Added location Zeloran (type: namelocal, pos: [17043.5,19592.2]) to location list."
+15:06:34 "A3XAI Debug: Added location quarry (type: namelocal, pos: [17060.5,11339.1]) to location list."
+15:06:34 "A3XAI Debug: Added location storage (type: namelocal, pos: [18260.6,15551.2]) to location list."
+15:06:34 "A3XAI Debug: Added location quarry (type: namelocal, pos: [19566.4,15617.3]) to location list."
+15:06:34 "A3XAI Debug: Added location Rodopoli (type: namecity, pos: [18753.4,16597.1]) to location list."
+15:06:34 "A3XAI Debug: Added location Cap Zefyris (type: namelocal, pos: [18049.3,19186.6]) to location list."
+15:06:34 "A3XAI Debug: Added location Agios Georgios (type: namelocal, pos: [20296.3,18635.1]) to location list."
+15:06:35 "A3XAI Debug: Added location Almyra (type: namelocal, pos: [23495.6,18392.6]) to location list."
+15:06:35 "A3XAI Debug: Added location Iraklia (type: namelocal, pos: [21628.3,21274.9]) to location list."
+15:06:35 "A3XAI Debug: Added location military (type: namelocal, pos: [23533.2,21108]) to location list."
+15:06:35 "A3XAI Debug: Added location Nidasos (type: namelocal, pos: [23662.9,21796.1]) to location list."
+15:06:35 "A3XAI Debug: Added location military (type: namelocal, pos: [25350.6,21790.9]) to location list."
+15:06:35 "A3XAI Debug: Added location power plant (type: namelocal, pos: [25462.6,20357.7]) to location list."
+15:06:35 "A3XAI Debug: Added location Gatolia (type: namelocal, pos: [26723,21230.3]) to location list."
+15:06:35 "A3XAI Debug: Added location Polemistia (type: namelocal, pos: [27998.6,23775.8]) to location list."
+15:06:35 "A3XAI Debug: Added location Molos Airfield (type: namelocal, pos: [26939.8,24743.8]) to location list."
+15:06:35 "A3XAI Debug: Added location Limnichori (type: namelocal, pos: [25703.7,23561.6]) to location list."
+15:06:35 "A3XAI Debug: Added location Cap Strigla (type: namelocal, pos: [28059.2,25626.4]) to location list."
+15:06:35 "A3XAI Debug: Sideras not in allowed position. Blacklist (Air): true, Blacklist (Land): true. Trader: false."
+15:06:35 "A3XAI Debug: Added location mine (type: namelocal, pos: [18435.1,14301.8]) to location list."
+15:06:35 "A3XAI Debug: Adjusted random spawn limit to 13"
+15:06:35 "A3XAI Debug: Location configuration completed with 121 locations found in 5.647 seconds."
+15:06:36 Car: Invalid parent bone 'wheel_1_2' for 'wheel_1_2_hide'
+15:06:36 Car: Invalid parent bone 'wheel_2_2' for 'wheel_2_2_hide'
+15:06:36 Warning Message: Embedded skeleton Car in 'exile_psycho_towtractor\towingtractor.p3d' has different [ bones count ] in different p3d files. Skeleton/model 'exile_psycho_lrc\lr_amb_acr.p3d' will probably not work correctly.
+15:06:36 "A3XAI Debug: Assembled helicopter list: [""B_Heli_Light_01_armed_F"",""B_Heli_Light_01_armed_F"",""B_Heli_Light_01_armed_F"",""B_Heli_Light_01_armed_F"",""B_Heli_Light_01_armed_F"",""B_Heli_Transport_01_F"",""B_Heli_Transport_01_F"",""B_Heli_Transport_01_F"",""B_Heli_Transport_01_F"",""B_Heli_Transport_01_F"",""B_Heli_Transport_03_F"",""B_Heli_Transport_03_F""]"
+15:06:36 Warning Message: Embedded skeleton Car in 'exile_psycho_towtractor\towingtractor.p3d' has different [ bones count ] in different p3d files. Skeleton/model 'exile_psycho_tractor\tractor_1.p3d' will probably not work correctly.
+15:06:36 "A3XAI Debug: Created loadout for unit O Alpha 1-1:1 (unitLevel: 1): [[""arifle_TRG21_F""],[""30Rnd_556x45_Stanag""]]."
+15:06:36 "A3XAI Debug: Spawned AI O Alpha 1-1:1 with unitLevel 1 for group O Alpha 1-1."
+15:06:37 Duplicate HitPoint name 'HitTurret' in 'B_Heli_Transport_03_F'
+15:06:37 Duplicate HitPoint name 'HitGun' in 'B_Heli_Transport_03_F'
+15:06:37 Duplicate HitPoint name 'HitTurret' in 'B_Heli_Transport_03_F'
+15:06:37 Duplicate HitPoint name 'HitGun' in 'B_Heli_Transport_03_F'
+15:06:37 Duplicate HitPoint name 'HitTurret' in 'B_Heli_Transport_03_F'
+15:06:37 Duplicate HitPoint name 'HitGun' in 'B_Heli_Transport_03_F'
+15:06:37 Duplicate HitPoint name 'HitTurret' in 'B_Heli_Transport_03_F'
+15:06:37 Duplicate HitPoint name 'HitGun' in 'B_Heli_Transport_03_F'
+15:06:37 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 1-1:1."
+15:06:37 "A3XAI Debug: Created loadout for unit O Alpha 1-1:2 (unitLevel: 1): [[""arifle_Katiba_C_F""],[""30Rnd_65x39_caseless_green""]]."
+15:06:37 "A3XAI Debug: Spawned AI O Alpha 1-1:2 with unitLevel 1 for group O Alpha 1-1."
+15:06:37 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 1-1:2."
+15:06:37 "A3XAI Debug: Added gunner unit O Alpha 1-1:2 to O Alpha 1-1 B_Heli_Transport_03_F with weapon LMG_Minigun_Transport (1 of 2)."
+15:06:37 "A3XAI Debug: Created loadout for unit O Alpha 1-1:3 (unitLevel: 1): [[""arifle_TRG20_F""],[""30Rnd_556x45_Stanag""]]."
+15:06:37 "A3XAI Debug: Spawned AI O Alpha 1-1:3 with unitLevel 1 for group O Alpha 1-1."
+15:06:37 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 1-1:3."
+15:06:37 "A3XAI Debug: Added gunner unit O Alpha 1-1:3 to O Alpha 1-1 B_Heli_Transport_03_F with weapon LMG_Minigun_Transport2 (2 of 2)."
+15:06:37 "A3XAI Debug: Spawned 2 gunner units for O Alpha 1-1 vehicle B_Heli_Transport_03_F."
+15:06:37 "A3XAI Debug: Spawned 0 cargo units for O Alpha 1-1 vehicle B_Heli_Transport_03_F."
+15:06:37 "A3XAI Debug: Created AI helicopter crew group O Alpha 1-1 is now active and patrolling."
+15:06:37 "A3XAI Debug: Created AI vehicle patrol at [9376.62,24789.5,200] with vehicle type B_Heli_Transport_03_F with 3 crew units."
+15:06:37 Exile_Car_Octavius_White: IndicatorOil - unknown animation source oiltemp
+15:06:37 Exile_Car_Octavius_White: fuel - unknown animation source fuel_1
+15:06:37 "A3XAI Debug: air Unit O Alpha 1-1:1 loadout: [[""arifle_TRG21_F""],[""30Rnd_556x45_Stanag""]]. unitLevel 1."
+15:06:37 "A3XAI Debug: air Unit O Alpha 1-1:2 loadout: [[""arifle_Katiba_C_F""],[""30Rnd_65x39_caseless_green""]]. unitLevel 1."
+15:06:37 "A3XAI Debug: air Unit O Alpha 1-1:3 loadout: [[""arifle_TRG20_F""],[""30Rnd_556x45_Stanag""]]. unitLevel 1."
+15:06:38 "A3XAI Debug: Group O Alpha 1-1 search length 681.935, waypoint position [8555.32,7335.51]."
+15:06:38 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_UAZ_Open_Green'
+15:06:38 Duplicate HitPoint name 'HitGun' in 'Exile_Car_UAZ_Open_Green'
+15:06:38 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_UAZ_Open_Green'
+15:06:38 Duplicate HitPoint name 'HitGun' in 'Exile_Car_UAZ_Open_Green'
+15:06:38 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_UAZ_Open_Green'
+15:06:38 Duplicate HitPoint name 'HitGun' in 'Exile_Car_UAZ_Open_Green'
+15:06:38 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_UAZ_Open_Green'
+15:06:38 Duplicate HitPoint name 'HitGun' in 'Exile_Car_UAZ_Open_Green'
+15:06:39 Error: EntityAI SubSkeleton index was not initialized properly (repeated 0x in the last 60sec)
+15:06:39 name: Land_i_Stone_HouseSmall_V1_dam_F, shape: a3\structures_f\households\stone_small\i_stone_housesmall_v1_dam_f.p3d, index: -1, matrices: 5
+15:06:39 Warning Message: Embedded skeleton Car in 'exile_psycho_towtractor\towingtractor.p3d' has different [ bones count ] in different p3d files. Skeleton/model 'exile_psycho_tractor\tractor.p3d' will probably not work correctly.
+15:06:39 Render target memory points PIP0_pos & PIP0_dir not found.
+15:06:41 "A3XAI Debug: Assembled vehicle list: [""Exile_Car_Hatchback_Rusty1"",""Exile_Car_Hatchback_Rusty1"",""Exile_Car_Hatchback_Rusty1"",""Exile_Car_Hatchback_Rusty1"",""Exile_Car_Hatchback_Rusty1"",""Exile_Car_Hatchback_Rusty2"",""Exile_Car_Hatchback_Rusty2"",""Exile_Car_Hatchback_Rusty2"",""Exile_Car_Hatchback_Rusty2"",""Exile_Car_Hatchback_Rusty2"",""Exile_Car_Hatchback_Rusty3"",""Exile_Car_Hatchback_Rusty3"",""Exile_Car_Hatchback_Rusty3"",""Exile_Car_Hatchback_Rusty3"",""Exile_Car_Hatchback_Rusty3"",""Exile_Car_Hatchback_Sport_Red"",""Exile_Car_Hatchback_Sport_Red"",""Exile_Car_Hatchback_Sport_Red"",""Exile_Car_Hatchback_Sport_Red"",""Exile_Car_Hatchback_Sport_Red"",""Exile_Car_SUV_Red"",""Exile_Car_SUV_Red"",""Exile_Car_SUV_Red"",""Exile_Car_SUV_Red"",""Exile_Car_SUV_Red"",""Exile_Car_Offroad_Rusty1"",""Exile_Car_Offroad_Rusty1"",""Exile_Car_Offroad_Rusty1"",""Exile_Car_Offroad_Rusty1"",""Exile_Car_Offroad_Rusty1"",""Exile_Car_Offroad_Rusty2"",""Exile_Car_Offroad_Rusty2"",""Exile_Car_Offroad_Rusty2"",""Exile
+15:06:41 "A3XAI Debug: Assembled UAV list: [""I_UAV_02_CAS_F"",""I_UAV_02_CAS_F"",""I_UAV_02_CAS_F"",""I_UAV_02_CAS_F"",""I_UAV_02_CAS_F"",""I_UAV_02_F"",""I_UAV_02_F"",""I_UAV_02_F"",""I_UAV_02_F"",""I_UAV_02_F"",""B_UAV_02_CAS_F"",""B_UAV_02_CAS_F"",""B_UAV_02_CAS_F"",""B_UAV_02_CAS_F"",""B_UAV_02_CAS_F"",""B_UAV_02_F"",""B_UAV_02_F"",""B_UAV_02_F"",""B_UAV_02_F"",""B_UAV_02_F"",""O_UAV_02_CAS_F"",""O_UAV_02_CAS_F"",""O_UAV_02_CAS_F"",""O_UAV_02_CAS_F"",""O_UAV_02_CAS_F"",""O_UAV_02_F"",""O_UAV_02_F"",""O_UAV_02_F"",""O_UAV_02_F"",""O_UAV_02_F""]"
+15:06:42 Strange convex component26 in a3\drones_f\air_f_gamma\uav_02\uav_02_f.p3d:geometryView
+15:06:42 B_UAV_02_CAS_F: hideweapons - unknown animation source hideweapons
+15:06:42 "A3XAI Debug: UAV group O Alpha 1-2 is now active and patrolling."
+15:06:42 "A3XAI Debug: Created AI vehicle patrol at [11724.7,18231.2,200] with vehicle type B_UAV_02_CAS_F with 2 crew units."
+15:06:42 "A3XAI Debug: Created loadout for unit O Alpha 1-3:1 (unitLevel: 1): [[""arifle_MXC_Black_F""],[""30Rnd_65x39_caseless_mag""]]."
+15:06:42 "A3XAI Debug: Spawned AI O Alpha 1-3:1 with unitLevel 1 for group O Alpha 1-3."
+15:06:43 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Van_Black'
+15:06:43 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Van_Black'
+15:06:43 "A3XAI Debug: Group O Alpha 1-2 search length 319.504, waypoint position [14688.2,23496.2]."
+15:06:43 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 1-3:1."
+15:06:43 "A3XAI Debug: Spawned 0 gunner units for O Alpha 1-3 vehicle Exile_Car_Van_Black."
+15:06:43 "A3XAI Debug: Created loadout for unit O Alpha 1-3:2 (unitLevel: 1): [[""arifle_TRG21_F""],[""30Rnd_556x45_Stanag""]]."
+15:06:43 "A3XAI Debug: Spawned AI O Alpha 1-3:2 with unitLevel 1 for group O Alpha 1-3."
+15:06:43 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 1-3:2."
+15:06:43 "A3XAI Debug: Modified unit O Alpha 1-3:3 loadout to [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:06:43 "A3XAI Debug: Created loadout for unit O Alpha 1-3:3 (unitLevel: 1): [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:06:43 "A3XAI Debug: Spawned AI O Alpha 1-3:3 with unitLevel 1 for group O Alpha 1-3."
+15:06:43 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 1-3:3."
+15:06:43 "A3XAI Debug: Modified unit O Alpha 1-3:4 loadout to [[""arifle_TRG21_GL_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:06:43 "A3XAI Debug: Created loadout for unit O Alpha 1-3:4 (unitLevel: 1): [[""arifle_TRG21_GL_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:06:43 "A3XAI Debug: Spawned AI O Alpha 1-3:4 with unitLevel 1 for group O Alpha 1-3."
+15:06:43 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 1-3:4."
+15:06:43 "A3XAI Debug: Modified unit O Alpha 1-3:5 loadout to [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:06:43 "A3XAI Debug: Created loadout for unit O Alpha 1-3:5 (unitLevel: 1): [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:06:43 "A3XAI Debug: Spawned AI O Alpha 1-3:5 with unitLevel 1 for group O Alpha 1-3."
+15:06:43 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 1-3:5."
+15:06:43 "A3XAI Debug: Spawned 4 cargo units for O Alpha 1-3 vehicle Exile_Car_Van_Black."
+15:06:43 "A3XAI Debug: AI land vehicle crew group O Alpha 1-3 is now active and patrolling."
+15:06:43 "A3XAI Debug: Created AI vehicle patrol at [17647,14991.1,0] with vehicle type Exile_Car_Van_Black with 5 crew units."
+15:06:43 "A3XAI Debug: land Unit O Alpha 1-3:1 loadout: [[""arifle_MXC_Black_F""],[""30Rnd_65x39_caseless_mag""]]. unitLevel 1."
+15:06:43 "A3XAI Debug: land Unit O Alpha 1-3:2 loadout: [[""arifle_TRG21_F""],[""30Rnd_556x45_Stanag""]]. unitLevel 1."
+15:06:43 "A3XAI Debug: land Unit O Alpha 1-3:3 loadout: [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]. unitLevel 1."
+15:06:43 "A3XAI Debug: land Unit O Alpha 1-3:4 loadout: [[""arifle_TRG21_GL_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]. unitLevel 1."
+15:06:43 "A3XAI Debug: land Unit O Alpha 1-3:5 loadout: [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]. unitLevel 1."
+15:06:48 "ExileServer - Dynamic vehicles spawned. Count : 231"
+15:06:48 "ExileServer - Game world initialized! Let the fun begin!"
+15:06:48 "ExileServer - Russian Roulette: Game initialized."
+15:06:48 "ExileServer - Server is up and running! Version: 1.0.3"
+15:06:48 "ExileServer - Job with handle 10006 added."
+15:06:48 "ExileServer - Rcon events initialized!"
+15:06:48 "ExileServer - Server unlocked and accepting players. Have fun! :)"
+15:06:48 "Admin/BIS_fnc_log: [postInit] ExileServer_fnc_postInit (19100 ms)"
+15:06:48 "ExileServer - Job with handle 10007 added."
+15:06:48 Successfull attempt to execute serverCommand '#unlock' by server.
+15:06:48 "ExileServer - Main thread started"
+15:06:49 Strange convex component322 in a3\structures_f\research\dome_big_f.p3d:geometryFire
+15:06:49 Strange convex component327 in a3\structures_f\research\dome_big_f.p3d:geometryFire
+15:06:50 "Admin/BIS_fnc_log: [BIS_fnc_preload] ----- Scripts initialized at 27546 ms -----"
+15:06:50 Strange convex component24 in a3\structures_f\households\house_small02\i_house_small_02_v3_dam_f.p3d:geometryView
+15:06:51 Attempt to override final function - dms_mission_construction
+15:06:53 "DMS_SpawnAIGroup :: Spawned 6 AI at [19600.3,15938.7,0]."
+15:06:53 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Zamak'
+15:06:53 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Zamak'
+15:06:54 "DMS_SpawnAIGroup :: Spawned 6 AI at [7244.16,13684.8,0]."
+15:06:54 Dimensions in class O_HMG_01_high_F should be an array of size 2.
+15:06:54 Duplicate HitPoint name 'HitGun' in 'O_HMG_01_high_F'
+15:06:54 Duplicate HitPoint name 'HitTurret' in 'O_HMG_01_high_F'
+15:06:55 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Offroad_Guerilla02'
+15:06:55 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Offroad_Guerilla02'
+15:06:55 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Offroad_Guerilla02'
+15:06:55 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Offroad_Guerilla02'
+15:06:55 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Offroad_Guerilla02'
+15:06:55 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Offroad_Guerilla02'
+15:06:55 "DMS_DEBUG :: DMS post-init complete. productVersion: [""Arma 3"",""Arma3"",180,143869,""Stable"",true,""Windows"",""x86""] | infiSTAR version: 28-01-2018 05-31-18 - v90 |::|::| (DMS_Version: ""September 7, 2017"" | time: 22.355 | diag_tickTime: 85.921 | 38.4615 FPS)"
+15:06:55 "Admin/BIS_fnc_log: [postInit] DMS_fnc_DMS_postInit (6508 ms)"
+15:06:55 "Admin/BIS_fnc_log: [postInit] ExAd_fnc_changeable (17.9977 ms)"
+15:06:55 "Admin/BIS_fnc_log: [postInit] ExAd_fnc_postInitVG (0.999451 ms)"
+15:06:55 "Admin/BIS_fnc_log: [postInit] ExAd_fnc_postInitHacking (0.999451 ms)"
+15:06:55 "Admin/BIS_fnc_log: [postInit] ExAd_fnc_postInitGrinding (0 ms)"
+15:06:55 "Admin/BIS_fnc_log: [postInit] ExAd_fnc_postInitHP (0.999451 ms)"
+15:06:55 "Admin/BIS_fnc_log: [postInit] ExAd_fnc_postInitXM8 (81.0013 ms)"
+15:06:55 "Admin/BIS_fnc_log: [postInit] ExAd_fnc_postInitSB (1.9989 ms)"
+15:06:55 "Admin/BIS_fnc_log: [postInit] ExAd_fnc_postInitScratchie (0 ms)"
+15:06:55 "DMS :: Initializing FSM mission script"
+15:06:57 "A3XAI Debug: Created loadout for unit O Alpha 1-6:1 (unitLevel: 0): [[""arifle_MX_GL_Black_F""],[""30Rnd_65x39_caseless_mag""]]."
+15:06:57 "A3XAI Debug: Spawned AI O Alpha 1-6:1 with unitLevel 0 for group O Alpha 1-6."
+15:06:57 B_Heli_Light_01_armed_F: hideweapons - unknown animation source hideweapons
+15:06:57 B_Heli_Light_01_armed_F: hiderockets - unknown animation source hideweapons
+15:06:57 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 1-6:1."
+15:06:57 "A3XAI Debug: Spawned 0 gunner units for O Alpha 1-6 vehicle B_Heli_Light_01_armed_F."
+15:06:57 "A3XAI Debug: Spawned 0 cargo units for O Alpha 1-6 vehicle B_Heli_Light_01_armed_F."
+15:06:57 "A3XAI Debug: Created AI helicopter crew group O Alpha 1-6 is now active and patrolling."
+15:06:57 "A3XAI Debug: Created AI vehicle patrol at [5429.96,13894.4,200] with vehicle type B_Heli_Light_01_armed_F with 1 crew units."
+15:06:57 "A3XAI Debug: air Unit O Alpha 1-6:1 loadout: [[""arifle_MX_GL_Black_F""],[""30Rnd_65x39_caseless_mag""]]. unitLevel 0."
+15:06:57 "A3XAI Debug: Group O Alpha 1-6 search length 663.745, waypoint position [11701.1,13672.1]."
+15:07:02 "A3XAI Debug: Created loadout for unit O Alpha 2-1:1 (unitLevel: 1): [[""arifle_Katiba_F""],[""30Rnd_65x39_caseless_green""]]."
+15:07:02 "A3XAI Debug: Spawned AI O Alpha 2-1:1 with unitLevel 1 for group O Alpha 2-1."
+15:07:02 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-1:1."
+15:07:02 "A3XAI Debug: Spawned 0 gunner units for O Alpha 2-1 vehicle Exile_Car_Hatchback_Sport_Red."
+15:07:02 "A3XAI Debug: Created loadout for unit O Alpha 2-1:2 (unitLevel: 1): [[""arifle_Mk20_plain_F""],[""30Rnd_556x45_Stanag""]]."
+15:07:02 "A3XAI Debug: Spawned AI O Alpha 2-1:2 with unitLevel 1 for group O Alpha 2-1."
+15:07:02 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-1:2."
+15:07:02 "A3XAI Debug: Created loadout for unit O Alpha 2-1:3 (unitLevel: 1): [[""arifle_MX_F""],[""30Rnd_65x39_caseless_mag""]]."
+15:07:02 "A3XAI Debug: Spawned AI O Alpha 2-1:3 with unitLevel 1 for group O Alpha 2-1."
+15:07:02 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-1:3."
+15:07:02 "A3XAI Debug: Created loadout for unit O Alpha 2-1:4 (unitLevel: 1): [[""srifle_DMR_02_sniper_F""],[""10Rnd_338_Mag""]]."
+15:07:02 "A3XAI Debug: Spawned AI O Alpha 2-1:4 with unitLevel 1 for group O Alpha 2-1."
+15:07:02 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-1:4."
+15:07:02 "A3XAI Debug: Spawned 3 cargo units for O Alpha 2-1 vehicle Exile_Car_Hatchback_Sport_Red."
+15:07:02 "A3XAI Debug: AI land vehicle crew group O Alpha 2-1 is now active and patrolling."
+15:07:02 "A3XAI Debug: Created AI vehicle patrol at [20295.5,19559.5,0] with vehicle type Exile_Car_Hatchback_Sport_Red with 4 crew units."
+15:07:02 "A3XAI Debug: land Unit O Alpha 2-1:1 loadout: [[""arifle_Katiba_F""],[""30Rnd_65x39_caseless_green""]]. unitLevel 1."
+15:07:02 "A3XAI Debug: land Unit O Alpha 2-1:2 loadout: [[""arifle_Mk20_plain_F""],[""30Rnd_556x45_Stanag""]]. unitLevel 1."
+15:07:02 "A3XAI Debug: land Unit O Alpha 2-1:3 loadout: [[""arifle_MX_F""],[""30Rnd_65x39_caseless_mag""]]. unitLevel 1."
+15:07:02 "A3XAI Debug: land Unit O Alpha 2-1:4 loadout: [[""srifle_DMR_02_sniper_F""],[""10Rnd_338_Mag""]]. unitLevel 1."
+15:07:04 "[Display #24]"
+15:07:15 "A3XAI Debug: Set O Alpha 1-3 waypoint position to [21734.4,6105.83,0]."
+15:07:22 "A3XAI Debug: Modified unit O Alpha 2-2:1 loadout to [[""arifle_MX_GL_Black_F"",""GL_3GL_F""],[""30Rnd_65x39_caseless_mag"",""3Rnd_HE_Grenade_shell""]]."
+15:07:22 "A3XAI Debug: Created loadout for unit O Alpha 2-2:1 (unitLevel: 1): [[""arifle_MX_GL_Black_F"",""GL_3GL_F""],[""30Rnd_65x39_caseless_mag"",""3Rnd_HE_Grenade_shell""]]."
+15:07:22 "A3XAI Debug: Spawned AI O Alpha 2-2:1 with unitLevel 1 for group O Alpha 2-2."
+15:07:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-2:1."
+15:07:22 "A3XAI Debug: Spawned 0 gunner units for O Alpha 2-2 vehicle Exile_Car_Hatchback_Sport_Red."
+15:07:22 "A3XAI Debug: Created loadout for unit O Alpha 2-2:2 (unitLevel: 1): [[""arifle_MXC_F""],[""30Rnd_65x39_caseless_mag""]]."
+15:07:22 "A3XAI Debug: Spawned AI O Alpha 2-2:2 with unitLevel 1 for group O Alpha 2-2."
+15:07:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-2:2."
+15:07:22 "A3XAI Debug: Modified unit O Alpha 2-2:3 loadout to [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:07:22 "A3XAI Debug: Created loadout for unit O Alpha 2-2:3 (unitLevel: 1): [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:07:22 "A3XAI Debug: Spawned AI O Alpha 2-2:3 with unitLevel 1 for group O Alpha 2-2."
+15:07:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-2:3."
+15:07:22 "A3XAI Debug: Modified unit O Alpha 2-2:4 loadout to [[""arifle_Katiba_GL_F"",""EGLM""],[""30Rnd_65x39_caseless_green"",""1Rnd_HE_Grenade_shell""]]."
+15:07:22 "A3XAI Debug: Created loadout for unit O Alpha 2-2:4 (unitLevel: 1): [[""arifle_Katiba_GL_F"",""EGLM""],[""30Rnd_65x39_caseless_green"",""1Rnd_HE_Grenade_shell""]]."
+15:07:22 "A3XAI Debug: Spawned AI O Alpha 2-2:4 with unitLevel 1 for group O Alpha 2-2."
+15:07:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-2:4."
+15:07:22 "A3XAI Debug: Spawned 3 cargo units for O Alpha 2-2 vehicle Exile_Car_Hatchback_Sport_Red."
+15:07:22 "A3XAI Debug: AI land vehicle crew group O Alpha 2-2 is now active and patrolling."
+15:07:22 "A3XAI Debug: Created AI vehicle patrol at [7231.41,17360.2,0] with vehicle type Exile_Car_Hatchback_Sport_Red with 4 crew units."
+15:07:22 "A3XAI Debug: land Unit O Alpha 2-2:1 loadout: [[""arifle_MX_GL_Black_F"",""GL_3GL_F""],[""30Rnd_65x39_caseless_mag"",""3Rnd_HE_Grenade_shell""]]. unitLevel 1."
+15:07:22 "A3XAI Debug: land Unit O Alpha 2-2:2 loadout: [[""arifle_MXC_F""],[""30Rnd_65x39_caseless_mag""]]. unitLevel 1."
+15:07:22 "A3XAI Debug: land Unit O Alpha 2-2:3 loadout: [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]. unitLevel 1."
+15:07:22 "A3XAI Debug: land Unit O Alpha 2-2:4 loadout: [[""arifle_Katiba_GL_F"",""EGLM""],[""30Rnd_65x39_caseless_green"",""1Rnd_HE_Grenade_shell""]]. unitLevel 1."
+15:07:31 "A3XAI V3 Dynamic Spawn Manager started."
+15:07:31 "A3XAI Debug: No players online. Dynamic spawn manager is entering waiting state."
+15:07:31 "A3XAI Debug: Dynamic spawn manager is sleeping for 300 seconds."
+15:07:34 "A3XAI Debug: Set O Alpha 2-1 waypoint position to [5526.55,14936.1,0]."
+15:07:34 "A3XAI Debug: Pulled Exile_Item_ChristmasTinner from O Alpha 2-1 loot pool (26 items remain)."
+15:07:38 "A3XAI Debug: Pulled Exile_Item_Energydrink from O Alpha 1-1 loot pool (19 items remain)."
+15:07:42 "A3XAI Debug: Modified unit O Alpha 2-3:1 loadout to [[""arifle_MX_GL_Black_F"",""GL_3GL_F""],[""30Rnd_65x39_caseless_mag"",""3Rnd_HE_Grenade_shell""]]."
+15:07:42 "A3XAI Debug: Created loadout for unit O Alpha 2-3:1 (unitLevel: 1): [[""arifle_MX_GL_Black_F"",""GL_3GL_F""],[""30Rnd_65x39_caseless_mag"",""3Rnd_HE_Grenade_shell""]]."
+15:07:42 "A3XAI Debug: Spawned AI O Alpha 2-3:1 with unitLevel 1 for group O Alpha 2-3."
+15:07:42 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-3:1."
+15:07:42 "A3XAI Debug: Spawned 0 gunner units for O Alpha 2-3 vehicle Exile_Car_Hunter."
+15:07:42 "A3XAI Debug: Created loadout for unit O Alpha 2-3:2 (unitLevel: 1): [[""LMG_Mk200_F""],[""200Rnd_65x39_cased_Box""]]."
+15:07:42 "A3XAI Debug: Spawned AI O Alpha 2-3:2 with unitLevel 1 for group O Alpha 2-3."
+15:07:42 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-3:2."
+15:07:42 "A3XAI Debug: Created loadout for unit O Alpha 2-3:3 (unitLevel: 1): [[""arifle_MX_Black_F""],[""30Rnd_65x39_caseless_mag""]]."
+15:07:42 "A3XAI Debug: Spawned AI O Alpha 2-3:3 with unitLevel 1 for group O Alpha 2-3."
+15:07:42 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-3:3."
+15:07:42 "A3XAI Debug: Created loadout for unit O Alpha 2-3:4 (unitLevel: 1): [[""arifle_Mk20_F""],[""30Rnd_556x45_Stanag""]]."
+15:07:42 "A3XAI Debug: Spawned AI O Alpha 2-3:4 with unitLevel 1 for group O Alpha 2-3."
+15:07:42 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-3:4."
+15:07:42 "A3XAI Debug: Spawned 3 cargo units for O Alpha 2-3 vehicle Exile_Car_Hunter."
+15:07:42 "A3XAI Debug: AI land vehicle crew group O Alpha 2-3 is now active and patrolling."
+15:07:42 "A3XAI Debug: Created AI vehicle patrol at [14336.7,15479.5,0] with vehicle type Exile_Car_Hunter with 4 crew units."
+15:07:42 "A3XAI Debug: land Unit O Alpha 2-3:1 loadout: [[""arifle_MX_GL_Black_F"",""GL_3GL_F""],[""30Rnd_65x39_caseless_mag"",""3Rnd_HE_Grenade_shell""]]. unitLevel 1."
+15:07:42 "A3XAI Debug: land Unit O Alpha 2-3:2 loadout: [[""LMG_Mk200_F""],[""200Rnd_65x39_cased_Box""]]. unitLevel 1."
+15:07:42 "A3XAI Debug: land Unit O Alpha 2-3:3 loadout: [[""arifle_MX_Black_F""],[""30Rnd_65x39_caseless_mag""]]. unitLevel 1."
+15:07:42 "A3XAI Debug: land Unit O Alpha 2-3:4 loadout: [[""arifle_Mk20_F""],[""30Rnd_556x45_Stanag""]]. unitLevel 1."
+15:07:49 "A3XAI Debug: Set O Alpha 2-2 waypoint position to [23321.9,16213.7,0]."
+15:07:51 "A3XAI Debug: Group O Alpha 1-2 B_UAV_02_CAS_F detection started with search length 639.007."
+15:07:54 "A3XAI Debug: Pulled Exile_Item_LightBulb from O Alpha 2-2 loot pool (25 items remain)."
+15:08:03 "A3XAI Debug: Created loadout for unit O Alpha 2-4:1 (unitLevel: 1): [[""srifle_DMR_03_woodland_F""],[""20Rnd_762x51_Mag""]]."
+15:08:03 "A3XAI Debug: Spawned AI O Alpha 2-4:1 with unitLevel 1 for group O Alpha 2-4."
+15:08:03 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-4:1."
+15:08:03 "A3XAI Debug: Spawned 0 gunner units for O Alpha 2-4 vehicle Exile_Car_Hatchback_Rusty1."
+15:08:03 "A3XAI Debug: Created loadout for unit O Alpha 2-4:2 (unitLevel: 1): [[""srifle_DMR_02_camo_F""],[""10Rnd_338_Mag""]]."
+15:08:03 "A3XAI Debug: Spawned AI O Alpha 2-4:2 with unitLevel 1 for group O Alpha 2-4."
+15:08:03 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-4:2."
+15:08:03 "A3XAI Debug: Modified unit O Alpha 2-4:3 loadout to [[""arifle_Katiba_GL_F"",""EGLM""],[""30Rnd_65x39_caseless_green"",""1Rnd_HE_Grenade_shell""]]."
+15:08:03 "A3XAI Debug: Created loadout for unit O Alpha 2-4:3 (unitLevel: 1): [[""arifle_Katiba_GL_F"",""EGLM""],[""30Rnd_65x39_caseless_green"",""1Rnd_HE_Grenade_shell""]]."
+15:08:03 "A3XAI Debug: Spawned AI O Alpha 2-4:3 with unitLevel 1 for group O Alpha 2-4."
+15:08:03 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-4:3."
+15:08:03 "A3XAI Debug: Modified unit O Alpha 2-4:4 loadout to [[""arifle_MX_GL_F"",""GL_3GL_F""],[""30Rnd_65x39_caseless_mag"",""3Rnd_HE_Grenade_shell""]]."
+15:08:03 "A3XAI Debug: Created loadout for unit O Alpha 2-4:4 (unitLevel: 1): [[""arifle_MX_GL_F"",""GL_3GL_F""],[""30Rnd_65x39_caseless_mag"",""3Rnd_HE_Grenade_shell""]]."
+15:08:03 "A3XAI Debug: Spawned AI O Alpha 2-4:4 with unitLevel 1 for group O Alpha 2-4."
+15:08:03 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-4:4."
+15:08:03 "A3XAI Debug: Spawned 3 cargo units for O Alpha 2-4 vehicle Exile_Car_Hatchback_Rusty1."
+15:08:03 "A3XAI Debug: AI land vehicle crew group O Alpha 2-4 is now active and patrolling."
+15:08:03 "A3XAI Debug: Created AI vehicle patrol at [12205.8,22936.4,0] with vehicle type Exile_Car_Hatchback_Rusty1 with 4 crew units."
+15:08:03 "A3XAI Debug: land Unit O Alpha 2-4:1 loadout: [[""srifle_DMR_03_woodland_F""],[""20Rnd_762x51_Mag""]]. unitLevel 1."
+15:08:03 "A3XAI Debug: land Unit O Alpha 2-4:2 loadout: [[""srifle_DMR_02_camo_F""],[""10Rnd_338_Mag""]]. unitLevel 1."
+15:08:03 "A3XAI Debug: land Unit O Alpha 2-4:3 loadout: [[""arifle_Katiba_GL_F"",""EGLM""],[""30Rnd_65x39_caseless_green"",""1Rnd_HE_Grenade_shell""]]. unitLevel 1."
+15:08:03 "A3XAI Debug: land Unit O Alpha 2-4:4 loadout: [[""arifle_MX_GL_F"",""GL_3GL_F""],[""30Rnd_65x39_caseless_mag"",""3Rnd_HE_Grenade_shell""]]. unitLevel 1."
+15:08:05 "A3XAI Debug: Pulled Exile_Item_PlasticBottleFreshWater from O Alpha 2-1 loot pool (25 items remain)."
+15:08:05 "A3XAI Debug: Set O Alpha 2-3 waypoint position to [16572.4,12523.1,0]."
+15:08:14 "A3XAI Debug: Pulled Exile_Item_InstaDoc from O Alpha 2-3 loot pool (25 items remain)."
+15:08:22 "A3XAI Debug: Created loadout for unit O Alpha 2-5:1 (unitLevel: 1): [[""arifle_MX_F""],[""30Rnd_65x39_caseless_mag""]]."
+15:08:22 "A3XAI Debug: Spawned AI O Alpha 2-5:1 with unitLevel 1 for group O Alpha 2-5."
+15:08:22 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Offroad_Rusty3'
+15:08:22 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Offroad_Rusty3'
+15:08:22 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Offroad_Rusty3'
+15:08:22 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Offroad_Rusty3'
+15:08:22 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Offroad_Rusty3'
+15:08:22 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Offroad_Rusty3'
+15:08:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-5:1."
+15:08:22 "A3XAI Debug: Spawned 0 gunner units for O Alpha 2-5 vehicle Exile_Car_Offroad_Rusty3."
+15:08:22 "A3XAI Debug: Created loadout for unit O Alpha 2-5:2 (unitLevel: 1): [[""arifle_Mk20C_plain_F""],[""30Rnd_556x45_Stanag""]]."
+15:08:22 "A3XAI Debug: Spawned AI O Alpha 2-5:2 with unitLevel 1 for group O Alpha 2-5."
+15:08:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-5:2."
+15:08:22 "A3XAI Debug: Created loadout for unit O Alpha 2-5:3 (unitLevel: 1): [[""arifle_MX_F""],[""30Rnd_65x39_caseless_mag""]]."
+15:08:22 "A3XAI Debug: Spawned AI O Alpha 2-5:3 with unitLevel 1 for group O Alpha 2-5."
+15:08:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-5:3."
+15:08:22 "A3XAI Debug: Created loadout for unit O Alpha 2-5:4 (unitLevel: 1): [[""srifle_DMR_01_F""],[""10Rnd_762x54_Mag""]]."
+15:08:22 "A3XAI Debug: Spawned AI O Alpha 2-5:4 with unitLevel 1 for group O Alpha 2-5."
+15:08:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-5:4."
+15:08:23 "A3XAI Debug: Created loadout for unit O Alpha 2-5:5 (unitLevel: 1): [[""arifle_Mk20C_plain_F""],[""30Rnd_556x45_Stanag""]]."
+15:08:23 "A3XAI Debug: Spawned AI O Alpha 2-5:5 with unitLevel 1 for group O Alpha 2-5."
+15:08:23 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-5:5."
+15:08:23 "A3XAI Debug: Spawned 4 cargo units for O Alpha 2-5 vehicle Exile_Car_Offroad_Rusty3."
+15:08:23 "A3XAI Debug: AI land vehicle crew group O Alpha 2-5 is now active and patrolling."
+15:08:23 "A3XAI Debug: Created AI vehicle patrol at [13349.5,13284.8,0] with vehicle type Exile_Car_Offroad_Rusty3 with 5 crew units."
+15:08:23 "A3XAI Debug: land Unit O Alpha 2-5:1 loadout: [[""arifle_MX_F""],[""30Rnd_65x39_caseless_mag""]]. unitLevel 1."
+15:08:23 "A3XAI Debug: land Unit O Alpha 2-5:2 loadout: [[""arifle_Mk20C_plain_F""],[""30Rnd_556x45_Stanag""]]. unitLevel 1."
+15:08:23 "A3XAI Debug: land Unit O Alpha 2-5:3 loadout: [[""arifle_MX_F""],[""30Rnd_65x39_caseless_mag""]]. unitLevel 1."
+15:08:23 "A3XAI Debug: land Unit O Alpha 2-5:4 loadout: [[""srifle_DMR_01_F""],[""10Rnd_762x54_Mag""]]. unitLevel 1."
+15:08:23 "A3XAI Debug: land Unit O Alpha 2-5:5 loadout: [[""arifle_Mk20C_plain_F""],[""30Rnd_556x45_Stanag""]]. unitLevel 1."
+15:08:26 "A3XAI Debug: Set O Alpha 2-4 waypoint position to [9086.48,12025.7,0]."
+15:08:36 "A3XAI Debug: Group O Alpha 1-2 B_UAV_02_CAS_F detection end."
+15:08:43 "A3XAI Debug: Created loadout for unit O Alpha 2-6:1 (unitLevel: 1): [[""arifle_TRG20_F""],[""30Rnd_556x45_Stanag""]]."
+15:08:43 "A3XAI Debug: Spawned AI O Alpha 2-6:1 with unitLevel 1 for group O Alpha 2-6."
+15:08:43 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-6:1."
+15:08:43 "A3XAI Debug: Spawned 0 gunner units for O Alpha 2-6 vehicle Exile_Car_Van_Box_Black."
+15:08:43 "A3XAI Debug: Modified unit O Alpha 2-6:2 loadout to [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:08:43 "A3XAI Debug: Created loadout for unit O Alpha 2-6:2 (unitLevel: 1): [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:08:43 "A3XAI Debug: Spawned AI O Alpha 2-6:2 with unitLevel 1 for group O Alpha 2-6."
+15:08:43 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-6:2."
+15:08:43 "A3XAI Debug: Created loadout for unit O Alpha 2-6:3 (unitLevel: 1): [[""MMG_02_camo_F""],[""130Rnd_338_Mag""]]."
+15:08:43 "A3XAI Debug: Spawned AI O Alpha 2-6:3 with unitLevel 1 for group O Alpha 2-6."
+15:08:43 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 2-6:3."
+15:08:43 "A3XAI Debug: Spawned 2 cargo units for O Alpha 2-6 vehicle Exile_Car_Van_Box_Black."
+15:08:43 "A3XAI Debug: AI land vehicle crew group O Alpha 2-6 is now active and patrolling."
+15:08:43 "A3XAI Debug: Created AI vehicle patrol at [16844.5,21859.2,0] with vehicle type Exile_Car_Van_Box_Black with 3 crew units."
+15:08:43 "A3XAI Debug: land Unit O Alpha 2-6:1 loadout: [[""arifle_TRG20_F""],[""30Rnd_556x45_Stanag""]]. unitLevel 1."
+15:08:43 "A3XAI Debug: land Unit O Alpha 2-6:2 loadout: [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]. unitLevel 1."
+15:08:43 "A3XAI Debug: land Unit O Alpha 2-6:3 loadout: [[""MMG_02_camo_F""],[""130Rnd_338_Mag""]]. unitLevel 1."
+15:08:52 "A3XAI Debug: Group O Alpha 1-6 B_Heli_Light_01_armed_F detection started with search length 663.745."
+15:08:54 "A3XAI Debug: Pulled Exile_Item_PlasticBottleFreshWater from O Alpha 2-5 loot pool (31 items remain)."
+15:08:55 "A3XAI Debug: Pulled Exile_Item_ExtensionCord from O Alpha 2-2 loot pool (24 items remain)."
+15:08:57 "A3XAI Debug: Pulled Exile_Item_GloriousKnakworst from O Alpha 1-6 loot pool (6 items remain)."
+15:09:00 "A3XAI Debug: Set O Alpha 2-5 waypoint position to [16750.5,13638.5,0]."
+15:09:02 "A3XAI Debug: Modified unit O Alpha 3-1:1 loadout to [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:09:02 "A3XAI Debug: Created loadout for unit O Alpha 3-1:1 (unitLevel: 2): [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:09:02 "A3XAI Debug: Spawned AI O Alpha 3-1:1 with unitLevel 2 for group O Alpha 3-1."
+15:09:02 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-1:1."
+15:09:02 "A3XAI Debug: Created loadout for unit O Alpha 3-1:2 (unitLevel: 2): [[""arifle_MXC_Black_F""],[""30Rnd_65x39_caseless_mag""]]."
+15:09:02 "A3XAI Debug: Spawned AI O Alpha 3-1:2 with unitLevel 2 for group O Alpha 3-1."
+15:09:02 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-1:2."
+15:09:02 "A3XAI Debug: Added gunner unit O Alpha 3-1:2 to O Alpha 3-1 Exile_Car_Offroad_Armed_Guerilla01 with weapon HMG_M2 (1 of 1)."
+15:09:02 "A3XAI Debug: Spawned 1 gunner units for O Alpha 3-1 vehicle Exile_Car_Offroad_Armed_Guerilla01."
+15:09:02 "A3XAI Debug: Created loadout for unit O Alpha 3-1:3 (unitLevel: 2): [[""arifle_MXC_Black_F""],[""30Rnd_65x39_caseless_mag""]]."
+15:09:02 "A3XAI Debug: Spawned AI O Alpha 3-1:3 with unitLevel 2 for group O Alpha 3-1."
+15:09:02 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-1:3."
+15:09:02 "A3XAI Debug: Spawned 1 cargo units for O Alpha 3-1 vehicle Exile_Car_Offroad_Armed_Guerilla01."
+15:09:02 "A3XAI Debug: AI land vehicle crew group O Alpha 3-1 is now active and patrolling."
+15:09:02 "A3XAI Debug: Created AI vehicle patrol at [18388.6,11386.4,0] with vehicle type Exile_Car_Offroad_Armed_Guerilla01 with 3 crew units."
+15:09:02 "A3XAI Debug: land Unit O Alpha 3-1:1 loadout: [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]. unitLevel 2."
+15:09:02 "A3XAI Debug: land Unit O Alpha 3-1:2 loadout: [[""arifle_MXC_Black_F""],[""30Rnd_65x39_caseless_mag""]]. unitLevel 2."
+15:09:02 "A3XAI Debug: land Unit O Alpha 3-1:3 loadout: [[""arifle_MXC_Black_F""],[""30Rnd_65x39_caseless_mag""]]. unitLevel 2."
+15:09:08 "A3XAI Debug: Pulled Exile_Item_BBQSandwich from O Alpha 1-1 loot pool (18 items remain)."
+15:09:12 "A3XAI Debug: Set O Alpha 2-6 waypoint position to [9736.82,22258.5,0]."
+15:09:22 "A3XAI Debug: Created loadout for unit O Alpha 3-2:1 (unitLevel: 2): [[""arifle_MX_F""],[""30Rnd_65x39_caseless_mag""]]."
+15:09:22 "A3XAI Debug: Spawned AI O Alpha 3-2:1 with unitLevel 2 for group O Alpha 3-2."
+15:09:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-2:1."
+15:09:22 "A3XAI Debug: Spawned 0 gunner units for O Alpha 3-2 vehicle Exile_Car_Ifrit."
+15:09:22 "A3XAI Debug: Created loadout for unit O Alpha 3-2:2 (unitLevel: 2): [[""arifle_Katiba_C_F""],[""30Rnd_65x39_caseless_green""]]."
+15:09:22 "A3XAI Debug: Spawned AI O Alpha 3-2:2 with unitLevel 2 for group O Alpha 3-2."
+15:09:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-2:2."
+15:09:22 "A3XAI Debug: Created loadout for unit O Alpha 3-2:3 (unitLevel: 2): [[""arifle_Katiba_F""],[""30Rnd_65x39_caseless_green""]]."
+15:09:22 "A3XAI Debug: Spawned AI O Alpha 3-2:3 with unitLevel 2 for group O Alpha 3-2."
+15:09:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-2:3."
+15:09:22 "A3XAI Debug: Created loadout for unit O Alpha 3-2:4 (unitLevel: 2): [[""arifle_TRG20_F""],[""30Rnd_556x45_Stanag""]]."
+15:09:22 "A3XAI Debug: Spawned AI O Alpha 3-2:4 with unitLevel 2 for group O Alpha 3-2."
+15:09:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-2:4."
+15:09:22 "A3XAI Debug: Created loadout for unit O Alpha 3-2:5 (unitLevel: 2): [[""arifle_Mk20_F""],[""30Rnd_556x45_Stanag""]]."
+15:09:22 "A3XAI Debug: Spawned AI O Alpha 3-2:5 with unitLevel 2 for group O Alpha 3-2."
+15:09:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-2:5."
+15:09:22 "A3XAI Debug: Spawned 4 cargo units for O Alpha 3-2 vehicle Exile_Car_Ifrit."
+15:09:22 "A3XAI Debug: AI land vehicle crew group O Alpha 3-2 is now active and patrolling."
+15:09:22 "A3XAI Debug: Created AI vehicle patrol at [16462,18908,0] with vehicle type Exile_Car_Ifrit with 5 crew units."
+15:09:23 "A3XAI Debug: land Unit O Alpha 3-2:1 loadout: [[""arifle_MX_F""],[""30Rnd_65x39_caseless_mag""]]. unitLevel 2."
+15:09:23 "A3XAI Debug: land Unit O Alpha 3-2:2 loadout: [[""arifle_Katiba_C_F""],[""30Rnd_65x39_caseless_green""]]. unitLevel 2."
+15:09:23 "A3XAI Debug: land Unit O Alpha 3-2:3 loadout: [[""arifle_Katiba_F""],[""30Rnd_65x39_caseless_green""]]. unitLevel 2."
+15:09:23 "A3XAI Debug: land Unit O Alpha 3-2:4 loadout: [[""arifle_TRG20_F""],[""30Rnd_556x45_Stanag""]]. unitLevel 2."
+15:09:23 "A3XAI Debug: land Unit O Alpha 3-2:5 loadout: [[""arifle_Mk20_F""],[""30Rnd_556x45_Stanag""]]. unitLevel 2."
+15:09:26 "A3XAI Debug: Pulled Exile_Item_FuelCanisterEmpty from O Alpha 2-2 loot pool (23 items remain)."
+15:09:36 "A3XAI Debug: Pulled Exile_Item_Catfood from O Alpha 2-4 loot pool (23 items remain)."
+15:09:42 Wrong vertex mapping for person collision geometry found in a3\characters_f\civil\c_nikos.p3d. Selection 1c not found
+15:09:42 Wrong vertex mapping for person collision geometry found in a3\characters_f\civil\c_nikos.p3d. Selection 2c not found
+15:09:42 Wrong vertex mapping for person collision geometry found in a3\characters_f\civil\c_nikos.p3d. Selection 3c not found
+15:09:42 Wrong vertex mapping for person collision geometry found in a3\characters_f\civil\c_nikos.p3d. Selection 4c not found
+15:09:42 Wrong vertex mapping for person collision geometry found in a3\characters_f\civil\c_nikos.p3d. Selection 5c not found
+15:09:42 Wrong vertex mapping for person collision geometry found in a3\characters_f\civil\c_nikos.p3d. Selection 6c not found
+15:09:42 Wrong vertex mapping for person collision geometry found in a3\characters_f\civil\c_nikos.p3d. Selection 7c not found
+15:09:42 Wrong vertex mapping for person collision geometry found in a3\characters_f\civil\c_nikos.p3d. Selection 8c not found
+15:09:42 Wrong geometry convex component mapping  for person collision geometry found in a3\characters_f\civil\c_nikos.p3d. Convex component number 3. not found
+15:09:42 "A3XAI Debug: Created loadout for unit O Alpha 3-3:1 (unitLevel: 3): [[""arifle_MXC_Black_F""],[""30Rnd_65x39_caseless_mag""]]."
+15:09:42 "A3XAI Debug: Spawned AI O Alpha 3-3:1 with unitLevel 3 for group O Alpha 3-3."
+15:09:42 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Offroad_Rusty2'
+15:09:42 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Offroad_Rusty2'
+15:09:42 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Offroad_Rusty2'
+15:09:42 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Offroad_Rusty2'
+15:09:42 Duplicate HitPoint name 'HitTurret' in 'Exile_Car_Offroad_Rusty2'
+15:09:42 Duplicate HitPoint name 'HitGun' in 'Exile_Car_Offroad_Rusty2'
+15:09:42 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-3:1."
+15:09:42 "A3XAI Debug: Spawned 0 gunner units for O Alpha 3-3 vehicle Exile_Car_Offroad_Rusty2."
+15:09:42 "A3XAI Debug: Created loadout for unit O Alpha 3-3:2 (unitLevel: 3): [[""arifle_SDAR_F""],[""20Rnd_556x45_UW_mag""]]."
+15:09:42 "A3XAI Debug: Spawned AI O Alpha 3-3:2 with unitLevel 3 for group O Alpha 3-3."
+15:09:42 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-3:2."
+15:09:42 "A3XAI Debug: Created loadout for unit O Alpha 3-3:3 (unitLevel: 3): [[""srifle_DMR_05_blk_F""],[""10Rnd_93x64_DMR_05_Mag""]]."
+15:09:42 "A3XAI Debug: Spawned AI O Alpha 3-3:3 with unitLevel 3 for group O Alpha 3-3."
+15:09:42 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-3:3."
+15:09:43 "A3XAI Debug: Created loadout for unit O Alpha 3-3:4 (unitLevel: 3): [[""arifle_SDAR_F""],[""20Rnd_556x45_UW_mag""]]."
+15:09:43 "A3XAI Debug: Spawned AI O Alpha 3-3:4 with unitLevel 3 for group O Alpha 3-3."
+15:09:43 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-3:4."
+15:09:43 "A3XAI Debug: Created loadout for unit O Alpha 3-3:5 (unitLevel: 3): [[""arifle_TRG20_F""],[""30Rnd_556x45_Stanag""]]."
+15:09:43 "A3XAI Debug: Spawned AI O Alpha 3-3:5 with unitLevel 3 for group O Alpha 3-3."
+15:09:43 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-3:5."
+15:09:43 "A3XAI Debug: Spawned 4 cargo units for O Alpha 3-3 vehicle Exile_Car_Offroad_Rusty2."
+15:09:43 "A3XAI Debug: AI land vehicle crew group O Alpha 3-3 is now active and patrolling."
+15:09:43 "A3XAI Debug: Created AI vehicle patrol at [13806.1,13011.1,0] with vehicle type Exile_Car_Offroad_Rusty2 with 5 crew units."
+15:09:43 "A3XAI Debug: land Unit O Alpha 3-3:1 loadout: [[""arifle_MXC_Black_F""],[""30Rnd_65x39_caseless_mag""]]. unitLevel 3."
+15:09:43 "A3XAI Debug: land Unit O Alpha 3-3:2 loadout: [[""arifle_SDAR_F""],[""20Rnd_556x45_UW_mag""]]. unitLevel 3."
+15:09:43 "A3XAI Debug: land Unit O Alpha 3-3:3 loadout: [[""srifle_DMR_05_blk_F""],[""10Rnd_93x64_DMR_05_Mag""]]. unitLevel 3."
+15:09:43 "A3XAI Debug: land Unit O Alpha 3-3:4 loadout: [[""arifle_SDAR_F""],[""20Rnd_556x45_UW_mag""]]. unitLevel 3."
+15:09:43 "A3XAI Debug: land Unit O Alpha 3-3:5 loadout: [[""arifle_TRG20_F""],[""30Rnd_556x45_Stanag""]]. unitLevel 3."
+15:09:50 "A3XAI Debug: Set O Alpha 3-1 waypoint position to [24004.6,15460.1,0]."
+15:09:51 "A3XAI Debug: Pulled Exile_Item_DuctTape from O Alpha 1-3 loot pool (33 items remain)."
+15:09:54 "A3XAI Debug: Set O Alpha 3-2 waypoint position to [8279.29,25074.2,0]."
+15:10:02 "A3XAI Debug: Created loadout for unit O Alpha 3-4:1 (unitLevel: 2): [[""arifle_Katiba_F""],[""30Rnd_65x39_caseless_green""]]."
+15:10:02 "A3XAI Debug: Spawned AI O Alpha 3-4:1 with unitLevel 2 for group O Alpha 3-4."
+15:10:02 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-4:1."
+15:10:02 "A3XAI Debug: Spawned 0 gunner units for O Alpha 3-4 vehicle Exile_Car_SUV_Red."
+15:10:02 "A3XAI Debug: Modified unit O Alpha 3-4:2 loadout to [[""arifle_Mk20_GL_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:10:02 "A3XAI Debug: Created loadout for unit O Alpha 3-4:2 (unitLevel: 2): [[""arifle_Mk20_GL_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:10:02 "A3XAI Debug: Spawned AI O Alpha 3-4:2 with unitLevel 2 for group O Alpha 3-4."
+15:10:02 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-4:2."
+15:10:02 "A3XAI Debug: Created loadout for unit O Alpha 3-4:3 (unitLevel: 2): [[""arifle_Mk20C_F""],[""30Rnd_556x45_Stanag""]]."
+15:10:02 "A3XAI Debug: Spawned AI O Alpha 3-4:3 with unitLevel 2 for group O Alpha 3-4."
+15:10:02 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-4:3."
+15:10:02 "A3XAI Debug: Created loadout for unit O Alpha 3-4:4 (unitLevel: 2): [[""srifle_DMR_06_olive_F""],[""20Rnd_762x51_Mag""]]."
+15:10:02 "A3XAI Debug: Spawned AI O Alpha 3-4:4 with unitLevel 2 for group O Alpha 3-4."
+15:10:02 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-4:4."
+15:10:02 "A3XAI Debug: Spawned 3 cargo units for O Alpha 3-4 vehicle Exile_Car_SUV_Red."
+15:10:02 "A3XAI Debug: AI land vehicle crew group O Alpha 3-4 is now active and patrolling."
+15:10:02 "A3XAI Debug: Created AI vehicle patrol at [13833.3,18905.2,0] with vehicle type Exile_Car_SUV_Red with 4 crew units."
+15:10:02 "A3XAI Debug: land Unit O Alpha 3-4:1 loadout: [[""arifle_Katiba_F""],[""30Rnd_65x39_caseless_green""]]. unitLevel 2."
+15:10:02 "A3XAI Debug: land Unit O Alpha 3-4:2 loadout: [[""arifle_Mk20_GL_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]. unitLevel 2."
+15:10:02 "A3XAI Debug: land Unit O Alpha 3-4:3 loadout: [[""arifle_Mk20C_F""],[""30Rnd_556x45_Stanag""]]. unitLevel 2."
+15:10:02 "A3XAI Debug: land Unit O Alpha 3-4:4 loadout: [[""srifle_DMR_06_olive_F""],[""20Rnd_762x51_Mag""]]. unitLevel 2."
+15:10:04 "A3XAI Debug: Pulled Exile_Item_GloriousKnakworst from O Alpha 3-1 loot pool (17 items remain)."
+15:10:22 "A3XAI Debug: Modified unit O Alpha 3-5:1 loadout to [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:10:22 "A3XAI Debug: Created loadout for unit O Alpha 3-5:1 (unitLevel: 2): [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:10:22 "A3XAI Debug: Spawned AI O Alpha 3-5:1 with unitLevel 2 for group O Alpha 3-5."
+15:10:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-5:1."
+15:10:22 "A3XAI Debug: Spawned 0 gunner units for O Alpha 3-5 vehicle Exile_Car_Hatchback_Rusty1."
+15:10:22 "A3XAI Debug: Created loadout for unit O Alpha 3-5:2 (unitLevel: 2): [[""arifle_Katiba_F""],[""30Rnd_65x39_caseless_green""]]."
+15:10:22 "A3XAI Debug: Spawned AI O Alpha 3-5:2 with unitLevel 2 for group O Alpha 3-5."
+15:10:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-5:2."
+15:10:22 "A3XAI Debug: Created loadout for unit O Alpha 3-5:3 (unitLevel: 2): [[""arifle_MX_Black_F""],[""30Rnd_65x39_caseless_mag""]]."
+15:10:22 "A3XAI Debug: Spawned AI O Alpha 3-5:3 with unitLevel 2 for group O Alpha 3-5."
+15:10:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-5:3."
+15:10:22 "A3XAI Debug: Created loadout for unit O Alpha 3-5:4 (unitLevel: 2): [[""srifle_LRR_camo_F""],[""7Rnd_408_Mag""]]."
+15:10:22 "A3XAI Debug: Spawned AI O Alpha 3-5:4 with unitLevel 2 for group O Alpha 3-5."
+15:10:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-5:4."
+15:10:22 "A3XAI Debug: Spawned 3 cargo units for O Alpha 3-5 vehicle Exile_Car_Hatchback_Rusty1."
+15:10:22 "A3XAI Debug: AI land vehicle crew group O Alpha 3-5 is now active and patrolling."
+15:10:22 "A3XAI Debug: Created AI vehicle patrol at [16193.9,16056.1,0] with vehicle type Exile_Car_Hatchback_Rusty1 with 4 crew units."
+15:10:22 "A3XAI Debug: land Unit O Alpha 3-5:1 loadout: [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]. unitLevel 2."
+15:10:22 "A3XAI Debug: land Unit O Alpha 3-5:2 loadout: [[""arifle_Katiba_F""],[""30Rnd_65x39_caseless_green""]]. unitLevel 2."
+15:10:22 "A3XAI Debug: land Unit O Alpha 3-5:3 loadout: [[""arifle_MX_Black_F""],[""30Rnd_65x39_caseless_mag""]]. unitLevel 2."
+15:10:22 "A3XAI Debug: land Unit O Alpha 3-5:4 loadout: [[""srifle_LRR_camo_F""],[""7Rnd_408_Mag""]]. unitLevel 2."
+15:10:23 "A3XAI Debug: Group O Alpha 1-6 B_Heli_Light_01_armed_F detection end."
+15:10:28 "A3XAI Debug: Pulled Exile_Item_MetalBoard from O Alpha 2-2 loot pool (22 items remain)."
+15:10:31 "A3XAI Debug: Set O Alpha 3-3 waypoint position to [6615.49,22622,0]."
+15:10:34 "A3XAI Debug: Pulled Exile_Item_Rope from O Alpha 3-4 loot pool (26 items remain)."
+15:10:35 "A3XAI Debug: Pulled Exile_Item_BBQSandwich from O Alpha 3-1 loot pool (16 items remain)."
+15:10:43 Strange convex component317 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometry
+15:10:43 Strange convex component318 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometry
+15:10:43 Strange convex component319 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometry
+15:10:43 Strange convex component317 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometryView
+15:10:43 Strange convex component318 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometryView
+15:10:43 Strange convex component319 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometryView
+15:10:43 "A3XAI Debug: Created loadout for unit O Alpha 3-6:1 (unitLevel: 2): [[""arifle_TRG21_F""],[""30Rnd_556x45_Stanag""]]."
+15:10:43 "A3XAI Debug: Spawned AI O Alpha 3-6:1 with unitLevel 2 for group O Alpha 3-6."
+15:10:43 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-6:1."
+15:10:43 "A3XAI Debug: Spawned 0 gunner units for O Alpha 3-6 vehicle Exile_Car_Offroad_Repair_Civillian."
+15:10:43 "A3XAI Debug: Created loadout for unit O Alpha 3-6:2 (unitLevel: 2): [[""arifle_MX_F""],[""30Rnd_65x39_caseless_mag""]]."
+15:10:43 "A3XAI Debug: Spawned AI O Alpha 3-6:2 with unitLevel 2 for group O Alpha 3-6."
+15:10:43 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-6:2."
+15:10:43 "A3XAI Debug: Modified unit O Alpha 3-6:3 loadout to [[""arifle_Katiba_GL_F"",""EGLM""],[""30Rnd_65x39_caseless_green"",""1Rnd_HE_Grenade_shell""]]."
+15:10:43 "A3XAI Debug: Created loadout for unit O Alpha 3-6:3 (unitLevel: 2): [[""arifle_Katiba_GL_F"",""EGLM""],[""30Rnd_65x39_caseless_green"",""1Rnd_HE_Grenade_shell""]]."
+15:10:43 "A3XAI Debug: Spawned AI O Alpha 3-6:3 with unitLevel 2 for group O Alpha 3-6."
+15:10:43 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-6:3."
+15:10:43 "A3XAI Debug: Created loadout for unit O Alpha 3-6:4 (unitLevel: 2): [[""MMG_02_black_F""],[""130Rnd_338_Mag""]]."
+15:10:43 "A3XAI Debug: Spawned AI O Alpha 3-6:4 with unitLevel 2 for group O Alpha 3-6."
+15:10:43 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 3-6:4."
+15:10:43 "A3XAI Debug: Spawned 3 cargo units for O Alpha 3-6 vehicle Exile_Car_Offroad_Repair_Civillian."
+15:10:43 "A3XAI Debug: AI land vehicle crew group O Alpha 3-6 is now active and patrolling."
+15:10:43 "A3XAI Debug: Created AI vehicle patrol at [23337.7,24234.8,0] with vehicle type Exile_Car_Offroad_Repair_Civillian with 4 crew units."
+15:10:43 "A3XAI Debug: land Unit O Alpha 3-6:1 loadout: [[""arifle_TRG21_F""],[""30Rnd_556x45_Stanag""]]. unitLevel 2."
+15:10:43 "A3XAI Debug: land Unit O Alpha 3-6:2 loadout: [[""arifle_MX_F""],[""30Rnd_65x39_caseless_mag""]]. unitLevel 2."
+15:10:43 "A3XAI Debug: land Unit O Alpha 3-6:3 loadout: [[""arifle_Katiba_GL_F"",""EGLM""],[""30Rnd_65x39_caseless_green"",""1Rnd_HE_Grenade_shell""]]. unitLevel 2."
+15:10:43 "A3XAI Debug: land Unit O Alpha 3-6:4 loadout: [[""MMG_02_black_F""],[""130Rnd_338_Mag""]]. unitLevel 2."
+15:10:43 "A3XAI Debug: Group O Alpha 3-6 in no-aggro zone."
+15:10:46 "A3XAI Debug: Set O Alpha 3-4 waypoint position to [12739.5,19695.3,0]."
+15:10:48 "A3XAI Debug: Pulled Exile_Item_Energydrink from O Alpha 2-3 loot pool (24 items remain)."
+15:10:55 "A3XAI Debug: Set O Alpha 3-5 waypoint position to [16676.9,20415.4,0]."
+15:10:56 "A3XAI Debug: Pulled Exile_Item_BBQSandwich from O Alpha 3-2 loot pool (31 items remain)."
+15:11:02 "A3XAI Debug: Modified unit O Alpha 4-1:1 loadout to [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:11:02 "A3XAI Debug: Created loadout for unit O Alpha 4-1:1 (unitLevel: 1): [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:11:02 "A3XAI Debug: Spawned AI O Alpha 4-1:1 with unitLevel 1 for group O Alpha 4-1."
+15:11:02 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 4-1:1."
+15:11:02 "A3XAI Debug: Spawned 0 gunner units for O Alpha 4-1 vehicle Exile_Car_Hatchback_Rusty3."
+15:11:02 "A3XAI Debug: Modified unit O Alpha 4-1:2 loadout to [[""arifle_TRG21_GL_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:11:02 "A3XAI Debug: Created loadout for unit O Alpha 4-1:2 (unitLevel: 1): [[""arifle_TRG21_GL_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]."
+15:11:02 "A3XAI Debug: Spawned AI O Alpha 4-1:2 with unitLevel 1 for group O Alpha 4-1."
+15:11:02 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 4-1:2."
+15:11:02 "A3XAI Debug: Created loadout for unit O Alpha 4-1:3 (unitLevel: 1): [[""arifle_Mk20C_F""],[""30Rnd_556x45_Stanag""]]."
+15:11:02 "A3XAI Debug: Spawned AI O Alpha 4-1:3 with unitLevel 1 for group O Alpha 4-1."
+15:11:02 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 4-1:3."
+15:11:02 "A3XAI Debug: Created loadout for unit O Alpha 4-1:4 (unitLevel: 1): [[""arifle_Katiba_F""],[""30Rnd_65x39_caseless_green""]]."
+15:11:02 "A3XAI Debug: Spawned AI O Alpha 4-1:4 with unitLevel 1 for group O Alpha 4-1."
+15:11:02 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 4-1:4."
+15:11:02 "A3XAI Debug: Spawned 3 cargo units for O Alpha 4-1 vehicle Exile_Car_Hatchback_Rusty3."
+15:11:02 "A3XAI Debug: AI land vehicle crew group O Alpha 4-1 is now active and patrolling."
+15:11:02 "A3XAI Debug: Created AI vehicle patrol at [12976.4,19473.3,0] with vehicle type Exile_Car_Hatchback_Rusty3 with 4 crew units."
+15:11:02 "A3XAI Debug: land Unit O Alpha 4-1:1 loadout: [[""arifle_Mk20_GL_plain_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]. unitLevel 1."
+15:11:02 "A3XAI Debug: land Unit O Alpha 4-1:2 loadout: [[""arifle_TRG21_GL_F"",""EGLM""],[""30Rnd_556x45_Stanag"",""1Rnd_HE_Grenade_shell""]]. unitLevel 1."
+15:11:02 "A3XAI Debug: land Unit O Alpha 4-1:3 loadout: [[""arifle_Mk20C_F""],[""30Rnd_556x45_Stanag""]]. unitLevel 1."
+15:11:02 "A3XAI Debug: land Unit O Alpha 4-1:4 loadout: [[""arifle_Katiba_F""],[""30Rnd_65x39_caseless_green""]]. unitLevel 1."
+15:11:05 "A3XAI Debug: Pulled Exile_Item_InstaDoc from O Alpha 3-4 loot pool (25 items remain)."
+15:11:05 "A3XAI Debug: Pulled Exile_Item_MetalPole from O Alpha 3-1 loot pool (15 items remain)."
+15:11:06 "A3XAI Debug: Group O Alpha 1-1 B_Heli_Transport_03_F detection started with search length 681.935."
+15:11:08 "A3XAI Debug: Pulled Exile_Item_MetalBoard from O Alpha 2-4 loot pool (22 items remain)."
+15:11:15 "A3XAI Debug: Pulled Exile_Item_ChristmasTinner from O Alpha 3-6 loot pool (25 items remain)."
+15:11:16 "A3XAI Debug: Pulled Exile_Item_Energydrink from O Alpha 3-3 loot pool (30 items remain)."
+15:11:16 "A3XAI Debug: Set O Alpha 3-6 waypoint position to [27104.5,23209.1,1.90735e-006]."
+15:11:17 "A3XAI Debug: Group O Alpha 1-2 search length 326.505, waypoint position [25350.6,21790.9]."
+15:11:22 "A3XAI Debug: Created loadout for unit O Alpha 4-2:1 (unitLevel: 2): [[""arifle_Mk20C_plain_F""],[""30Rnd_556x45_Stanag""]]."
+15:11:22 "A3XAI Debug: Spawned AI O Alpha 4-2:1 with unitLevel 2 for group O Alpha 4-2."
+15:11:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 4-2:1."
+15:11:22 "A3XAI Debug: Created loadout for unit O Alpha 4-2:2 (unitLevel: 2): [[""arifle_MXC_Black_F""],[""30Rnd_65x39_caseless_mag""]]."
+15:11:22 "A3XAI Debug: Spawned AI O Alpha 4-2:2 with unitLevel 2 for group O Alpha 4-2."
+15:11:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 4-2:2."
+15:11:22 "A3XAI Debug: Added gunner unit O Alpha 4-2:2 to O Alpha 4-2 Exile_Car_Offroad_Armed_Guerilla01 with weapon HMG_M2 (1 of 1)."
+15:11:22 "A3XAI Debug: Spawned 1 gunner units for O Alpha 4-2 vehicle Exile_Car_Offroad_Armed_Guerilla01."
+15:11:22 "A3XAI Debug: Created loadout for unit O Alpha 4-2:3 (unitLevel: 2): [[""arifle_Katiba_F""],[""30Rnd_65x39_caseless_green""]]."
+15:11:22 "A3XAI Debug: Spawned AI O Alpha 4-2:3 with unitLevel 2 for group O Alpha 4-2."
+15:11:22 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 4-2:3."
+15:11:22 "A3XAI Debug: Spawned 1 cargo units for O Alpha 4-2 vehicle Exile_Car_Offroad_Armed_Guerilla01."
+15:11:22 "A3XAI Debug: AI land vehicle crew group O Alpha 4-2 is now active and patrolling."
+15:11:22 "A3XAI Debug: Created AI vehicle patrol at [13480.8,18517,0] with vehicle type Exile_Car_Offroad_Armed_Guerilla01 with 3 crew units."
+15:11:22 "A3XAI Debug: land Unit O Alpha 4-2:1 loadout: [[""arifle_Mk20C_plain_F""],[""30Rnd_556x45_Stanag""]]. unitLevel 2."
+15:11:22 "A3XAI Debug: land Unit O Alpha 4-2:2 loadout: [[""arifle_MXC_Black_F""],[""30Rnd_65x39_caseless_mag""]]. unitLevel 2."
+15:11:22 "A3XAI Debug: land Unit O Alpha 4-2:3 loadout: [[""arifle_Katiba_F""],[""30Rnd_65x39_caseless_green""]]. unitLevel 2."
+15:11:24 "A3XAI Debug: Pulled Exile_Item_SausageGravy from O Alpha 1-3 loot pool (32 items remain)."
+15:11:25 "A3XAI Debug: Pulled Exile_Item_ExtensionCord from O Alpha 3-5 loot pool (25 items remain)."
+15:11:27 "A3XAI Debug: Pulled Exile_Item_JunkMetal from O Alpha 3-2 loot pool (30 items remain)."
+15:11:28 "A3XAI Debug: Relocated stuck group O Alpha 3-2 (land) to new location 9907.07m away."
+15:11:28 "A3XAI Debug: Antistuck triggered for AI land vehicle Exile_Car_Ifrit (Group: O Alpha 3-2). Forcing next waypoint."
+15:11:30 "A3XAI Debug: Group O Alpha 3-6 in no-aggro zone."
+15:11:31 "[A3XAI Monitor] [Uptime:00:06:02][FPS:48][Groups:18/18 (Total: 20)][Respawn:0][HC:false]"
+15:11:31 "[A3XAI Monitor] [Static:0][Dynamic:0][Random:0][Air:3][Land:15][UAV:2][UGV:0]"
+15:11:32 "A3XAI Debug: A3XAI is generating static spawns."
+15:11:32 "A3XAI Debug: Initialized static spawn at Aggelochori ([3687.78,13776.1,-9.53674e-007]). GroupArray: [], PatrolDist: 125. unitLevel: 0. LocationArray 169 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:33 "A3XAI Debug: Initialized static spawn at Neri ([4116.11,11736.1,3.8147e-006]). GroupArray: [], PatrolDist: 170. unitLevel: 0. LocationArray 106 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:33 "A3XAI Debug: Initialized static spawn at Panochori ([5033.31,11245.2,0]). GroupArray: [], PatrolDist: 150. unitLevel: 0. LocationArray 170 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:34 "A3XAI Debug: Initialized static spawn at Zaros ([9091.81,11961.9,-1.90735e-006]). GroupArray: [], PatrolDist: 200. unitLevel: 1. LocationArray 187 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:34 "A3XAI Debug: Initialized static spawn at Therisa ([10618.9,12237.3,0]). GroupArray: [], PatrolDist: 200. unitLevel: 0. LocationArray 100 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:34 "A3XAI Debug: Initialized static spawn at Katalaki ([11701.1,13672.1,0]). GroupArray: [], PatrolDist: 200. unitLevel: 0. LocationArray 46 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:34 "A3XAI Debug: Initialized static spawn at Neochori ([12502,14337,-9.53674e-007]). GroupArray: [], PatrolDist: 250. unitLevel: 1. LocationArray 178 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:35 "A3XAI Debug: Initialized static spawn at Stavros ([12950.1,15041.6,0]). GroupArray: [], PatrolDist: 250. unitLevel: 0. LocationArray 83 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:35 "A3XAI Debug: Initialized static spawn at Lakka ([12282,15732.3,0]). GroupArray: [], PatrolDist: 200. unitLevel: 1. LocationArray 82 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:35 "A3XAI Debug: Initialized static spawn at Alikampos ([11112.6,14573.7,0]). GroupArray: [], PatrolDist: 250. unitLevel: 0. LocationArray 57 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:36 "A3XAI Debug: Initialized static spawn at Agios Dionysios ([9187.95,15947.8,0]). GroupArray: [], PatrolDist: 125. unitLevel: 1. LocationArray 134 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:36 "A3XAI Debug: Pulled Exile_Item_Beer from O Alpha 3-4 loot pool (24 items remain)."
+15:11:36 "A3XAI Debug: Initialized static spawn at Kore ([7062.42,16472.1,0]). GroupArray: [], PatrolDist: 300. unitLevel: 1. LocationArray 85 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:36 "A3XAI Debug: Pulled Exile_Item_CamoTentKit from O Alpha 3-1 loot pool (14 items remain)."
+15:11:36 "A3XAI Debug: Initialized static spawn at Negades ([4885.98,16171.3,0]). GroupArray: [], PatrolDist: 200. unitLevel: 0. LocationArray 77 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:37 "A3XAI Debug: Initialized static spawn at Agios Konstantinos ([3948.77,17277.8,-9.53674e-007]). GroupArray: [], PatrolDist: 125. unitLevel: 0. LocationArray 34 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:37 "A3XAI Debug: Initialized static spawn at Topolia ([7375.81,15429.5,0]). GroupArray: [], PatrolDist: 125. unitLevel: 0. LocationArray 17 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:37 "A3XAI Debug: Initialized static spawn at Athira ([13993,18709.4,0]). GroupArray: [], PatrolDist: 300. unitLevel: 2. LocationArray 171 positions, MaxUnits [3,5], SpawnChance 0.8."
+15:11:37 "A3XAI Debug: Initialized static spawn at Frini ([14612.5,20786.7,0]). GroupArray: [], PatrolDist: 270.58. unitLevel: 1. LocationArray 52 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:37 "A3XAI Debug: Initialized static spawn at Ifestiona ([12787,19679.3,0]). GroupArray: [], PatrolDist: 176.64. unitLevel: 0. LocationArray 24 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:37 "A3XAI Debug: Initialized static spawn at Syrta ([8625.13,18301.6,0]). GroupArray: [], PatrolDist: 250. unitLevel: 1. LocationArray 83 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:38 "A3XAI Debug: Initialized static spawn at Galati ([10270.3,19036,0]). GroupArray: [], PatrolDist: 250. unitLevel: 0. LocationArray 63 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:38 "A3XAI Debug: Initialized static spawn at Koroni ([11786.7,18372.4,-3.8147e-006]). GroupArray: [], PatrolDist: 300. unitLevel: 0. LocationArray 15 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:38 "A3XAI Debug: Initialized static spawn at Abdera ([9425.42,20284,7.62939e-006]). GroupArray: [], PatrolDist: 250. unitLevel: 0. LocationArray 57 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:39 "A3XAI Debug: Initialized static spawn at Telos ([16207,17296.7,1.90735e-006]). GroupArray: [], PatrolDist: 250. unitLevel: 1. LocationArray 98 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:39 "A3XAI Debug: Initialized static spawn at Anthrakia ([16584.3,16104,0]). GroupArray: [], PatrolDist: 250. unitLevel: 0. LocationArray 68 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:39 "A3XAI Debug: Initialized static spawn at Kalithea ([17826.5,18129.4,0]). GroupArray: [], PatrolDist: 125. unitLevel: 0. LocationArray 24 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:39 "A3XAI Debug: Static spawn not created at Agios Petros. Acceptable positions: 2, Total: 8"
+15:11:39 "A3XAI Debug: Initialized static spawn at Paros ([20885.4,16958.8,0]). GroupArray: [], PatrolDist: 180. unitLevel: 1. LocationArray 224 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:39 "A3XAI Debug: Initialized static spawn at Kalochori ([21351.6,16361.9,1.90735e-006]). GroupArray: [], PatrolDist: 150. unitLevel: 1. LocationArray 122 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:39 "A3XAI Debug: Initialized static spawn at Sofia ([25680.5,21365.1,0]). GroupArray: [], PatrolDist: 250. unitLevel: 1. LocationArray 167 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:40 "A3XAI Debug: Initialized static spawn at Molos ([26943.9,23170.7,0]). GroupArray: [], PatrolDist: 200. unitLevel: 1. LocationArray 122 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:40 "A3XAI Debug: Initialized static spawn at Ioannina ([23199.7,19986.6,0]). GroupArray: [], PatrolDist: 125. unitLevel: 0. LocationArray 27 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:40 "A3XAI Debug: Initialized static spawn at Delfinaki ([23908.6,20144.7,0]). GroupArray: [], PatrolDist: 140. unitLevel: 0. LocationArray 20 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:40 "A3XAI Debug: Initialized static spawn at Nifi ([19473.3,15453.7,0]). GroupArray: [], PatrolDist: 200. unitLevel: 0. LocationArray 11 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:40 "A3XAI Debug: Initialized static spawn at Charkia ([18049.1,15264.1,0]). GroupArray: [], PatrolDist: 200. unitLevel: 1. LocationArray 143 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:41 "A3XAI Debug: Initialized static spawn at Dorida ([19336.9,13252.3,0]). GroupArray: [], PatrolDist: 200. unitLevel: 1. LocationArray 88 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:41 "A3XAI Debug: Initialized static spawn at Chalkeia ([20194.6,11660.7,7.62939e-006]). GroupArray: [], PatrolDist: 200. unitLevel: 1. LocationArray 121 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:41 "A3XAI Debug: Initialized static spawn at Panagia ([20490.2,8907.12,0]). GroupArray: [], PatrolDist: 125. unitLevel: 0. LocationArray 56 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:42 "A3XAI Debug: Initialized static spawn at Feres ([21640.7,7583.93,0]). GroupArray: [], PatrolDist: 150. unitLevel: 0. LocationArray 79 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:42 "A3XAI Debug: Initialized static spawn at Selakano ([20769.8,6736.46,0]). GroupArray: [], PatrolDist: 125. unitLevel: 0. LocationArray 85 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:42 "A3XAI Debug: Initialized static spawn at Pyrgos ([16780.6,12604.5,1.90735e-006]). GroupArray: [], PatrolDist: 200. unitLevel: 2. LocationArray 247 positions, MaxUnits [3,5], SpawnChance 0.8."
+15:11:43 "A3XAI Debug: Initialized static spawn at Kavala ([3458.95,12966.4,0]). GroupArray: [], PatrolDist: 200. unitLevel: 2. LocationArray 260 positions, MaxUnits [3,5], SpawnChance 0.8."
+15:11:44 "A3XAI Debug: Created loadout for unit O Alpha 4-3:1 (unitLevel: 1): [[""arifle_Katiba_F""],[""30Rnd_65x39_caseless_green""]]."
+15:11:44 "A3XAI Debug: Spawned AI O Alpha 4-3:1 with unitLevel 1 for group O Alpha 4-3."
+15:11:44 "A3XAI Debug: Initialized static spawn at Poliakko ([10966.5,13435.3,0]). GroupArray: [], PatrolDist: 250. unitLevel: 1. LocationArray 78 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:44 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 4-3:1."
+15:11:44 "A3XAI Debug: Static spawn not created at Bomos. Acceptable positions: 1, Total: 1"
+15:11:44 "A3XAI Debug: Modified unit O Alpha 4-3:2 loadout to [[""arifle_Katiba_GL_F"",""EGLM""],[""30Rnd_65x39_caseless_green"",""1Rnd_HE_Grenade_shell""]]."
+15:11:44 "A3XAI Debug: Created loadout for unit O Alpha 4-3:2 (unitLevel: 1): [[""arifle_Katiba_GL_F"",""EGLM""],[""30Rnd_65x39_caseless_green"",""1Rnd_HE_Grenade_shell""]]."
+15:11:44 "A3XAI Debug: Spawned AI O Alpha 4-3:2 with unitLevel 1 for group O Alpha 4-3."
+15:11:44 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 4-3:2."
+15:11:44 "A3XAI Debug: Added gunner unit O Alpha 4-3:2 to O Alpha 4-3 Exile_Car_Offroad_Armed_Guerilla01 with weapon HMG_M2 (1 of 1)."
+15:11:44 "A3XAI Debug: Spawned 1 gunner units for O Alpha 4-3 vehicle Exile_Car_Offroad_Armed_Guerilla01."
+15:11:44 "A3XAI Debug: Initialized static spawn at Oreokastro ([4560.45,21460.6,0]). GroupArray: [], PatrolDist: 300. unitLevel: 0. LocationArray 40 positions, MaxUnits [2,4], SpawnChance 0.6."
+15:11:44 "A3XAI Debug: Created loadout for unit O Alpha 4-3:3 (unitLevel: 1): [[""arifle_MX_F""],[""30Rnd_65x39_caseless_mag""]]."
+15:11:44 "A3XAI Debug: Spawned AI O Alpha 4-3:3 with unitLevel 1 for group O Alpha 4-3."
+15:11:44 "A3XAI Debug: Generated temporary NVGs for AI O Alpha 4-3:3."
+15:11:44 "A3XAI Debug: Spawned 1 cargo units for O Alpha 4-3 vehicle Exile_Car_Offroad_Armed_Guerilla01."
+15:11:44 "A3XAI Debug: AI land vehicle crew group O Alpha 4-3 is now active and patrolling."
+15:11:45 "A3XAI Debug: Static spawn not created at castle. Acceptable positions: 1, Total: 2"
+15:11:45 "A3XAI Debug: Static spawn not created at Faros. Acceptable positions: 2, Total: 3"
+15:11:45 "A3XAI Debug: Created AI vehicle patrol at [8067.66,14436.1,0] with vehicle type Exile_Car_Offroad_Armed_Guerilla01 with 3 crew units."
+15:11:45 "A3XAI Debug: land Unit O Alpha 4-3:1 loadout: [[""arifle_Katiba_F""],[""30Rnd_65x39_caseless_green""]]. unitLevel 1."
+15:11:45 "A3XAI Debug: land Unit O Alpha 4-3:2 loadout: [[""arifle_Katiba_GL_F"",""EGLM""],[""30Rnd_65x39_caseless_green"",""1Rnd_HE_Grenade_shell""]]. unitLevel 1."
+15:11:45 "A3XAI Debug: land Unit O Alpha 4-3:3 loadout: [[""arifle_MX_F""],[""30Rnd_65x39_caseless_mag""]]. unitLevel 1."
+15:11:45 "A3XAI Debug: Static spawn not created at dump. Acceptable positions: 2, Total: 7"
+15:11:45 "A3XAI Debug: Initialized static spawn at Aristi ([7914.05,21305.2,0]). GroupArray: [], PatrolDist: 210.43. unitLevel: 2. LocationArray 18 positions, MaxUnits [1,2], SpawnChance 0.6."
+15:11:46 EPE manager release (440|782|0)
+15:11:46 Number of actors in scene after release: 440
+15:11:46 EPE manager release (0|440|0)
+15:11:49 Deinitialized shape [Class: "C_Soldier_VR_F"; Shape: "a3\characters_f_bootcamp\common\vr_soldier_f.p3d";]
+15:11:49 Deinitialized shape [Class: "Underwear_F"; Shape: "a3\characters_f\common\basicbody.p3d";]
+15:11:49 Deinitialized shape [Class: "B_UAV_AI"; Shape: "a3\characters_f\common\invisibleman.p3d";]
+15:11:49 Deinitialized shape [Class: "C_journalist_F"; Shape: "a3\characters_f_epc\civil\c_journalist.p3d";]
+15:11:49 Deinitialized shape [Class: "I_pilot_F"; Shape: "a3\characters_f\common\pilot_f.p3d";]
+15:11:49 Deinitialized shape [Class: "B_G_Soldier_M_F"; Shape: "a3\characters_f_gamma\guerrilla\ig_guerrilla3_1.p3d";]
+15:11:49 Deinitialized shape [Class: "I_G_Soldier_M_F"; Shape: "a3\characters_f_gamma\guerrilla\ig_guerrilla3_1.p3d";]
+15:11:49 Deinitialized shape [Class: "O_sniper_F"; Shape: "a3\characters_f\opfor\o_sniper.p3d";]
+15:11:49 Deinitialized shape [Class: "I_Sniper_F"; Shape: "a3\characters_f_beta\indep\ia_sniper.p3d";]
+15:11:49 Deinitialized shape [Class: "C_Nikos"; Shape: "a3\characters_f\civil\c_nikos.p3d";]
+15:11:49 Deinitialized shape [Class: "C_Orestes"; Shape: "a3\characters_f\civil\c_orestes.p3d";]
+15:11:49 Deinitialized shape [Class: "B_CTRG_soldier_engineer_exp_F"; Shape: "a3\characters_f\blufor\b_soldier_02.p3d";]
+15:11:49 Deinitialized shape [Class: "B_diver_F"; Shape: "a3\characters_f\common\diver_slotable.p3d";]
+15:11:49 Deinitialized shape [Class: "I_diver_F"; Shape: "a3\characters_f\common\diver_slotable.p3d";]
+15:11:49 Deinitialized shape [Class: "O_diver_F"; Shape: "a3\characters_f\common\diver_slotable.p3d";]
+15:11:49 Deinitialized shape [Class: "B_CTRG_soldier_AR_A_F"; Shape: "a3\characters_f\blufor\b_soldier_03.p3d";]
+15:11:49 Deinitialized shape [Class: "O_officer_F"; Shape: "a3\characters_f\opfor\o_officer.p3d";]
+15:11:49 Deinitialized shape [Class: "B_G_Soldier_TL_F"; Shape: "a3\characters_f_gamma\guerrilla\ig_leader.p3d";]
+15:11:49 Deinitialized shape [Class: "I_G_Soldier_TL_F"; Shape: "a3\characters_f_gamma\guerrilla\ig_leader.p3d";]
+15:11:49 Deinitialized shape [Class: "b_soldier_survival_F"; Shape: "a3\characters_f_epa\blufor\b_soldier_survival_01.p3d";]
+15:11:49 Deinitialized shape [Class: "O_ghillie_lsh_F"; Shape: "a3\characters_f_mark\opfor\o_fullghillie_f.p3d";]
+15:11:49 Deinitialized shape [Class: "O_ghillie_ard_F"; Shape: "a3\characters_f_mark\opfor\o_fullghillie_f.p3d";]
+15:11:49 Deinitialized shape [Class: "O_ghillie_sard_F"; Shape: "a3\characters_f_mark\opfor\o_fullghillie_f.p3d";]
+15:11:49 Deinitialized shape [Class: "I_G_Story_Protagonist_F"; Shape: "a3\characters_f_epb\guerrilla\ig_guerrilla5_1.p3d";]
+15:11:49 Deinitialized shape [Class: "C_man_hunter_1_F"; Shape: "a3\characters_f\civil\c_hunter_f.p3d";]
+15:11:49 Deinitialized shape [Class: "I_Survivor_F"; Shape: "a3\characters_f_beta\indep\ia_soldier_01.p3d";]
+15:11:49 Deinitialized shape [Class: "I_soldier_F"; Shape: "a3\characters_f_beta\indep\ia_soldier_01.p3d";]
+15:11:49 Deinitialized shape [Class: "I_Soldier_lite_F"; Shape: "a3\characters_f_beta\indep\ia_soldier_02.p3d";]
+15:11:49 Deinitialized shape [Class: "B_G_engineer_F"; Shape: "a3\characters_f_gamma\guerrilla\ig_guerrilla2_1.p3d";]
+15:11:49 Deinitialized shape [Class: "B_G_medic_F"; Shape: "a3\characters_f_gamma\guerrilla\ig_guerrilla2_1.p3d";]
+15:11:49 Deinitialized shape [Class: "I_G_engineer_F"; Shape: "a3\characters_f_gamma\guerrilla\ig_guerrilla2_1.p3d";]
+15:11:49 Deinitialized shape [Class: "I_G_Soldier_AR_F"; Shape: "a3\characters_f_gamma\guerrilla\ig_guerrilla2_1.p3d";]
+15:11:49 Deinitialized shape [Class: "I_G_Soldier_F"; Shape: "a3\characters_f_gamma\guerrilla\ig_guerrilla1_1.p3d";]
+15:11:49 Deinitialized shape [Class: "B_G_Soldier_F"; Shape: "a3\characters_f_gamma\guerrilla\ig_guerrilla1_1.p3d";]
+15:11:49 Deinitialized shape [Class: "I_officer_F"; Shape: "a3\characters_f_beta\indep\ia_officer.p3d";]
+15:11:49 Deinitialized shape [Class: "O_V_Soldier_TL_ghex_F"; Shape: "a3\characters_f_exp\opfor\o_viper.p3d";]
+15:11:49 Deinitialized shape [Class: "B_recon_F"; Shape: "a3\characters_f\blufor\b_soldier_01.p3d";]
+15:11:49 Deinitialized shape [Class: "B_Soldier_F"; Shape: "a3\characters_f\blufor\b_soldier_01.p3d";]
+15:11:49 Deinitialized shape [Class: "B_CTRG_soldier_GL_LAT_F"; Shape: "a3\characters_f\blufor\b_soldier_01.p3d";]
+15:11:49 Deinitialized shape [Class: "B_sniper_F"; Shape: "a3\characters_f\blufor\b_sniper.p3d";]
+15:11:49 Deinitialized shape [Class: "I_G_resistanceLeader_F"; Shape: "a3\characters_f_epb\guerrilla\ig_guerrilla4_1.p3d";]
+15:11:49 Deinitialized shape [Class: "I_G_Soldier_LAT_F"; Shape: "a3\characters_f_bootcamp\guerrilla\ig_guerrilla_6_1.p3d";]
+15:11:49 Deinitialized shape [Class: "B_G_Soldier_LAT_F"; Shape: "a3\characters_f_bootcamp\guerrilla\ig_guerrilla_6_1.p3d";]
+15:11:49 Deinitialized shape [Class: "O_Soldier_F"; Shape: "a3\characters_f\opfor\o_soldier_01.p3d";]
+15:11:49 Deinitialized shape [Class: "O_Soldier_unarmed_F"; Shape: "a3\characters_f\opfor\o_soldier_01.p3d";]
+15:11:49 Deinitialized shape [Class: "O_crew_F"; Shape: "a3\characters_f\opfor\o_soldier_01.p3d";]
+15:11:49 Deinitialized shape [Class: "I_ghillie_lsh_F"; Shape: "a3\characters_f_mark\indep\i_fullghillie_f.p3d";]
+15:11:49 Deinitialized shape [Class: "I_ghillie_ard_F"; Shape: "a3\characters_f_mark\indep\i_fullghillie_f.p3d";]
+15:11:49 c:\w\stable\futura\lib\network\networkserver.cpp ClearNetServer:NOT IMPLEMENTED - briefing!
+15:11:50 Extensions:
+15:11:50   armalog (.\armalog.dll) [È‚•6TS0¸?ò¯/0Þˆ"]
+
+15:11:50   updatearmalog (.\updatearmalog.dll) [Ð‚•6ˆME]
+
+15:11:50   extDB2 (D:\A3_Server_Exile\@ExileServer\extDB2.dll) [È‚•6TS0¸?ò¯/øÖˆ"]
+
